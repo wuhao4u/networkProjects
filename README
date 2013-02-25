@@ -1,0 +1,69 @@
+Server:
+  Usage:
+    ./lab1_server
+
+  Game play:
+    none
+
+  Log:
+<169 adriatic:~/cse422/lab1/lab1_sol >./lab1_server
+[SYS] Parent process for TCP communication.
+[TCP] Bulls and Cows game server started...
+[TCP] Port: 58592
+[SYS] child process forked.
+[TCP] New connection granted.
+[TCP] Recv: JOIN 
+[UDP:56059] Gameplay server started.
+[TCP] Sent: JOIN_GRANT 56059
+[UDP:56059] A new game is started.
+[UDP:56059] Rcvd: GUESS 0123
+[UDP:56059] Sent: RESPONSE 1A1B
+[UDP:56059] Rcvd: GUESS 4567
+[UDP:56059] Sent: RESPONSE 0A1B
+[UDP:56059] Rcvd: GUESS 1290
+[UDP:56059] Sent: 301 0A3B
+[UDP:56059] Rcvd: EXIT 
+[UDP:56059] Sent: EXIT_GRANT Exit granted, goodbye.
+[UDP:56059] Player has left the game.
+[SYS] child process terminated.
+
+Client:
+  Usage:
+    ./lab1_client -p <tcp_port> -s <server_addr>
+
+  Game play:
+    - guess
+      GUESS <guess_number>
+    - exit
+      EXIT
+
+  Log:
+<199 black:~/cse422/lab1/lab1_sol >./lab1_client -s adriatic.cse.msu.edu -p 58592
+[TCP] Bulls and Cows client started...
+[TCP] Connecting to server: adriatic.cse.msu.edu:58592
+[TCP] Sent: JOIN 
+[TCP] Rcvd: JOIN_GRANT 56059
+[UDP] Guesses will be sent to: adriatic.cse.msu.edu at port:56059
+[GAM] A new secret number is generated.
+[GAM] Please start guessing!
+[CMD] GUESS 01234
+[GAM] The secret number has to be 4-digits.
+[CMD] GUESS 0123
+[UDP] Sent: GUESS 0123
+[UDP] Rcvd: RESPONSE 1A1B
+[GAM] You guess 0123 and the response is 1A1B
+[CMD] GUESS 4567
+[UDP] Sent: GUESS 4567
+[UDP] Rcvd: RESPONSE 0A1B
+[GAM] You guess 4567 and the response is 0A1B
+[CMD] GUESS 90
+[GAM] The secret number has to be 4-digits.
+[CMD] GUESS 1290
+[UDP] Sent: GUESS 1290
+[UDP] Rcvd: RESPONSE 0A3B
+[GAM] You guess 1290 and the response is 0A3B
+[CMD] XIT
+[GAM] Invalid command.
+[CMD] EXIT
+[UDP] Sent: EXIT 
+[UDP] Rcvd: EXIT_GRANT Exit granted, goodbye.
