@@ -9,7 +9,7 @@ BUFFERSIZE = 256
 HOSTNAME = "cs5700f16.ccs.neu.edu"
 PORTNUM_NON_SSL = 27993
 PORTNUM_SSL = 27994
-NUID = str(001606723)
+NUID = str(123456789)
 
 def calculate(msgList):
     x = int(msgList[2])
