@@ -1,0 +1,72 @@
+Project 2: Web Crawler
+A web crawler that gathers data from a fake social networking website.
+
+Project Description:
+http://david.choffnes.com/classes/cs4700fa16/project2.php
+
+
+High-level approach:
+We separated our program into 6 modules:
+1.  Web crawler
+This contains the main function for the program. Analyzing the input command, creating socket, and direct the crawling process.
+2.  Communicator
+This module assembles the http GET requests based on given parameters, then sends the requests, finally return the response as string.
+3.  Login
+Handles the login process. Getting the cookies information and send POST request to login to the fakebook site.
+4.  Searcher
+Slice and dice the http response then search the parts of it. Finally return the desired information (url, secret flags, session id, etc.).
+5.  Cookies manager
+This module stores and updates the csrf token and session id for the crawler to assemble requests.
+
+Challenges we faced:
+1.  Login
+The login process was quite more complex than we expected.
+We did not know where to get the csrf token and session id, until later we carefully study that the login requests and response from the browser.
+
+2.  Cookie management
+We have been using the cookie copied from the browser's requests in the beginning.
+Although it worked fine temporarily, but we ended up changing it after we realized the expiration date attribute of cookies.
+
+3.  Connection Closed Issue
+We had hard time figuring out how to handle the "500 INTERNAL SERVER ERROR" response.
+Our crawler would mysteriously stop receiving http responses after crawling for a while, and we had hard times finding out the reason.
+
+How we tested our code:
+We designed our project iteratively, which means that we implemented and tested the features iteratively.
+Most of the tests were done directly with the server
+
+1. We first developed the Communicator feature. This part was tested directly on the server. We sent a GET request to the login page
+   The test is successful when we receive the page as a string
+
+2. We then developed the Login feature, we decided that the test is successful when we receive the root page after POST. 
+   However, we encountered a failure randomly. We later acknowledge that the server will randomly send errors, so we let the socket
+   re-try a POST
+
+3. After that, we developed the Searcher feature. Before calling these fuctions in the main function, we conduct a unit test for 
+   each of the function. Below are some examples
+   test1: search_url   input : "<a href="http://www.google.com">"
+                       output: none
+   test2: search_url   input : "<a href="http://fakebook/123456>"
+                       output: "http://ccs.neu.edu/fakebook/123456"
+   test3: search_flag  input : """<h2 class='secret_flag' style="color:red">FLAG: BoomShakalala</h2>"""
+                       output: print BoomShakalala
+   test4: search_flag  input : "123"
+                       output: print nothing
+   test5: search_status input: "200 OK"
+                       output: "200 OK"
+          NOTE: the inputs can be set to be various status codes
+   test6: search_status input: " "
+                       output: " "
+   test7: search_csrftoken
+                        input: "csrftoken=000"
+                       output: "000"  
+   In this way, we test all the funtions in fbSearcher.py
+
+4. The Integrated Test:
+   After completing the implementation of the whole web-crawler, we test it with the server.
+   The standard input is "./webcrawler [NU_ID] [PASSWORD]", the standard output is five secret flags printed on the console in
+   10 minutes.
+   At first, we can not handle 500 Internal Server Error. We then figured out that we should initiate the connection each time
+   it is closed.
+   After that, we can succssfully get five flags.
+   Our project can search through all the pages around 5 minutes, which meets the requirement. 

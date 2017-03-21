@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Java - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Java","wgTitle":"Java","wgCurRevisionId":46565,"wgRevisionId":46565,"wgArticleId":46565,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Java","Greater Sunda Islands"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Java","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Java skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Java</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+</p><p><a href="/w/index.php?title=Template:Infobox_islands&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox islands (page does not exist)">Template:Infobox islands</a>
+</p><p><a href="/w/index.php?title=Template:Religion_at_Java&amp;action=edit&amp;redlink=1" class="new" title="Template:Religion at Java (page does not exist)">Template:Religion at Java</a>
+</p><p><b>Java</b> (<a href="/w/index.php?title=Template:Lang-id&amp;action=edit&amp;redlink=1" class="new" title="Template:Lang-id (page does not exist)">Template:Lang-id</a>; <a href="/w/index.php?title=Template:Lang-jv&amp;action=edit&amp;redlink=1" class="new" title="Template:Lang-jv (page does not exist)">Template:Lang-jv</a>) is an <a href="/wiki/Island" title="Island">island</a> of <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>. With a population of 135 million (excluding the 3.6 million on the island of <a href="/w/index.php?title=Madura&amp;action=edit&amp;redlink=1" class="new" title="Madura (page does not exist)">Madura</a> which is administered as part of the provinces of Java), Java is the world's <a href="/wiki/List_of_islands_by_population" title="List of islands by population">most populous island</a>, and one of the most <a href="/w/index.php?title=Densely_populated&amp;action=edit&amp;redlink=1" class="new" title="Densely populated (page does not exist)">densely populated</a> places in the world. Java is the home of 60 percent of the Indonesian population. The Indonesian <a href="/w/index.php?title=Capital_(political)&amp;action=edit&amp;redlink=1" class="new" title="Capital (political) (page does not exist)">capital</a> city, <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>, is located on western Java. Much of Indonesian history took place on Java. It was the center of powerful <a href="/wiki/Hindu" title="Hindu">Hindu</a>-<a href="/wiki/Buddhist" title="Buddhist" class="mw-redirect">Buddhist</a> empires, the <a href="/w/index.php?title=The_spread_of_Islam_in_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="The spread of Islam in Indonesia (page does not exist)">Islamic sultanates</a>, and the core of the <a href="/wiki/Colony" title="Colony">colonial</a> <a href="/w/index.php?title=Dutch_East_Indies&amp;action=edit&amp;redlink=1" class="new" title="Dutch East Indies (page does not exist)">Dutch East Indies</a>. Java was also the center of the <a href="/wiki/Indonesian_National_Revolution" title="Indonesian National Revolution">Indonesian struggle for independence</a> during the 1930s and 40s. Java dominates Indonesia <a href="/wiki/Politics_of_Indonesia" title="Politics of Indonesia">politically</a>, <a href="/wiki/Economy_of_Indonesia" title="Economy of Indonesia">economically</a> and <a href="/wiki/Culture_of_Indonesia" title="Culture of Indonesia">culturally</a>.
+</p><p>Formed mostly <a href="/wiki/Volcanic_island" title="Volcanic island" class="mw-redirect">as the result of volcanic eruptions</a>, Java is the <a href="/wiki/List_of_islands_by_area" title="List of islands by area">13th largest island</a> in the world and the fifth largest island in Indonesia. A chain of volcanic mountains forms an east-west spine along the island. It has three main languages, though <a href="/wiki/Javanese_language" title="Javanese language">Javanese</a> is dominant, and it is the native language of about 60 million people in Indonesia, most of whom live on Java. Most of its residents are <a href="/wiki/Multilingualism" title="Multilingualism">bilingual</a>, with <a href="/wiki/Indonesian_language" title="Indonesian language">Indonesian</a> as their first or second languages. While the majority of the people of Java are <a href="/wiki/Muslim" title="Muslim">Muslim</a>, Java has a diverse mixture of religious beliefs, ethnicities, and cultures.
+</p><p>Java is divided into four provinces, <a href="/wiki/West_Java" title="West Java">West Java</a>, <a href="/wiki/Central_Java" title="Central Java">Central Java</a>, <a href="/wiki/East_Java" title="East Java">East Java</a>, and <a href="/wiki/Banten" title="Banten">Banten</a>, and also two special regions, <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a> and <a href="/w/index.php?title=Yogyakarta_(special_region)&amp;action=edit&amp;redlink=1" class="new" title="Yogyakarta (special region) (page does not exist)">Yogyakarta</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Natural_environment"><span class="tocnumber">3</span> <span class="toctext">Natural environment</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Administrative_division"><span class="tocnumber">4</span> <span class="toctext">Administrative division</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#History"><span class="tocnumber">5</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Hindu-Buddhist_kingdoms_era"><span class="tocnumber">5.1</span> <span class="toctext">Hindu-Buddhist kingdoms era</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Spread_of_Islam_and_rise_of_Islamic_sultanates"><span class="tocnumber">5.2</span> <span class="toctext">Spread of Islam and rise of Islamic sultanates</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Colonial_periods"><span class="tocnumber">5.3</span> <span class="toctext">Colonial periods</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Independence"><span class="tocnumber">5.4</span> <span class="toctext">Independence</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Demography"><span class="tocnumber">6</span> <span class="toctext">Demography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Ethnicity_and_culture"><span class="tocnumber">6.1</span> <span class="toctext">Ethnicity and culture</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Languages"><span class="tocnumber">6.2</span> <span class="toctext">Languages</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Religion"><span class="tocnumber">6.3</span> <span class="toctext">Religion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Economy"><span class="tocnumber">7</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Sources"><span class="tocnumber">10</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Further_reading"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span></h2>
+<p>The origins of the name "Java" are not clear. One possibility is that the island was named after the <a href="/wiki/Foxtail_millet" title="Foxtail millet"><i>jáwa-wut</i></a> plant, which was said to be common in the island during the time, and that prior to Indianization the island had different names.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> There are other possible sources: the word <i>jaú</i> and its variations mean "beyond" or "distant".<sup id="cite_ref-Raffles.2C_Thomas_E._1965._Page_3_2-0" class="reference"><a href="#cite_note-Raffles.2C_Thomas_E._1965._Page_3-2">[2]</a></sup> And, in <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> <i>yava</i> means barley, a plant for which the island was famous.<sup id="cite_ref-Raffles.2C_Thomas_E._1965._Page_3_2-1" class="reference"><a href="#cite_note-Raffles.2C_Thomas_E._1965._Page_3-2">[2]</a></sup> "Yawadvipa" is mentioned in <a href="/wiki/India" title="India">India</a>'s earliest epic, the <a href="/wiki/Ramayana" title="Ramayana">Ramayana</a>. Sugriva, the chief of <a href="/w/index.php?title=Rama&amp;action=edit&amp;redlink=1" class="new" title="Rama (page does not exist)">Rama</a>'s army dispatched his men to Yawadvipa, the island of Java, in search of <a href="/wiki/Sita" title="Sita">Sita</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> It was hence referred to in Indian by the Sanskrit name "yāvaka dvīpa" (dvīpa = island). Another source states that the "Java" word is derived from a <a href="/w/index.php?title=Proto-Austronesian_language&amp;action=edit&amp;redlink=1" class="new" title="Proto-Austronesian language (page does not exist)">Proto-Austronesian</a> root word, meaning 'home'.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Geography">Geography</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Semeru_Bromo_Temple.JPG" title="File:Semeru Bromo Temple.JPG">File:Semeru Bromo Temple.JPG</a>  <div class="thumbcaption"><a href="/w/index.php?title=Semeru&amp;action=edit&amp;redlink=1" class="new" title="Semeru (page does not exist)">Mount Semeru</a> and <a href="/wiki/Mount_Bromo" title="Mount Bromo">Bromo</a> in <a href="/wiki/East_Java" title="East Java">East Java</a></div></div></div>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Java lies between <a href="/wiki/Sumatra" title="Sumatra">Sumatra</a> to the west and <a href="/wiki/Bali" title="Bali">Bali</a> to the east. <a href="/wiki/Borneo" title="Borneo">Borneo</a> lies to the north and <a href="/wiki/Christmas_Island" title="Christmas Island">Christmas Island</a> is to the south. It is the <a href="/wiki/List_of_islands_by_area" title="List of islands by area">world's 13th largest island</a>. Java is surrounded by <a href="/wiki/Java_Sea" title="Java Sea">Java Sea</a> in the north, <a href="/wiki/Sunda_Strait" title="Sunda Strait">Sunda Strait</a> in the west, <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> in the south and <a href="/w/index.php?title=Bali_Strait&amp;action=edit&amp;redlink=1" class="new" title="Bali Strait (page does not exist)">Bali Strait</a> and <a href="/w/index.php?title=Madura_Strait&amp;action=edit&amp;redlink=1" class="new" title="Madura Strait (page does not exist)">Madura Strait</a> in the east.
+</p><p>Java is almost entirely of <a href="/wiki/Volcano" title="Volcano">volcanic</a> origin; it contains thirty-eight <a href="/wiki/Mountains" title="Mountains" class="mw-redirect">mountains</a> forming an east-west spine which have at one time or another been active <a href="/wiki/Volcano" title="Volcano">volcanoes</a>. The highest volcano in Java is Mount <a href="/w/index.php?title=Semeru&amp;action=edit&amp;redlink=1" class="new" title="Semeru (page does not exist)">Semeru</a> (3,676 m). The most active volcano in Java and also in Indonesia is <a href="/wiki/Mount_Merapi" title="Mount Merapi">Mount Merapi</a> (3,968 m). <i>See <a href="/w/index.php?title=Volcanoes_of_Java&amp;action=edit&amp;redlink=1" class="new" title="Volcanoes of Java (page does not exist)">Volcanoes of Java</a>.</i>
+</p><p>More mountains and highlands help to split the interior into a series of relatively isolated regions suitable for <a href="/wiki/Paddy_field" title="Paddy field">wet-rice</a> cultivation; the rice lands of Java are among the richest in the world.<sup id="cite_ref-RICKLEFS_p15_5-0" class="reference"><a href="#cite_note-RICKLEFS_p15-5">[5]</a></sup>  Java was the first place where <a href="/w/index.php?title=Indonesian_coffee&amp;action=edit&amp;redlink=1" class="new" title="Indonesian coffee (page does not exist)">Indonesian coffee</a> was grown, starting in 1699.  Today, <a href="/wiki/Coffea_arabica" title="Coffea arabica">Coffea arabica</a> is grown on the Ijen Plateau by small-holders and larger plantations.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:COLLECTIE_TROPENMUSEUM_De_weg_van_Buitenzorg_naar_de_Preanger_Regentschappen_TMnr_3728-429c.jpg" title="File:COLLECTIE TROPENMUSEUM De weg van Buitenzorg naar de Preanger Regentschappen TMnr 3728-429c.jpg">File:COLLECTIE TROPENMUSEUM De weg van Buitenzorg naar de Preanger Regentschappen TMnr 3728-429c.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=Parahyangan&amp;action=edit&amp;redlink=1" class="new" title="Parahyangan (page does not exist)">Parahyangan</a> highland near <a href="/wiki/Buitenzorg" title="Buitenzorg" class="mw-redirect">Buitenzorg</a>, c. 1865–1872</div></div></div>
+<p>The area of Java is approximately 150,000&#160;km<sup>2</sup>.<sup id="cite_ref-MONK_7_6-0" class="reference"><a href="#cite_note-MONK_7-6">[6]</a></sup> It is about 650 miles (1,050&#160;km) long and up to 130 miles (210&#160;km) wide. The island's longest <a href="/w/index.php?title=River&amp;action=edit&amp;redlink=1" class="new" title="River (page does not exist)">river</a> is the 600&#160;km long <a href="/w/index.php?title=Solo_River_(Java)&amp;action=edit&amp;redlink=1" class="new" title="Solo River (Java) (page does not exist)">Solo River</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> The river rises from its source in central Java at the <a href="/w/index.php?title=Mount_Lawu&amp;action=edit&amp;redlink=1" class="new" title="Mount Lawu (page does not exist)">Lawu</a> volcano, then flows north and eastward to its mouth in the <a href="/wiki/Java_Sea" title="Java Sea">Java Sea</a> near the city of <a href="/wiki/Surabaya" title="Surabaya">Surabaya</a>.
+Temperatures throughout the year average -22°C to 29°C and humidity average 75%. The northern coastal plains are normally hotter averaging 34°C during the day in the <a href="/wiki/Dry_season" title="Dry season">dry season</a>. The south coast is generally cooler than the north, and highland areas inland are cooler again. The <a href="/wiki/Wet_season" title="Wet season">wet season</a> begins in October ending in April during which rain falls mostly in the afternoons and intermittently during other parts of the year. The wettest months are January and February.
+</p><p>West Java is wetter than East Java and mountainous regions receive much higher rainfall. The <a href="/w/index.php?title=Parahyangan&amp;action=edit&amp;redlink=1" class="new" title="Parahyangan (page does not exist)">Parahyangan</a> highlands of West Java receive over 4,000&#160;mm annually, while the north coast of East Java receives 900&#160;mm annually.
+</p>
+<h2><span class="mw-headline" id="Natural_environment">Natural environment</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Java-1934_-2.jpg" title="File:Java-1934 -2.jpg">File:Java-1934 -2.jpg</a>  <div class="thumbcaption">Male <a href="/wiki/Javan_rhinoceros" title="Javan rhinoceros">Javan rhino</a> shot on 1934 in West Java. Today only small numbers of Javan rhino survive in <a href="/wiki/Ujung_Kulon_National_Park" title="Ujung Kulon National Park">Ujung Kulon</a>; it is the world's rarest rhino.</div></div></div>
+<p>The <a href="/wiki/Natural_environment" title="Natural environment">natural environment</a> of Java is <a href="/wiki/Tropical_rainforest" title="Tropical rainforest">tropical rainforest</a>, with ecosystems ranging from coastal <a href="/wiki/Mangrove" title="Mangrove">mangrove</a> forests on the north coast, rocky coastal cliffs on the southern coast, and low-lying tropical forests to high altitude rainforests on the slopes of mountainous volcanic regions in the interior. The Javan environment and climate gradually alters from west to east; from wet and humid dense rainforest in western parts, to a dry <a href="/wiki/Savanna" title="Savanna">savanna</a> environment in the east, corresponding to the climate and rainfall in these regions.
+</p><p>Originally Javan wildlife supported a rich biodiversity, where numbers of <a href="/wiki/Endemic" title="Endemic" class="mw-redirect">endemic</a> species of flora and fauna flourished; such as the <a href="/wiki/Javan_rhinoceros" title="Javan rhinoceros">Javan rhinoceros</a>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> <a href="/wiki/Banteng" title="Banteng">Javan banteng</a>, <a href="/w/index.php?title=Java_warty_pig&amp;action=edit&amp;redlink=1" class="new" title="Java warty pig (page does not exist)">Java warty pig</a>, <a href="/w/index.php?title=Nisaetus_bartelsi&amp;action=edit&amp;redlink=1" class="new" title="Nisaetus bartelsi (page does not exist)">Javan hawk-eagle</a>, <a href="/wiki/Pavo_muticus" title="Pavo muticus" class="mw-redirect">Javan peafowl</a>, <a href="/wiki/Silvery_gibbon" title="Silvery gibbon">Javan silvery gibbon</a>, <a href="/w/index.php?title=Javan_lutung&amp;action=edit&amp;redlink=1" class="new" title="Javan lutung (page does not exist)">Javan lutung</a>, <a href="/w/index.php?title=Java_mouse-deer&amp;action=edit&amp;redlink=1" class="new" title="Java mouse-deer (page does not exist)">Java mouse-deer</a>, <a href="/wiki/Javan_rusa" title="Javan rusa">Javan rusa</a>, and <a href="/w/index.php?title=Javan_leopard&amp;action=edit&amp;redlink=1" class="new" title="Javan leopard (page does not exist)">Javan leopard</a>. With over 450 species of birds and 37 endemic species, Java is a birdwatcher's paradise.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p><p>However, Java is also home to large numbers of humans. With an estimated population of 114,733,500 in 1995, Java contains well over half of Indonesia's population.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Since ancient times, people have opened the rainforest, altered the ecosystem, shaped the landscapes and created <a href="/wiki/Rice_paddy" title="Rice paddy" class="mw-redirect">rice paddy</a> and terraces to support the growing population. Javan rice terraces have existed for more than a millennium, and had supported ancient agricultural kingdoms. The growing human population has put severe pressure on Java's wildlife, as rainforests were diminished and confined to highland slopes or isolated peninsulas. Some of Java's endemic species are now critically endangered, with some already extinct; Java used to have its own endemic <a href="/wiki/Javan_tiger" title="Javan tiger">tiger subspecies</a> that went extinct in the mid-1970s. Today, several national parks exist in Java that protect the remnants of its fragile wildlife, such as <a href="/wiki/Ujung_Kulon_National_Park" title="Ujung Kulon National Park">Ujung Kulon</a>, <a href="/w/index.php?title=Mount_Halimun_Salak_National_Park&amp;action=edit&amp;redlink=1" class="new" title="Mount Halimun Salak National Park (page does not exist)">Mount Halimun-Salak</a>, <a href="/w/index.php?title=Gunung_Gede_Pangrango_National_Park&amp;action=edit&amp;redlink=1" class="new" title="Gunung Gede Pangrango National Park (page does not exist)">Gede Pangrango</a>, <a href="/wiki/Baluran_National_Park" title="Baluran National Park">Baluran</a>, <a href="/wiki/Meru_Betiri_National_Park" title="Meru Betiri National Park">Meru Betiri</a> and <a href="/wiki/Alas_Purwo_National_Park" title="Alas Purwo National Park">Alas Purwo</a>.
+</p>
+<h2><span class="mw-headline" id="Administrative_division">Administrative division</span></h2>
+<p>The island is administratively divided into four <a href="/wiki/Provinces_of_Indonesia" title="Provinces of Indonesia">provinces</a>:
+</p>
+<ul>
+<li> <a href="/wiki/Banten" title="Banten">Banten</a>, capital: <a href="/w/index.php?title=Serang&amp;action=edit&amp;redlink=1" class="new" title="Serang (page does not exist)">Serang</a>
+</li>
+<li> <a href="/wiki/West_Java" title="West Java">West Java</a>, capital: <a href="/wiki/Bandung" title="Bandung">Bandung</a>
+</li>
+<li> <a href="/wiki/Central_Java" title="Central Java">Central Java</a>, capital: <a href="/wiki/Semarang" title="Semarang">Semarang</a>
+</li>
+<li> <a href="/wiki/East_Java" title="East Java">East Java</a>, capital: <a href="/wiki/Surabaya" title="Surabaya">Surabaya</a>
+</li>
+</ul>
+<p>and two special regions:
+</p>
+<ul>
+<li> <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>
+</li>
+<li> <a href="/w/index.php?title=Yogyakarta_(special_region)&amp;action=edit&amp;redlink=1" class="new" title="Yogyakarta (special region) (page does not exist)">Yogyakarta</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:MerbabuSawah.jpg" title="File:MerbabuSawah.jpg">File:MerbabuSawah.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=Mount_Merbabu&amp;action=edit&amp;redlink=1" class="new" title="Mount Merbabu (page does not exist)">Mount Merbabu</a> surrounded by rice fields. Java's volcanic topography and rich agricultural lands are the fundamental factors in its history.</div></div></div>
+<p>Fossilised remains of <i><a href="/w/index.php?title=Homo_erectus&amp;action=edit&amp;redlink=1" class="new" title="Homo erectus (page does not exist)">Homo erectus</a></i>, popularly known as the "<a href="/wiki/Java_Man" title="Java Man">Java Man</a>", dating back 1.7 million years were found along the banks of the <a href="/w/index.php?title=Bengawan_Solo_River&amp;action=edit&amp;redlink=1" class="new" title="Bengawan Solo River (page does not exist)">Bengawan Solo River</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+</p><p>The island's exceptional fertility and rainfall allowed the development of wet-field rice cultivation, which required sophisticated levels of cooperation between villages. Out of these village alliances, small kingdoms developed. The chain of volcanic mountains and associated highlands running the length of Java kept its interior regions and peoples separate and relatively isolated.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Before the advent of Islamic states and European colonialism, the rivers provided the main means of communication, although Java's many rivers are mostly short. Only the <a href="/w/index.php?title=Brantas_River&amp;action=edit&amp;redlink=1" class="new" title="Brantas River (page does not exist)">Brantas</a> and Sala rivers could provide long-distance communication, and this way their valleys supported the centres of major kingdoms. A system of roads, permanent bridges and toll gates is thought to have been established in Java by at least the mid-17th century. Local powers could disrupt the routes as could the wet season and road use was highly dependent on constant maintenance. Subsequently, communication between Java's population was difficult.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Hindu-Buddhist_kingdoms_era">Hindu-Buddhist kingdoms era</span></h3>
+<p>The <a href="/w/index.php?title=Tarumanagara&amp;action=edit&amp;redlink=1" class="new" title="Tarumanagara (page does not exist)">Taruma</a> and <a href="/w/index.php?title=Sunda_kingdom&amp;action=edit&amp;redlink=1" class="new" title="Sunda kingdom (page does not exist)">Sunda</a> kingdoms of western Java appeared in the 4th and 7th centuries respectively. However, the first major principality was the <a href="/wiki/Medang_Kingdom" title="Medang Kingdom">Medang Kingdom</a> which was founded in central Java at the beginning of the 8th century. Medang's religion centred on the Hindu god <a href="/wiki/Shiva" title="Shiva">Shiva</a>, and the kingdom produced some of Java's earliest Hindu temples on the <a href="/w/index.php?title=Dieng_Plateau&amp;action=edit&amp;redlink=1" class="new" title="Dieng Plateau (page does not exist)">Dieng Plateau</a>. Around the 8th century the <a href="/wiki/Sailendra" title="Sailendra">Sailendra</a> dynasty rose in <a href="/w/index.php?title=Kedu_Plain&amp;action=edit&amp;redlink=1" class="new" title="Kedu Plain (page does not exist)">Kedu Plain</a> and become the patron of <a href="/w/index.php?title=Mahayana&amp;action=edit&amp;redlink=1" class="new" title="Mahayana (page does not exist)">Mahayana</a> <a href="/w/index.php?title=Buddhism&amp;action=edit&amp;redlink=1" class="new" title="Buddhism (page does not exist)">Buddhism</a>. This ancient kingdom built monuments such as the 9th century <a href="/wiki/Borobudur" title="Borobudur">Borobudur</a> and <a href="/wiki/Prambanan" title="Prambanan">Prambanan</a> in central Java.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Prambanan_Trimurti.jpg" title="File:Prambanan Trimurti.jpg">File:Prambanan Trimurti.jpg</a>  <div class="thumbcaption"><a href="/wiki/Prambanan" title="Prambanan">Prambanan</a> Hindu temple</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Stupa_Borobudur.jpg" title="File:Stupa Borobudur.jpg">File:Stupa Borobudur.jpg</a>  <div class="thumbcaption">The 9th century <a href="/wiki/Borobudur" title="Borobudur">Borobudur</a> Buddhist <a href="/wiki/Stupa" title="Stupa">stupa</a> in Central Java</div></div></div>
+<p>Around the 10th century the centre of power shifted from central to eastern Java. The eastern Javanese kingdoms of <a href="/w/index.php?title=Kediri_(historical_kingdom)&amp;action=edit&amp;redlink=1" class="new" title="Kediri (historical kingdom) (page does not exist)">Kediri</a>, <a href="/wiki/Singhasari" title="Singhasari">Singhasari</a> and <a href="/wiki/Majapahit" title="Majapahit">Majapahit</a> were mainly dependent on rice agriculture, yet also pursued trade within the Indonesian archipelago, and with China and India.
+</p><p>Majapahit was established by <a href="/w/index.php?title=Raden_Wijaya&amp;action=edit&amp;redlink=1" class="new" title="Raden Wijaya (page does not exist)">Wijaya</a> and by the end of the reign of <a href="/wiki/Hayam_Wuruk" title="Hayam Wuruk">Hayam Wuruk</a> (r. 1350-89) it claimed sovereignty over the entire Indonesian archipelago, although control was likely limited to Java, Bali and Madura. Hayam Wuruk's prime minister, <a href="/wiki/Gajah_Mada" title="Gajah Mada">Gajah Mada</a>, led many of the kingdom's territorial conquests. Previous Javanese kingdoms had their power based in agriculture, however, Majapahit took control of ports and shipping lanes and became Java's first commercial empire. With the death of Hayam Wuruk and the <a href="/w/index.php?title=The_spread_of_Islam_in_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="The spread of Islam in Indonesia (page does not exist)">coming of Islam to Indonesia</a>, Majapahit went into decline.
+</p>
+<h3><span class="mw-headline" id="Spread_of_Islam_and_rise_of_Islamic_sultanates">Spread of Islam and rise of Islamic sultanates</span></h3>
+<p>By the end of the 16th century, Islam, through conversion firstly amongst the island's elite, had surpassed Hinduism and Buddhism as the dominant religion in Java. During this era, the Islamic kingdoms of <a href="/w/index.php?title=Demak_Sultanate&amp;action=edit&amp;redlink=1" class="new" title="Demak Sultanate (page does not exist)">Demak</a>, <a href="/w/index.php?title=Sultanate_of_Cirebon&amp;action=edit&amp;redlink=1" class="new" title="Sultanate of Cirebon (page does not exist)">Cirebon</a>, and <a href="/w/index.php?title=Banten_Sultanate&amp;action=edit&amp;redlink=1" class="new" title="Banten Sultanate (page does not exist)">Banten</a> were ascendant. The <a href="/wiki/Mataram_Sultanate" title="Mataram Sultanate">Mataram Sultanate</a> became the dominant power of central and eastern Java at the end of the 16th century. The principalities of Surabaya and Cirebon were eventually subjugated such that only Mataram and Banten were left to face the Dutch in the 17th century.
+</p>
+<h3><span class="mw-headline" id="Colonial_periods">Colonial periods</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:COLLECTIE_TROPENMUSEUM_Thee-kweekbedden_zonder_afdak_Java_TMnr_10011931.jpg" title="File:COLLECTIE TROPENMUSEUM Thee-kweekbedden zonder afdak Java TMnr 10011931.jpg">File:COLLECTIE TROPENMUSEUM Thee-kweekbedden zonder afdak Java TMnr 10011931.jpg</a>  <div class="thumbcaption">Tea plantation in Java during <a href="/w/index.php?title=Dutch_East_Indies&amp;action=edit&amp;redlink=1" class="new" title="Dutch East Indies (page does not exist)">Dutch colonial period</a>, in or before 1926</div></div></div>
+<p>Java's contact with the European colonial powers began in 1522 with <a href="/w/index.php?title=Luso_Sundanese_Treaty&amp;action=edit&amp;redlink=1" class="new" title="Luso Sundanese Treaty (page does not exist)">a treaty</a> between the <a href="/w/index.php?title=Sunda_kingdom&amp;action=edit&amp;redlink=1" class="new" title="Sunda kingdom (page does not exist)">Sunda kingdom</a> and the Portuguese in <a href="/w/index.php?title=Portuguese_Malacca&amp;action=edit&amp;redlink=1" class="new" title="Portuguese Malacca (page does not exist)">Malacca</a>. After its failure the <a href="/w/index.php?title=The_Portuguese_in_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="The Portuguese in Indonesia (page does not exist)">Portuguese presence</a> was confined to Malacca, and to the eastern islands.
+In 1596, a four-ship expedition led by <a href="/wiki/Cornelis_de_Houtman" title="Cornelis de Houtman">Cornelis de Houtman</a> was the first Dutch contact with Indonesia.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> By the end of the 18th century the Dutch had extended their influence over the sultanates of the interior (see <a href="/w/index.php?title=Dutch_East_India_Company_in_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Dutch East India Company in Indonesia (page does not exist)">Dutch East India Company in Indonesia</a>). Internal conflict prevented the Javanese from forming effective alliances against the Dutch. Remnants of the Mataram survived as the Surakarta (Solo) and Yogyakarta principalities. Javanese kings claimed to rule with divine authority and the Dutch helped them to preserve remnants of a Javanese aristocracy by confirming them as regents or district officials within the colonial administration.
+</p><p>Java's major role during the early part of the colonial period was as a producer of <a href="/wiki/Rice" title="Rice">rice</a>. In spice producing islands like <a href="/wiki/Banda_Islands" title="Banda Islands">Banda</a>, rice was regularly imported from Java, to supply the deficiency in means of subsistence.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+</p><p>During <a href="/wiki/Napoleonic_wars" title="Napoleonic wars" class="mw-redirect">Napoleonic wars</a> in Europe, the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> fell under <a href="/w/index.php?title=France&amp;action=edit&amp;redlink=1" class="new" title="France (page does not exist)">France</a> Republic, and so did its colony in East Indies. During the short-lived <a href="/w/index.php?title=Daendels&amp;action=edit&amp;redlink=1" class="new" title="Daendels (page does not exist)">Daendels</a> administration (as French proxy rule on Java), the construction of <a href="/w/index.php?title=Great_Post_Road&amp;action=edit&amp;redlink=1" class="new" title="Great Post Road (page does not exist)">Java Great Post Road</a> was commenced in 1808. The road span from <a href="/w/index.php?title=Anyer&amp;action=edit&amp;redlink=1" class="new" title="Anyer (page does not exist)">Anyer</a> in Western Java to Panarukan in East Java served as a military supply route to defend Java from incoming British invasion.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+</p><p>In 1811, Java was <a href="/wiki/Invasion_of_Java_(1811)" title="Invasion of Java (1811)">captured by the British</a>, becoming a possession of the <a href="/wiki/British_Empire" title="British Empire">British Empire</a>, and Sir <a href="/wiki/Stamford_Raffles" title="Stamford Raffles">Stamford Raffles</a> was appointed as the island's Governor. In 1814, Java was returned to the Dutch under the terms of the <a href="/wiki/Treaty_of_Paris_(1814)" title="Treaty of Paris (1814)">Treaty of Paris</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+</p><p>In 1815, there may have been five million people in Java.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> In the second half of the 18th century, population spurts began in districts along the north-central coast of Java, and in the 19th century population grew rapidly across the island. Factors for the great population growth include the impact of Dutch colonial rule including the imposed end to civil war in Java, the increase in the area under rice cultivation, and the introduction of food plants such as <a href="/w/index.php?title=Casava&amp;action=edit&amp;redlink=1" class="new" title="Casava (page does not exist)">casava</a> and <a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">maize</a> which could sustain populations that could not afford rice.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Others attribute the growth to the taxation burdens and increased expansion of employment under the <a href="/w/index.php?title=Cultivation_System&amp;action=edit&amp;redlink=1" class="new" title="Cultivation System (page does not exist)">Cultivation System</a> to which couples responded by having more children in the hope of increasing their families' ability to pay tax and buy goods.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> <a href="/wiki/Cholera" title="Cholera">Cholera</a> claimed 100,000 lives in Java in 1820.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+</p><p>The advent of trucks and railways where there had previously only been buffalo and carts, telegraph systems, and more coordinated distribution systems under the colonial government all contributed to famine elimination in Java, and in turn, population growth. There were no significant famines in Java from the 1840s through to the <a href="/w/index.php?title=Japanese_occupation_of_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Japanese occupation of Indonesia (page does not exist)">Japanese occupation</a> in the 1940s.<sup id="cite_ref-Taylor_2003.2C_p._254_22-0" class="reference"><a href="#cite_note-Taylor_2003.2C_p._254-22">[22]</a></sup> Ethnological factors are also thought to have contributed to the increase in population. In Java, there was no absolute preference for boy babies which was significant in Java where agriculture depends on the labour of both men and women. Furthermore, the age of first marriage dropped during the 19th century thus increasing a woman's child bearing years.<sup id="cite_ref-Taylor_2003.2C_p._254_22-1" class="reference"><a href="#cite_note-Taylor_2003.2C_p._254-22">[22]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Independence">Independence</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Jakarta_Car_Free_Day.jpg" title="File:Jakarta Car Free Day.jpg">File:Jakarta Car Free Day.jpg</a>  <div class="thumbcaption">Central <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a></div></div></div>
+<p>Indonesian nationalism first took hold in Java in the early 20th century (see <a href="/w/index.php?title=Indonesian_National_Awakening&amp;action=edit&amp;redlink=1" class="new" title="Indonesian National Awakening (page does not exist)">Indonesian National Awakening</a>), and <a href="/wiki/Indonesian_National_Revolution" title="Indonesian National Revolution">the struggle to secure the country's independence</a> following <a href="/wiki/World_War_II" title="World War II">World War II</a> was centered in Java. <a href="/w/index.php?title=30_September_Movement&amp;action=edit&amp;redlink=1" class="new" title="30 September Movement (page does not exist)">The abortive coup</a> and <a href="/w/index.php?title=Indonesian_killings_of_1965-66&amp;action=edit&amp;redlink=1" class="new" title="Indonesian killings of 1965-66 (page does not exist)">the subsequent violent anti-communist purge</a> in 1965/66 largely took place in Java. The island has dominated Indonesian social, political and economic life, which has been the source of resentment of those residents in other islands. In 1998, preceding the fall of Suharto's 32-year presidency, <a href="/w/index.php?title=Jakarta_Riots_of_May_1998&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Riots of May 1998 (page does not exist)">large riots</a> targeted the <a href="/w/index.php?title=Chinese_Indonesian&amp;action=edit&amp;redlink=1" class="new" title="Chinese Indonesian (page does not exist)">Chinese Indonesians</a> in another series of pogroms.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Demography">Demography</span></h2>
+<p><a href="/w/index.php?title=Template:Historical_populations&amp;action=edit&amp;redlink=1" class="new" title="Template:Historical populations (page does not exist)">Template:Historical populations</a>
+</p><p>With a combined population of 136.5 million in the 2010 census (including Madura's 3.6 million),<sup id="cite_ref-JKTPOS_24-0" class="reference"><a href="#cite_note-JKTPOS-24">[24]</a></sup> and at current growth rates, 139 million combined in 2011, is the most populous island in the world and is home to 57% of Indonesia's population.<sup id="cite_ref-JKTPOS_24-1" class="reference"><a href="#cite_note-JKTPOS-24">[24]</a></sup> At 1,062 people per km² in 2010 it is also one of the most densely populated parts of the world.
+Though little population growth is registered in Central Java, East Java, and Yogyakarta, these regions have higher birth rates than one would assume due to mass emigration to the Western side of Java, Sumatra, Borneo, and Papua.  Approximately 45% of the population of Indonesia is ethnically Javanese.,<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Sundanese make a large portion of Java's population as well.
+</p><p>The dense Western third of the island (West Java, Banten, and DKI Jakarta) has an even higher population density exceeding 1,400 per km<sup>2</sup> and is taking up the lion's share of population growth of Java.<sup id="cite_ref-JKTPOS_24-2" class="reference"><a href="#cite_note-JKTPOS-24">[24]</a></sup>  It is home to 3 metropolitan areas, <a href="/w/index.php?title=Greater_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Greater Jakarta (page does not exist)">Greater Jakarta</a> (with outlying areas of Greater <a href="/w/index.php?title=Serang&amp;action=edit&amp;redlink=1" class="new" title="Serang (page does not exist)">Serang</a> and Greater <a href="/w/index.php?title=Sukabumi&amp;action=edit&amp;redlink=1" class="new" title="Sukabumi (page does not exist)">Sukabumi</a>), <a href="/w/index.php?title=Bandung_Metropolitan_Area&amp;action=edit&amp;redlink=1" class="new" title="Bandung Metropolitan Area (page does not exist)">Greater Bandung</a>, and Greater <a href="/wiki/Cirebon" title="Cirebon">Cirebon</a>.
+</p>
+<table class="wikitable sortable">
+
+<tr>
+<th> Province or Special Region
+</th>
+<th> Capital
+</th>
+<th> Area<br />km²<sup>2)</sup>
+</th>
+<th> Area<br />%
+</th>
+<th> Population<br /><a href="/wiki/Census" title="Census">Census</a> of 2000<sup id="cite_ref-citypop_26-0" class="reference"><a href="#cite_note-citypop-26">[26]</a></sup>
+</th>
+<th> Population<br /><a href="/wiki/Census" title="Census">Census</a> of 2010<sup id="cite_ref-citypop_26-1" class="reference"><a href="#cite_note-citypop-26">[26]</a></sup>
+</th>
+<th> Population<br />Density in 2010
+</th></tr>
+<tr>
+<td> <a href="/wiki/Banten" title="Banten">Banten</a>
+</td>
+<td> <a href="/w/index.php?title=Serang&amp;action=edit&amp;redlink=1" class="new" title="Serang (page does not exist)">Serang</a>
+</td>
+<td style="text-align:right;">9,160.7
+</td>
+<td style="text-align:right;">7.1
+</td>
+<td style="text-align:right;">8,098,277
+</td>
+<td style="text-align:right;">10,644,030
+</td>
+<td style="text-align:right;">1,162
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=DKI_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="DKI Jakarta (page does not exist)">DKI Jakarta</a>
+</td>
+<td> -
+</td>
+<td style="text-align:right;">664
+</td>
+<td style="text-align:right;">0.5
+</td>
+<td style="text-align:right;">8,361,079
+</td>
+<td style="text-align:right;">9,588,198
+</td>
+<td style="text-align:right;">14,440
+</td></tr>
+<tr>
+<td> <a href="/wiki/West_Java" title="West Java">West Java</a>
+</td>
+<td> <a href="/wiki/Bandung" title="Bandung">Bandung</a>
+</td>
+<td style="text-align:right;">34,817
+</td>
+<td style="text-align:right;">27.1
+</td>
+<td style="text-align:right;">35,724,093
+</td>
+<td style="text-align:right;">43,021,826
+</td>
+<td style="text-align:right;">1,235
+</td></tr>
+<tr>
+<td> <a href="/wiki/Central_Java" title="Central Java">Central Java</a>
+</td>
+<td> <a href="/wiki/Semarang" title="Semarang">Semarang</a>
+</td>
+<td style="text-align:right;">32,801
+</td>
+<td style="text-align:right;">25.3
+</td>
+<td style="text-align:right;">31,223,258
+</td>
+<td style="text-align:right;">32,380,687
+</td>
+<td style="text-align:right;">995
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Yogyakarta_Special_Region&amp;action=edit&amp;redlink=1" class="new" title="Yogyakarta Special Region (page does not exist)">Yogyakarta</a>
+</td>
+<td> <a href="/w/index.php?title=Yogyakarta&amp;action=edit&amp;redlink=1" class="new" title="Yogyakarta (page does not exist)">Yogyakarta</a>
+</td>
+<td style="text-align:right;">3,133
+</td>
+<td style="text-align:right;">2.4
+</td>
+<td style="text-align:right;">3,121,045
+</td>
+<td style="text-align:right;">3,452,390
+</td>
+<td style="text-align:right;">1,084
+</td></tr>
+<tr>
+<td> <a href="/wiki/East_Java" title="East Java">East Java</a>
+</td>
+<td> <a href="/wiki/Surabaya" title="Surabaya">Surabaya</a>
+</td>
+<td style="text-align:right;">47,922
+</td>
+<td style="text-align:right;">37.3
+</td>
+<td style="text-align:right;">34,765,993
+</td>
+<td style="text-align:right;">37,476,011
+</td>
+<td style="text-align:right;">782
+</td></tr>
+<tr>
+<td> Region Administered as <i>Java</i>
+</td>
+<td> <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>
+</td>
+<td style="text-align:right;">128,297
+</td>
+<td style="text-align:right;">100%
+</td>
+<td style="text-align:right;">121,293,745
+</td>
+<td style="text-align:right;">136,563,142
+</td>
+<td style="text-align:right;">1,064
+</td></tr>
+<tr>
+<td>
+<dl>
+<dd><a href="/w/index.php?title=Madura&amp;action=edit&amp;redlink=1" class="new" title="Madura (page does not exist)">Madura</a> Island of East Java
+</dd>
+</dl>
+</td>
+<td> -
+</td>
+<td style="text-align:right;">4,250
+</td>
+<td style="text-align:right;">3.3
+</td>
+<td style="text-align:right;">3,230,300
+</td>
+<td style="text-align:right;">3,621,646
+</td>
+<td style="text-align:right;">852
+</td></tr>
+<tr>
+<td>
+<dl>
+<dd>Java Island<sup>1)</sup>
+</dd>
+</dl>
+</td>
+<td> -
+</td>
+<td style="text-align:right;">124,047
+</td>
+<td style="text-align:right;">96.7
+</td>
+<td style="text-align:right;">118,063,445
+</td>
+<td style="text-align:right;">132,941,496
+</td>
+<td style="text-align:right;">1,071
+</td></tr></table>
+<p><sup>1) Other islands are included in this figure but are very small in population and area, Nusa Barung 100 sqkm, Bawean 196 sqkm, Karimunjawa 78 sqkm, Kambangan 121 sqkm, Panaitan 170 sqkm, Thousand Islands 8.7 sqkm with a combined populated roughly 90,000</sup>
+</p><p><sup>2) Land area of provinces updated in 2010 Census figures, areas may be different than past results.</sup>
+</p><p>From the 1970s to the fall of the <a href="/wiki/Suharto" title="Suharto">Suharto</a> regime in 1998, the Indonesian government ran <a href="/wiki/Transmigration_program" title="Transmigration program">transmigration programs</a> aimed at resettling the population of Java on other less-populated islands of Indonesia. This program has met with mixed results; sometimes causing conflicts between the locals and the recently arrived <a href="/wiki/Settler" title="Settler">settlers</a>.  However, Java's share of the nation's population has fallen steadily.
+</p><p>Jakarta and its outskirts being the dominant metropolis is also home to people from all over the nation.  East Java is also home to ethnic Balinese, as well as large numbers of Madurans due to their historic poverty.
+</p>
+<h3><span class="mw-headline" id="Ethnicity_and_culture">Ethnicity and culture</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:COLLECTIE_TROPENMUSEUM_Een_jonge_Javaan_te_Semarang_Java_TMnr_10002811.jpg" title="File:COLLECTIE TROPENMUSEUM Een jonge Javaan te Semarang Java TMnr 10002811.jpg">File:COLLECTIE TROPENMUSEUM Een jonge Javaan te Semarang Java TMnr 10002811.jpg</a>  <div class="thumbcaption">A teenager in Java wearing traditional <a href="/wiki/Javanese_people" title="Javanese people">Javanese</a> attire: <a href="/w/index.php?title=Blangkon&amp;action=edit&amp;redlink=1" class="new" title="Blangkon (page does not exist)">blangkon</a> headgear, <a href="/wiki/Batik" title="Batik">batik</a> sarong and <a href="/wiki/Kris" title="Kris">kris</a> as accessory. 1913</div></div></div>
+<p>Despite its large population and in contrast to the other larger islands of Indonesia, Java is comparatively homogeneous in ethnic composition. Only two ethnic groups are native to the island—the <a href="/wiki/Javanese_people" title="Javanese people">Javanese</a> and <a href="/wiki/Sundanese_people" title="Sundanese people">Sundanese</a>. A third group is the <a href="/wiki/Madurese_people" title="Madurese people">Madurese</a>, who inhabit the island of <a href="/wiki/Madura_Island" title="Madura Island">Madura</a> off the north east coast of Java, and have immigrated to <a href="/wiki/East_Java" title="East Java">East Java</a> in large numbers since the 18th century.<sup id="cite_ref-Periplus58_27-0" class="reference"><a href="#cite_note-Periplus58-27">[27]</a></sup> The Javanese comprise about two-thirds of the island's population, while the Sundanese and Madurese account for 20% and 10% respectively.<sup id="cite_ref-Periplus58_27-1" class="reference"><a href="#cite_note-Periplus58-27">[27]</a></sup> The forth group is the <a href="/w/index.php?title=Betawi_people&amp;action=edit&amp;redlink=1" class="new" title="Betawi people (page does not exist)">Betawi people</a> that speak a dialect of <a href="/wiki/Malay_language" title="Malay language">Malay</a>, they are the descendants of the people living around <a href="/wiki/Jakarta" title="Jakarta">Batavia</a> from around the 17th century. Betawis are <a href="/w/index.php?title=Creole_people&amp;action=edit&amp;redlink=1" class="new" title="Creole people (page does not exist)">creole people</a>, mostly descended from various Indonesian archipelago ethnic groups such as <a href="/w/index.php?title=Ethnic_Malay&amp;action=edit&amp;redlink=1" class="new" title="Ethnic Malay (page does not exist)">Malay</a>, <a href="/wiki/Sundanese_people" title="Sundanese people">Sundanese</a>, <a href="/wiki/Javanese_people" title="Javanese people">Javanese</a>, <a href="/wiki/Balinese_people" title="Balinese people">Balinese</a>, <a href="/wiki/Minangkabau_people" title="Minangkabau people">Minang</a>, <a href="/w/index.php?title=Bugis_people&amp;action=edit&amp;redlink=1" class="new" title="Bugis people (page does not exist)">Bugis</a>, <a href="/w/index.php?title=Makassar_people&amp;action=edit&amp;redlink=1" class="new" title="Makassar people (page does not exist)">Makassar</a>, <a href="/w/index.php?title=Ambonese&amp;action=edit&amp;redlink=1" class="new" title="Ambonese (page does not exist)">Ambonese</a>, mixed with foreign ethnic groups such as <a href="/wiki/Portuguese_people" title="Portuguese people">Portuguese</a>, <a href="/wiki/Dutch_people" title="Dutch people">Dutch</a>, <a href="/w/index.php?title=Arab&amp;action=edit&amp;redlink=1" class="new" title="Arab (page does not exist)">Arab</a>, <a href="/wiki/Chinese_people" title="Chinese people">Chinese</a> and <a href="/w/index.php?title=Indian_peoples&amp;action=edit&amp;redlink=1" class="new" title="Indian peoples (page does not exist)">Indian</a> brought to or attracted to Batavia to meet labour needs. They have a culture and language distinct from the surrounding <a href="/wiki/Sundanese_people" title="Sundanese people">Sundanese</a> and <a href="/wiki/Javanese_people" title="Javanese people">Javanese</a>.
+</p><p>The Javanese <a href="/w/index.php?title=Kakawin&amp;action=edit&amp;redlink=1" class="new" title="Kakawin (page does not exist)">kakawin</a> <a href="/w/index.php?title=Tantu_Pagelaran&amp;action=edit&amp;redlink=1" class="new" title="Tantu Pagelaran (page does not exist)">Tantu Pagelaran</a> explained the mythical origin of the island and its volcanic nature. Four major cultural areas exist on the island: the <i><a href="/wiki/Javanese_beliefs" title="Javanese beliefs" class="mw-redirect">kejawen</a></i> or Javanese heartland, the north coast of the <i>pasisir</i> region, the <a href="/wiki/Sundanese_people" title="Sundanese people">Sunda</a> lands of West Java, and the eastern salient, also known as <a href="/w/index.php?title=Banyuwangi&amp;action=edit&amp;redlink=1" class="new" title="Banyuwangi (page does not exist)">Blambangan</a>. Madura makes up a fifth area having close cultural ties with coastal Java.<sup id="cite_ref-Periplus58_27-2" class="reference"><a href="#cite_note-Periplus58-27">[27]</a></sup> The <i>kejawen</i> Javanese culture is the island's most dominant. Java's remaining aristocracy are based here, and it is the region from where the majority of Indonesia's army, business, and political elite originate. Its language, arts, and etiquette are regarded as the island's most refined and exemplary.<sup id="cite_ref-Periplus58_27-3" class="reference"><a href="#cite_note-Periplus58-27">[27]</a></sup> The territory from <a href="/wiki/Banyumas_Regency" title="Banyumas Regency">Banyumas</a> in the west through to <a href="/w/index.php?title=Blitar&amp;action=edit&amp;redlink=1" class="new" title="Blitar (page does not exist)">Blitar</a> in the east and encompasses Indonesia's most fertile and densely populated agricultural land.<sup id="cite_ref-Periplus58_27-4" class="reference"><a href="#cite_note-Periplus58-27">[27]</a></sup>
+</p><p>In the southwestern part of Central Java, which is usually named the <a href="/wiki/Banyumas_Regency" title="Banyumas Regency">Banyumasan</a> region, a cultural mingling occurred; bringing together Javanese culture and Sundanese culture to create the <a href="/w/index.php?title=Banyumasan_language&amp;action=edit&amp;redlink=1" class="new" title="Banyumasan language (page does not exist)">Banyumasan</a> culture.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} In the central Javanese court cities of <a href="/w/index.php?title=Yogyakarta_(city)&amp;action=edit&amp;redlink=1" class="new" title="Yogyakarta (city) (page does not exist)">Yogyakarta</a> and <a href="/wiki/Surakarta" title="Surakarta">Surakarta</a>, contemporary kings trace their lineages back to the pre-colonial Islamic kingdoms that ruled the region, making those places especially strong repositories of classical Javanese culture. Classic arts of Java include <a href="/wiki/Gamelan" title="Gamelan">gamelan</a> music and <a href="/wiki/Wayang" title="Wayang">wayang</a> puppet shows.
+</p><p>Java was the site of many influential kingdoms in the Southeast Asian region,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> and as a result, many literary works have been written by Javanese authors. These include <i><a href="/w/index.php?title=Ken_Arok&amp;action=edit&amp;redlink=1" class="new" title="Ken Arok (page does not exist)">Ken Arok</a> and <a href="/wiki/Ken_Dedes" title="Ken Dedes">Ken Dedes</a></i>, the story of the orphan who usurped his king, and married the queen of the ancient Javanese kingdom; and translations of <i><a href="/wiki/Ramayana" title="Ramayana">Ramayana</a></i> and <i><a href="/wiki/Mahabharata" title="Mahabharata">Mahabharata</a></i>. <a href="/wiki/Pramoedya_Ananta_Toer" title="Pramoedya Ananta Toer">Pramoedya Ananta Toer</a> is a famous contemporary Indonesian author, who has written many stories based on his own experiences of having grown up in Java, and takes many elements from Javanese folklore and historical legends.
+</p>
+<h3><span class="mw-headline" id="Languages">Languages</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Java_languages.JPG" title="File:Java languages.JPG">File:Java languages.JPG</a>  <div class="thumbcaption">Languages spoken in Java (Javanese is shown in white). "Malay" refers to <a href="/w/index.php?title=Betawi_language&amp;action=edit&amp;redlink=1" class="new" title="Betawi language (page does not exist)">Betawi</a>, the local dialect as one of Malay creole dialect.</div></div></div>
+<p>The three major languages spoken on Java are <a href="/wiki/Javanese_language" title="Javanese language">Javanese</a>, <a href="/wiki/Sundanese_language" title="Sundanese language">Sundanese</a> and <a href="/wiki/Madurese_language" title="Madurese language">Madurese</a>. Other languages spoken include <a href="/w/index.php?title=Betawi_language&amp;action=edit&amp;redlink=1" class="new" title="Betawi language (page does not exist)">Betawi</a> (a <a href="/wiki/Malay_language" title="Malay language">Malay</a> dialect local to the Jakarta region), <a href="/w/index.php?title=Osing_language&amp;action=edit&amp;redlink=1" class="new" title="Osing language (page does not exist)">Osing</a> and <a href="/wiki/Tenggerese" title="Tenggerese">Tenggerese</a> (closely related to Javanese), <a href="/wiki/Baduy" title="Baduy">Baduy</a> (closely related to Sundanese), <a href="/w/index.php?title=Kangean_language&amp;action=edit&amp;redlink=1" class="new" title="Kangean language (page does not exist)">Kangeanese</a> (closely related to Madurese), <a href="/wiki/Balinese_language" title="Balinese language">Balinese</a>, and <a href="/w/index.php?title=Banyumasan_language&amp;action=edit&amp;redlink=1" class="new" title="Banyumasan language (page does not exist)">Banyumasan</a><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> The vast majority of the population also speaks <a href="/wiki/Indonesian_language" title="Indonesian language">Indonesian</a>, often as a second language.
+</p>
+<h3><span class="mw-headline" id="Religion">Religion</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:COLLECTIE_TROPENMUSEUM_Moskee_Indonesi%C3%AB_TMnr_10016740.jpg" title="File:COLLECTIE TROPENMUSEUM Moskee Indonesië TMnr 10016740.jpg">File:COLLECTIE TROPENMUSEUM Moskee Indonesië TMnr 10016740.jpg</a>  <div class="thumbcaption">Mosque in Pati, Central Java during <a href="/w/index.php?title=Dutch_East_Indies&amp;action=edit&amp;redlink=1" class="new" title="Dutch East Indies (page does not exist)">colonial period</a>. The mosque combined traditional Javanese style (multi-tiered roof) with European architecture.</div></div></div>
+<p>Java has been a melting pot of religions and cultures, which has created a broad range of religious belief.
+</p><p><a href="/w/index.php?title=South_Asia&amp;action=edit&amp;redlink=1" class="new" title="South Asia (page does not exist)">Indian</a> influences came first with <a href="/wiki/Shaivism" title="Shaivism">Shaivism</a> and <a href="/w/index.php?title=Buddhism&amp;action=edit&amp;redlink=1" class="new" title="Buddhism (page does not exist)">Buddhism</a> penetrating deeply into society, blending with indigenous tradition and culture.<sup id="cite_ref-kroef1961_30-0" class="reference"><a href="#cite_note-kroef1961-30">[30]</a></sup> One <a href="/w/index.php?title=Conduit_(spiritualism)&amp;action=edit&amp;redlink=1" class="new" title="Conduit (spiritualism) (page does not exist)">conduit</a> for this were the <a href="/wiki/Asceticism" title="Asceticism">ascetics</a>, called <i>resi</i>, who taught mystical practices. A <i>resi</i> lived surrounded by students, who took care of their master's daily needs. Resi's authorities were merely ceremonial. At the courts, <a href="/wiki/Brahmin" title="Brahmin">Brahmin</a> clerics and <i>pudjangga</i> (sacred literati) legitimised rulers and linked <a href="/wiki/Hinduism" title="Hinduism">Hindu</a> cosmology to their political needs.<sup id="cite_ref-kroef1961_30-1" class="reference"><a href="#cite_note-kroef1961-30">[30]</a></sup> Small <a href="/wiki/Hindu" title="Hindu">Hindu</a> enclaves are scattered throughout Java, but there is a large <a href="/wiki/Hindu" title="Hindu">Hindu</a> population along the eastern coast nearest <a href="/wiki/Bali" title="Bali">Bali</a>, especially around the town of <a href="/w/index.php?title=Banyuwangi&amp;action=edit&amp;redlink=1" class="new" title="Banyuwangi (page does not exist)">Banyuwangi</a>.
+</p><p><a href="/w/index.php?title=Islam&amp;action=edit&amp;redlink=1" class="new" title="Islam (page does not exist)">Islam</a>, which came after Hinduism, strengthened the status structure of this traditional religious pattern. More than 90 percent of the people of Java are Muslims, on a broad continuum between <i><a href="/wiki/Abangan" title="Abangan">abangan</a></i> (more traditional) and <i><a href="/w/index.php?title=Santri&amp;action=edit&amp;redlink=1" class="new" title="Santri (page does not exist)">santri</a></i> (more modernist). The Muslim scholar of the writ (<i><a href="/w/index.php?title=Kyai&amp;action=edit&amp;redlink=1" class="new" title="Kyai (page does not exist)">Kyai</a></i>) became the new religious elite as Hindu influences receded.  Islam recognises no hierarchy of religious leaders nor a formal <a href="/wiki/Clergy" title="Clergy">priesthood</a>, but the <a href="/wiki/Dutch_East_India_Company" title="Dutch East India Company">Dutch colonial government</a> established an elaborate rank order for mosque and other Islamic preaching schools. In Javanese <i><a href="/w/index.php?title=Pesantren&amp;action=edit&amp;redlink=1" class="new" title="Pesantren (page does not exist)">pesantren</a></i> (Islamic schools), The <i>Kyai</i> perpetuated the tradition of the <i>resi</i>. Students around him provided his needs, even <a href="/wiki/Peasant" title="Peasant">peasants</a> around the school.<sup id="cite_ref-kroef1961_30-2" class="reference"><a href="#cite_note-kroef1961-30">[30]</a></sup>
+</p><p>Pre-Islamic Javan traditions have encouraged Islam in a mystical direction. There emerged in Java a loosely structured society of religious leadership, revolving around <i>kyais</i>, possessing various degrees of proficiency in pre-Islamic and Islamic <a href="/wiki/Folklore" title="Folklore">lore</a>, <a href="/wiki/Belief" title="Belief">belief</a> and practice.<sup id="cite_ref-kroef1961_30-3" class="reference"><a href="#cite_note-kroef1961-30">[30]</a></sup> The kyais are the principal intermediaries between the villages masses and the realm of the <a href="/wiki/Supernatural" title="Supernatural">supernatural</a>. However, this very looseneess of kyai leadership structure has promoted <a href="/w/index.php?title=Schism_(religion)&amp;action=edit&amp;redlink=1" class="new" title="Schism (religion) (page does not exist)">schism</a>. There were often sharp divisions between orthodox kyais, who merely instructed in Islamic law, with those who taught <a href="/w/index.php?title=Mysticism&amp;action=edit&amp;redlink=1" class="new" title="Mysticism (page does not exist)">mysticism</a> and those who sought reformed Islam with modern scientific concepts. As a result, there is a division between <i>santri</i>, who believe that they are more orthodox in their Islamic belief and practice, with <i><a href="/wiki/Abangan" title="Abangan">abangan</a></i>, who have mixed pre-Islamic <a href="/wiki/Animism" title="Animism">animistic</a> and Hindu-Indian concepts with a superficial acceptance of Islamic belief.<sup id="cite_ref-kroef1961_30-4" class="reference"><a href="#cite_note-kroef1961-30">[30]</a></sup>
+</p><p>There are also <a href="/w/index.php?title=Christian&amp;action=edit&amp;redlink=1" class="new" title="Christian (page does not exist)">Christian</a> communities, mostly in the larger cities, though some rural areas of south-central Java are strongly <a href="/wiki/Catholic_Church" title="Catholic Church">Roman Catholic</a>. Roman Catholics and other Christian groups have been persecuted for their beliefs such as a ban on Christmas services.<sup id="cite_ref-Christians_refuse_to_cancel_Christmas_31-0" class="reference"><a href="#cite_note-Christians_refuse_to_cancel_Christmas-31">[31]</a></sup> <a href="/w/index.php?title=Buddhism&amp;action=edit&amp;redlink=1" class="new" title="Buddhism (page does not exist)">Buddhist</a> communities also exist in the major cities, primarily among the <a href="/w/index.php?title=Chinese_Indonesian&amp;action=edit&amp;redlink=1" class="new" title="Chinese Indonesian (page does not exist)">Chinese Indonesian</a>.  The Indonesian constitution recognises six official religions.  (See <a href="/w/index.php?title=Religion_in_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Religion in Indonesia (page does not exist)">Religion in Indonesia</a>.)
+</p><p>A wider effect of this division is the number of sects. In the middle of 1956, the Department of Religious Affairs in <a href="/w/index.php?title=Yogyakarta&amp;action=edit&amp;redlink=1" class="new" title="Yogyakarta (page does not exist)">Yogyakarta</a> reported 63 religious sects in Java other than the official Indonesian religions. Of these, 35 were in <a href="/wiki/Central_Java" title="Central Java">Central Java</a>, 22 in <a href="/wiki/West_Java" title="West Java">West Java</a> and 6 in <a href="/wiki/East_Java" title="East Java">East Java</a>.<sup id="cite_ref-kroef1961_30-5" class="reference"><a href="#cite_note-kroef1961-30">[30]</a></sup> These include <a href="/wiki/Javanese_beliefs" title="Javanese beliefs" class="mw-redirect">Kejawen</a>, <a href="/wiki/Javanese_beliefs" title="Javanese beliefs" class="mw-redirect">Sumarah</a>, <a href="/wiki/Subud" title="Subud">Subud</a>, etc.  Their total membership is difficult to estimate as many of their adherents identify themselves with one of the official religions.<sup id="cite_ref-Beatty_32-0" class="reference"><a href="#cite_note-Beatty-32">[32]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Economy">Economy</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Rice_plantation_in_Java.jpg" title="File:Rice plantation in Java.jpg">File:Rice plantation in Java.jpg</a>  <div class="thumbcaption">Javanese women planting rice in a rice field near <a href="/wiki/Prambanan" title="Prambanan">Prambanan</a>, <a href="/w/index.php?title=Yogyakarta&amp;action=edit&amp;redlink=1" class="new" title="Yogyakarta (page does not exist)">Yogyakarta</a></div></div></div>
+<p>Initially the economy of Java relied heavily on <a href="/wiki/Rice" title="Rice">rice</a> agriculture. Ancient kingdoms such as the <a href="/w/index.php?title=Tarumanagara&amp;action=edit&amp;redlink=1" class="new" title="Tarumanagara (page does not exist)">Tarumanagara</a>, <a href="/w/index.php?title=Mataram_Kingdom&amp;action=edit&amp;redlink=1" class="new" title="Mataram Kingdom (page does not exist)">Mataram</a>, and <a href="/wiki/Majapahit" title="Majapahit">Majapahit</a> were dependent on rice yields and tax. Java was famous for rice surpluses and rice export since ancient times, and rice agriculture contributed to the population growth of the island. Trade with other parts of Asia such as India and China flourished as early as the 4th century, as evidenced by Chinese ceramics found on the island dated to that period. Java also took part in the global trade of <a href="/wiki/Maluku_Islands" title="Maluku Islands">Maluku</a> <a href="/wiki/Spice" title="Spice">spice</a> from ancient times in the Majapahit era, until well into the <a href="/wiki/Dutch_East_India_Company" title="Dutch East India Company">VOC</a> era.
+</p><p><a href="/wiki/Dutch_East_India_Company" title="Dutch East India Company">Dutch East India Company</a> set their foothold on <a href="/wiki/Batavia,_Dutch_East_Indies" title="Batavia, Dutch East Indies" class="mw-redirect">Batavia</a> in the 17th century and was succeeded by <a href="/w/index.php?title=Netherlands_East_Indies&amp;action=edit&amp;redlink=1" class="new" title="Netherlands East Indies (page does not exist)">Netherlands East Indies</a> in the 18th century. During these colonial times, the Dutch introduced the cultivation of commercial plants in Java, such as <a href="/w/index.php?title=Sugarcane&amp;action=edit&amp;redlink=1" class="new" title="Sugarcane (page does not exist)">sugarcane</a>, <a href="/w/index.php?title=Rubber&amp;action=edit&amp;redlink=1" class="new" title="Rubber (page does not exist)">rubber</a>, <a href="/wiki/Coffee" title="Coffee">coffee</a>, <a href="/wiki/Tea" title="Tea">tea</a>, and <a href="/wiki/Quinine" title="Quinine">quinine</a>. In the 19th and early 20th century, Javanese coffee gained global popularity. Thus, the name "Java" today has become a synonym for coffee.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Java_Transportation_Network.svg" title="File:Java Transportation Network.svg">File:Java Transportation Network.svg</a>  <div class="thumbcaption">Java transportation network</div></div></div>
+<p>Java is the most developed island in Indonesia since the era of Netherlands East Indies to modern Republic of Indonesia. The road transportation networks that have existed since ancient times were connected and perfected with the construction of <a href="/w/index.php?title=Great_Post_Road&amp;action=edit&amp;redlink=1" class="new" title="Great Post Road (page does not exist)">Java Great Post Road</a> by <a href="/w/index.php?title=Daendels&amp;action=edit&amp;redlink=1" class="new" title="Daendels (page does not exist)">Daendels</a> in the early 19th century. The Java Great Post Road become the backbone of Java's road infrastructure and laid the base of <a href="/w/index.php?title=North_Coast_Road_(Java)&amp;action=edit&amp;redlink=1" class="new" title="North Coast Road (Java) (page does not exist)">Java North Coast Road</a> (<a href="/w/index.php?title=Template:Lang-id&amp;action=edit&amp;redlink=1" class="new" title="Template:Lang-id (page does not exist)">Template:Lang-id</a>). The need to transport commercial produces such as coffee from plantations in the interior of the island to the harbour on the coast spurred the construction of railway networks in Java. Today the <a href="/wiki/Industry" title="Industry">industry</a>, business and trade, also services flourished in major cities of Java, such as <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>, <a href="/wiki/Surabaya" title="Surabaya">Surabaya</a>, <a href="/wiki/Semarang" title="Semarang">Semarang</a>, and <a href="/wiki/Bandung" title="Bandung">Bandung</a>; while some traditional Sultanate cities such as <a href="/w/index.php?title=Yogyakarta&amp;action=edit&amp;redlink=1" class="new" title="Yogyakarta (page does not exist)">Yogyakarta</a>, <a href="/wiki/Surakarta" title="Surakarta">Surakarta</a>, and <a href="/wiki/Cirebon" title="Cirebon">Cirebon</a> preserved its royal legacy and become the centre of art, culture and tourism in Java. Industrial estates also growing in towns on northern coast of Java, especially around <a href="/wiki/Cilegon" title="Cilegon">Cilegon</a>, <a href="/wiki/Tangerang" title="Tangerang">Tangerang</a>, <a href="/wiki/Bekasi" title="Bekasi">Bekasi</a>, <a href="/w/index.php?title=Karawang&amp;action=edit&amp;redlink=1" class="new" title="Karawang (page does not exist)">Karawang</a>, <a href="/wiki/Gresik" title="Gresik" class="mw-redirect">Gresik</a> and <a href="/w/index.php?title=Sidoarjo&amp;action=edit&amp;redlink=1" class="new" title="Sidoarjo (page does not exist)">Sidoarjo</a>. The <a href="/wiki/Toll_road" title="Toll road">toll road</a> highway networks was built and expanded since <a href="/wiki/Suharto" title="Suharto">Suharto</a> era until now, connecting major urban centres and surrounding areas, such as in and around <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a> and <a href="/wiki/Bandung" title="Bandung">Bandung</a>; also the ones in <a href="/wiki/Cirebon" title="Cirebon">Cirebon</a>, <a href="/wiki/Semarang" title="Semarang">Semarang</a> and <a href="/wiki/Surabaya" title="Surabaya">Surabaya</a>. In addition to these motorways, Java has 16 national highways.
+</p><p>Based on the statistical data by the year of 2012 which's released by Badan Pusat Statistik, Java Island itself contributes at least 57,51&#160;% of Indonesia's Gross Domestic Product or equivalent to 504 billions US$.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p>{{#invoke:Portal|portal}}
+</p>
+<ul>
+<li> <a href="/wiki/History_of_Indonesia" title="History of Indonesia">History of Indonesia</a>
+</li>
+<li> <a href="/w/index.php?title=List_of_monarchs_of_Java&amp;action=edit&amp;redlink=1" class="new" title="List of monarchs of Java (page does not exist)">List of monarchs of Java</a>
+</li>
+<li> <a href="/w/index.php?title=The_spread_of_Islam_in_Indonesia_(1200_to_1600)&amp;action=edit&amp;redlink=1" class="new" title="The spread of Islam in Indonesia (1200 to 1600) (page does not exist)">The spread of Islam in Indonesia (1200 to 1600)</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="Sources">Sources</span></h2>
+<p><a href="/w/index.php?title=Template:Refbegin&amp;action=edit&amp;redlink=1" class="new" title="Template:Refbegin (page does not exist)">Template:Refbegin</a>
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Refend&amp;action=edit&amp;redlink=1" class="new" title="Template:Refend (page does not exist)">Template:Refend</a>
+</p>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Wikivoyage-inline&amp;action=edit&amp;redlink=1" class="new" title="Template:Wikivoyage-inline (page does not exist)">Template:Wikivoyage-inline</a>
+</li>
+</ul>
+<p>{{#invoke: Navbox | navbox }}
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.736 seconds
+Real time usage: 2.702 seconds
+Preprocessor visited node count: 913/1000000
+Preprocessor generated node count: 5828/1000000
+Post‐expand include size: 630/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:46565-0!*!0!!en!2!* and timestamp 20161210001051
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/index.php?title=Java&amp;oldid=46565">http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/index.php?title=Java&amp;oldid=46565</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/wiki/Category:Java" title="Category:Java">Java</a></li><li><a href="/w/index.php?title=Category:Greater_Sunda_Islands&amp;action=edit&amp;redlink=1" class="new" title="Category:Greater Sunda Islands (page does not exist)">Greater Sunda Islands</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Java" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Java"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Java&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Java" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Java&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Java&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Java" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Java" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Java&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Java&amp;oldid=46565" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Java&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 February 2014, at 12:40.</li>
+											<li id="footer-info-viewcount">This page has been accessed 1,428 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.510 secs. -->
+	</body>
+</html>

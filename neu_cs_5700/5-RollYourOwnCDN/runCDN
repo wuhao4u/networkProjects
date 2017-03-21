@@ -1,0 +1,78 @@
+#! /bin/bash
+# ./[deploy|run|stop]CDN -p <port> -o <origin> -n <name> -u <username> -i <keyfile>
+
+DNS_SERVER=cs5700cdnproject.ccs.neu.edu
+LOGIN_SERVER=login.ccs.neu.edu
+
+KEYFILE=~/.ssh/id_rsa
+
+PORT=40015
+ORIGIN=ec2-54-167-4-20.compute-1.amazonaws.com
+NAME=cs5700cdn.example.com
+USERNAME=wuhao
+HOSTS_TEXT_NAME="hosts.txt"
+
+# only username and keyfile is required
+while getopts "p::o::u:n::i:" opt; do
+    case $opt in
+        p)
+        PORT=$OPTARG        
+        ;;
+
+        o)
+        ORIGIN=$OPTARG
+        ;;
+
+        n)
+        NAME=$OPTARG
+        ;;
+
+        u)
+        USERNAME=$OPTARG
+        ;;
+
+        i)
+        KEYFILE=$OPTARG
+        ;;
+
+        \?)
+        echo "Invalid option: -$OPTARG"
+        ;;
+esac
+done
+
+
+echo "port:" $PORT
+echo "origin:" $ORIGIN
+echo "name:" $NAME
+echo "username" $USERNAME
+echo "keyfile:" $KEYFILE
+
+# running dns server
+DNS_DIR="/home/$USERNAME/cdn"
+DATE_STR=$(date +%Y-%m-%d-%X)
+echo "----------Run DNS server-----------------------------------------"
+echo $DNS_DIR
+
+LOG_FILE_NAME="dns-$DATE_STR.log"
+ssh -i $KEYFILE $USERNAME@$DNS_SERVER "cd ~/cdn;./dnsserver -p $PORT -n $NAME &> $LOG_FILE_NAME&;"
+
+# running http servers
+# HTTP_DIR="/home/$USERNAME/cdn"
+HTTP_DIR="~/"
+echo "----------Run HTTP server----------------------------------------"
+echo $HTTP_DIR
+
+while read -r SERVER
+do
+    echo $SERVER
+    # creating a var for log file name
+    LOG_FILE_NAME="$SERVER-$DATE_STR.log"
+    echo $LOG_FILE_NAME
+
+    # the var that holds the run httpserver command
+    CMD="./httpserver -p $PORT -o $ORIGIN &> $LOG_FILE_NAME&"
+    echo $CMD
+
+    ssh -n -i $KEYFILE $USERNAME@$SERVER $CMD
+done < "hosts.txt"

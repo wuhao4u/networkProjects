@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Wiki - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wiki","wgTitle":"Wiki","wgCurRevisionId":21594,"wgRevisionId":21594,"wgArticleId":21594,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Commons category with local link different than on Wikidata","Wikis","Hawaiian words and phrases","Human–computer interaction","Hypertext","Self-organization","Social information processing"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wiki","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Wiki skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Wiki</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+</p>
+<div class="dablink"><span class="plainlinks selfreference">"Edit summary" redirects here. For edit summaries as used in Wikipedia, see <a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Help:Edit summary</a>.</span></div>
+<div class="dablink"><span class="plainlinks selfreference">"WikiNode" redirects here. For the WikiNode of Wikipedia, see <a href="http://en.wikipedia.org/wiki/WikiNode" class="extiw" title="wikipedia:WikiNode">Wikipedia:WikiNode</a>.</span></div>
+<p><a href="/w/index.php?title=Template:Use_mdy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use mdy dates (page does not exist)">Template:Use mdy dates</a>
+<a href="/w/index.php?title=Template:Pp-semi-indef&amp;action=edit&amp;redlink=1" class="new" title="Template:Pp-semi-indef (page does not exist)">Template:Pp-semi-indef</a>
+<a href="/w/index.php?title=Template:Pp-move-indef&amp;action=edit&amp;redlink=1" class="new" title="Template:Pp-move-indef (page does not exist)">Template:Pp-move-indef</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Ward_Cunningham_-_Commons-1.jpg" title="File:Ward Cunningham - Commons-1.jpg">File:Ward Cunningham - Commons-1.jpg</a>  <div class="thumbcaption"><a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a>, inventor of the wiki</div></div></div>
+<p>A <b>wiki</b> (<a href="/w/index.php?title=Template:IPAc-en&amp;action=edit&amp;redlink=1" class="new" title="Template:IPAc-en (page does not exist)">Template:IPAc-en</a> <a href="/w/index.php?title=Template:Respell&amp;action=edit&amp;redlink=1" class="new" title="Template:Respell (page does not exist)">Template:Respell</a>) is usually a <a href="/wiki/Web_application" title="Web application">web application</a> which allows people to add, modify, or delete content in  <a href="/wiki/Collaborative_software" title="Collaborative software">collaboration</a> with others. Text is usually written using a simplified <a href="/wiki/Markup_language" title="Markup language">markup language</a> or a <a href="/w/index.php?title=Online_rich-text_editor&amp;action=edit&amp;redlink=1" class="new" title="Online rich-text editor (page does not exist)">rich-text editor</a>.<sup id="cite_ref-Britannica_1-0" class="reference"><a href="#cite_note-Britannica-1">[1]</a></sup><sup id="cite_ref-urlEasy_Wiki_Hosting.2C_Scott_Hanselmans_blog.2C_and_Snagging_Screens_2-0" class="reference"><a href="#cite_note-urlEasy_Wiki_Hosting.2C_Scott_Hanselmans_blog.2C_and_Snagging_Screens-2">[2]</a></sup> While a wiki is a type of <a href="/wiki/Content_management_system" title="Content management system">content management system</a>, it differs from a  <a href="/wiki/Blog" title="Blog">blog</a> or most other such systems in that the content is created without any defined owner or leader, and wikis have little implicit structure, allowing structure to emerge according to the needs of the users.<sup id="cite_ref-urlEasy_Wiki_Hosting.2C_Scott_Hanselmans_blog.2C_and_Snagging_Screens_2-1" class="reference"><a href="#cite_note-urlEasy_Wiki_Hosting.2C_Scott_Hanselmans_blog.2C_and_Snagging_Screens-2">[2]</a></sup>
+</p><p>The encyclopedia project <a href="/w/index.php?title=Wikipedia&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia (page does not exist)">Wikipedia</a> is the most popular wiki on the public web in terms of page views,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> but there are many sites running many different kinds of <a href="/wiki/Wiki_software" title="Wiki software">wiki software</a>.  Wikis can serve many different purposes both public and private, including <a href="/wiki/Knowledge_management" title="Knowledge management">knowledge management</a>, <a href="/w/index.php?title=Notetaking_software&amp;action=edit&amp;redlink=1" class="new" title="Notetaking software (page does not exist)">notetaking</a>, <a href="/w/index.php?title=Web_community&amp;action=edit&amp;redlink=1" class="new" title="Web community (page does not exist)">community websites</a> and <a href="/wiki/Intranet" title="Intranet">intranets</a>. Some permit control over different functions (levels of access). For example, editing rights may permit changing, adding or removing material. Others may permit access without enforcing access control. Other rules may also be imposed to organize content.
+</p><p><a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a>, the developer of the first wiki software, <a href="/wiki/WikiWikiWeb" title="WikiWikiWeb">WikiWikiWeb</a>, originally described it as "the simplest online database that could possibly work".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> "Wiki" (pronounced <a href="/w/index.php?title=Template:IPA-haw&amp;action=edit&amp;redlink=1" class="new" title="Template:IPA-haw (page does not exist)">Template:IPA-haw</a> or <a href="/w/index.php?title=Template:IPA-haw&amp;action=edit&amp;redlink=1" class="new" title="Template:IPA-haw (page does not exist)">Template:IPA-haw</a>) is a <a href="/wiki/Hawaiian_language" title="Hawaiian language">Hawaiian</a> word meaning "fast" or "quick".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Characteristics"><span class="tocnumber">1</span> <span class="toctext">Characteristics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Editing_wiki_pages"><span class="tocnumber">1.1</span> <span class="toctext">Editing wiki pages</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Navigation"><span class="tocnumber">1.2</span> <span class="toctext">Navigation</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Linking_and_creating_pages"><span class="tocnumber">1.3</span> <span class="toctext">Linking and creating pages</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Searching"><span class="tocnumber">1.4</span> <span class="toctext">Searching</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Implementations"><span class="tocnumber">3</span> <span class="toctext">Implementations</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Trust_and_security"><span class="tocnumber">4</span> <span class="toctext">Trust and security</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Controlling_changes"><span class="tocnumber">4.1</span> <span class="toctext">Controlling changes</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Trustworthiness"><span class="tocnumber">4.2</span> <span class="toctext">Trustworthiness</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Security"><span class="tocnumber">4.3</span> <span class="toctext">Security</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Potential_malware_vector"><span class="tocnumber">4.3.1</span> <span class="toctext">Potential malware vector</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Communities"><span class="tocnumber">5</span> <span class="toctext">Communities</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Applications"><span class="tocnumber">5.1</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#WikiNodes"><span class="tocnumber">5.2</span> <span class="toctext">WikiNodes</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Participants"><span class="tocnumber">5.3</span> <span class="toctext">Participants</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Growth_factors"><span class="tocnumber">5.4</span> <span class="toctext">Growth factors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Conferences"><span class="tocnumber">6</span> <span class="toctext">Conferences</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Rules"><span class="tocnumber">7</span> <span class="toctext">Rules</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Legal_environment"><span class="tocnumber">8</span> <span class="toctext">Legal environment</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Further_reading"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span></h2>
+<p>Ward Cunningham and co-author <a href="/wiki/Bo_Leuf" title="Bo Leuf">Bo Leuf</a>, in their book <i><a href="/wiki/The_Wiki_Way" title="The Wiki Way">The Wiki Way: Quick Collaboration on the Web</a></i>, described the essence of the Wiki concept as follows:{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<ul>
+<li> A wiki invites all users to edit any <a href="/w/index.php?title=Web_page&amp;action=edit&amp;redlink=1" class="new" title="Web page (page does not exist)">page</a> or to create new pages within the wiki Web site, using only a <a href="/w/index.php?title=Vanilla_software&amp;action=edit&amp;redlink=1" class="new" title="Vanilla software (page does not exist)">plain-vanilla</a> Web browser without any extra <a href="/w/index.php?title=Browser_extension&amp;action=edit&amp;redlink=1" class="new" title="Browser extension (page does not exist)">add-ons</a>.
+</li>
+<li> Wiki promotes meaningful topic associations between different pages by making page link creation almost intuitively easy and showing whether an intended target page exists or not.
+</li>
+<li> A wiki is not a carefully crafted site for casual visitors. Instead, it seeks to involve the visitor in an ongoing process of creation and collaboration that constantly changes the Web site landscape.
+</li>
+</ul>
+<p>A wiki enables communities to write documents collaboratively, using a simple markup language and a web browser. A single page in a wiki website is referred to as a "wiki page", while the entire collection of pages, which are usually well interconnected by <a href="/wiki/Hyperlink" title="Hyperlink">hyperlinks</a>, is "the wiki". A wiki is essentially a database for creating, browsing, and searching through information. A wiki allows non-linear, evolving, complex and networked text, argument and interaction.<sup id="cite_ref-Legal_7-0" class="reference"><a href="#cite_note-Legal-7">[7]</a></sup>
+</p><p>A defining characteristic of wiki technology is the ease with which pages can be created and updated. Generally, there is no review before modifications are accepted. Many wikis are open to alteration by the general public without requiring registration of <a href="/w/index.php?title=User_(computing)&amp;action=edit&amp;redlink=1" class="new" title="User (computing) (page does not exist)">user</a> accounts. Many edits can be made in <a href="/w/index.php?title=Real-time_web&amp;action=edit&amp;redlink=1" class="new" title="Real-time web (page does not exist)">real-time</a> and appear almost instantly online. This can facilitate abuse of the system. Private wiki servers require <a href="/wiki/Authentication" title="Authentication">user authentication</a> to edit pages, and sometimes even to read them.
+</p><p><a href="/w/index.php?title=Maged_N._Kamel_Boulos&amp;action=edit&amp;redlink=1" class="new" title="Maged N. Kamel Boulos (page does not exist)">Maged N. Kamel Boulos</a>, Cito Maramba and <a href="/w/index.php?title=Steve_Wheeler&amp;action=edit&amp;redlink=1" class="new" title="Steve Wheeler (page does not exist)">Steve Wheeler</a> write that the open wikis produce a process of <a href="/wiki/Social_Darwinism" title="Social Darwinism">Social Darwinism</a>. "'Unfit' sentences and sections are ruthlessly culled, edited and replaced if they are not considered 'fit', which hopefully results in the evolution of a higher quality and more relevant page. Whilst such openness may invite 'vandalism' and the posting of untrue information, this same openness also makes it possible to rapidly correct or restore a 'quality' wiki page."<sup id="cite_ref-BMC_8-0" class="reference"><a href="#cite_note-BMC-8">[8]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Editing_wiki_pages">Editing wiki pages</span></h3>
+<p>Some wikis have an "edit" button or link directly on the page being viewed, if the user has permission to edit the page. This leads to an editing page which allows participants to structure and format wiki pages with a simplified markup language, sometimes known as <a href="/w/index.php?title=Wikitext&amp;action=edit&amp;redlink=1" class="new" title="Wikitext (page does not exist)">wikitext</a> (for example, starting a line of text with an <a href="/wiki/Asterisk" title="Asterisk">asterisk</a> often sets up a <a href="/wiki/Bullet_(typography)" title="Bullet (typography)">bulleted list</a>). The style and syntax of wikitexts can vary greatly among wiki implementations,<a href="/w/index.php?title=Template:Example_needed&amp;action=edit&amp;redlink=1" class="new" title="Template:Example needed (page does not exist)">Template:Example needed</a> some of which also allow <a href="/wiki/HTML" title="HTML">HTML</a> tags. Wikis favour plain-text editing, with fewer and simpler conventions than HTML, for indicating style and structure. Although limiting access to HTML and <a href="/w/index.php?title=Cascading_Style_Sheets&amp;action=edit&amp;redlink=1" class="new" title="Cascading Style Sheets (page does not exist)">Cascading Style Sheets</a> (CSS) of wikis limits user ability to alter the structure and formatting of wiki content, there are some benefits. Limited access to CSS promotes consistency in the look and feel, and having <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> disabled prevents a user from implementing code that may limit other users' access.
+</p>
+<table class="wikitable">
+
+<tr>
+<th style="width:33.3%;"><a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> syntax
+</th>
+<th style="width:33.3%;">Equivalent HTML
+</th>
+<th style="width:33.3%;">Rendered output
+</th></tr>
+<tr style="vertical-align:top;">
+<td><tt>&quot;Take some more [[tea]],&quot; the March Hare said to Alice, very earnestly.<br /><br />&quot;I've had '''nothing''' yet," Alice replied in an offended tone, "so I can't take more."<br /><br />"You mean you can't take ''less''?" said the Hatter. "It's very easy to take ''more'' than nothing."</tt>
+</td>
+<td><tt>&lt;p&gt;"Take some more &lt;a href="/wiki/Tea" title="Tea"&gt;tea&lt;/a&gt;," the March Hare said to Alice, very earnestly.&lt;/p&gt;<br /><br />
+<p>&lt;p&gt;"I've had &lt;b&gt;nothing&lt;/b&gt; yet," Alice replied in an offended tone, "so I can't take more."&lt;/p&gt;<br /><br />
+&lt;p&gt;"You mean you can't take &lt;i&gt;less&lt;/i&gt;?" said the Hatter. "It's very easy to take &lt;i&gt;more&lt;/i&gt; than nothing."&lt;/p&gt;
+<br /></tt>
+</p>
+</td>
+<td>"Take some more <a href="/wiki/Tea" title="Tea">tea</a>," the March Hare said to Alice, very earnestly.
+<p>"I've had <b>nothing</b> yet," Alice replied in an offended tone, "so I can't take more."
+</p><p>"You mean you can't take <i>less</i>?" said the Hatter. "It's very easy to take <i>more</i> than nothing."
+</p>
+</td></tr></table>
+<p>Wikis can make <a href="/wiki/WYSIWYG" title="WYSIWYG">WYSIWYG</a> editing available to users, usually by means of <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> or an <a href="/wiki/ActiveX" title="ActiveX">ActiveX</a> control that translates graphically entered formatting instructions into the corresponding <a href="/wiki/HTML_element" title="HTML element">HTML tags</a> or wikitext. In those implementations, the markup of a newly edited, marked-up version of the page is generated and submitted to the server <a href="/w/index.php?title=Transparency_(human-computer_interaction)&amp;action=edit&amp;redlink=1" class="new" title="Transparency (human-computer interaction) (page does not exist)">transparently</a>, shielding the user from this technical detail. However, WYSIWYG controls do not always provide all of the features available in wikitext, and some users prefer not to use a WYSIWYG editor. Hence, many of these sites offer some means to edit the wikitext directly.
+</p><p>Some wikis keep a record of changes made to wiki pages; often, every version of the page is stored. This means that authors can revert to an older version of the page, should it be necessary because a mistake has been made or the page has been vandalized. Many implementations, like <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a>, allow users to supply an <i>edit summary</i> when they edit a page; this is a short piece of text summarising the changes. It is not inserted into the article, but is stored along with that revision of the page, allowing users to explain what has been done and why; this is similar to a log message when making changes to a <a href="/wiki/Revision_control" title="Revision control">revision-control</a> system.
+</p>
+<h3><span class="mw-headline" id="Navigation">Navigation</span></h3>
+<p>Within the text of most pages there are usually a large number of <a href="/wiki/Hypertext" title="Hypertext">hypertext</a> links to other pages. This form of non-linear navigation is more "native" to wiki than structured/formalized navigation schemes. That said, users can also create any number of index or table-of-contents pages, with hierarchical categorization or whatever form of organization they like. These may be challenging to maintain by hand, as multiple authors create and delete pages in an ad hoc manner. Wikis can provide one or more ways to categorize or tag pages to support the maintenance of such index pages.
+</p><p>Some wikis have a backlink feature, which displays all pages that link to a given page.  It is typical in a wiki to create links to pages that do not yet exist, as a way to invite others to share what they know about a subject new to the wiki.
+</p>
+<h3><span class="mw-headline" id="Linking_and_creating_pages">Linking and creating pages</span></h3>
+<p>Links are created using a specific syntax, the so-called "link pattern" (also see <a href="/w/index.php?title=CURIE&amp;action=edit&amp;redlink=1" class="new" title="CURIE (page does not exist)">CURIE</a>). Originally, most wikis{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} used <a href="/wiki/CamelCase" title="CamelCase">CamelCase</a> to name pages and create links. These are produced by capitalizing words in a phrase and removing the spaces between them (the word "CamelCase" is itself an example). While CamelCase makes linking very easy, it also leads to links which are written in a form that deviates from the standard spelling. To link to a page with a single-word title, one must abnormally capitalize one of the letters in the word (e.g. "WiKi" instead of "Wiki"). CamelCase-based wikis are instantly recognizable because they have many links with names such as "TableOfContents" and "BeginnerQuestions." It is possible for a wiki to render the visible anchor of such links "pretty" by reinserting spaces, and possibly also reverting to lower case. However, this reprocessing of the link to improve the readability of the anchor is limited by the loss of capitalization information caused by CamelCase reversal. For example, "RichardWagner" should be rendered as "Richard Wagner", whereas "PopularMusic" should be rendered as "popular music". There is no easy way to determine which <a href="/wiki/Capital_letter" title="Capital letter" class="mw-redirect">capital letters</a> should remain capitalized. As a result, wikis now have "free linking" using brackets, and some disable CamelCase by default.
+</p>
+<h3><span class="mw-headline" id="Searching">Searching</span></h3>
+<p>Most wikis offer at least a title <a href="/wiki/Search_algorithm" title="Search algorithm">search</a>, and sometimes a <a href="/wiki/Full_text_search" title="Full text search">full-text search</a>. The scalability of the search depends on whether the wiki engine uses a database. Some wikis, such as <a href="/wiki/PmWiki" title="PmWiki">PmWiki</a>, use <a href="/wiki/Flat_file" title="Flat file" class="mw-redirect">flat files</a>.<sup id="cite_ref-Augar_9-0" class="reference"><a href="#cite_note-Augar-9">[9]</a></sup> MediaWiki's first versions used flat files, but it was rewritten by <a href="/w/index.php?title=Lee_Daniel_Crocker&amp;action=edit&amp;redlink=1" class="new" title="Lee Daniel Crocker (page does not exist)">Lee Daniel Crocker</a> in the early 2000s to be a database application. Indexed database access is necessary for high speed searches on large wikis. Alternatively, external <a href="/w/index.php?title=Web_search_engine&amp;action=edit&amp;redlink=1" class="new" title="Web search engine (page does not exist)">search engines</a> such as <a href="/wiki/Google_Search" title="Google Search">Google Search</a> can sometimes be used on wikis with limited searching functions in order to obtain more precise results.
+</p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:HNL_Wiki_Wiki_Bus.jpg" title="File:HNL Wiki Wiki Bus.jpg">File:HNL Wiki Wiki Bus.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=Wiki_Wiki_Shuttle&amp;action=edit&amp;redlink=1" class="new" title="Wiki Wiki Shuttle (page does not exist)">Wiki Wiki Shuttle</a> at <a href="/wiki/Honolulu_International_Airport" title="Honolulu International Airport">Honolulu International Airport</a></div></div></div>
+<p><a href="/wiki/WikiWikiWeb" title="WikiWikiWeb">WikiWikiWeb</a> was the first wiki.<sup id="cite_ref-ebersbach10_10-0" class="reference"><a href="#cite_note-ebersbach10-10">[10]</a></sup> Ward Cunningham started developing WikiWikiWeb in Portland, Oregon, in 1994, and installed it on the <a href="/wiki/Domain_name" title="Domain name">Internet domain</a> <a href="/w/index.php?title=C2.com&amp;action=edit&amp;redlink=1" class="new" title="C2.com (page does not exist)">c2.com</a> on March 25, 1995. It was named by Cunningham, who remembered a <a href="/wiki/Honolulu_International_Airport" title="Honolulu International Airport">Honolulu International Airport</a> counter employee telling him to take the "<a href="/w/index.php?title=Wiki_Wiki_Shuttle&amp;action=edit&amp;redlink=1" class="new" title="Wiki Wiki Shuttle (page does not exist)">Wiki Wiki Shuttle</a>" bus that runs between the airport's terminals. According to Cunningham, "I chose wiki-wiki as an alliterative substitute for 'quick' and thereby avoided naming this stuff quick-web."<sup id="cite_ref-cunningham_11-0" class="reference"><a href="#cite_note-cunningham-11">[11]</a></sup><sup id="cite_ref-history_12-0" class="reference"><a href="#cite_note-history-12">[12]</a></sup>
+</p><p>Cunningham was in part inspired by Apple's <a href="/wiki/HyperCard" title="HyperCard">HyperCard</a>, which he had used before but which was single-user.<sup id="cite_ref-artima_13-0" class="reference"><a href="#cite_note-artima-13">[13]</a></sup> Apple had designed a system allowing users to create virtual "card stacks" supporting links among the various cards. Cunningham developed <a href="/wiki/Vannevar_Bush" title="Vannevar Bush">Vannevar Bush's</a> ideas by allowing users to "comment on and change one another's text."<sup id="cite_ref-Britannica_1-1" class="reference"><a href="#cite_note-Britannica-1">[1]</a></sup><sup id="cite_ref-hypercard_14-0" class="reference"><a href="#cite_note-hypercard-14">[14]</a></sup>  Cunningham says his goals were to link together the experiences of multiple people to create a new literature to document programming <a href="/wiki/Pattern_language" title="Pattern language">patterns</a>, and to harness people's natural desire to talk and tell stories with a technology that would feel comfortable to those not used to "authoring".<sup id="cite_ref-artima_13-1" class="reference"><a href="#cite_note-artima-13">[13]</a></sup>
+</p><p><a href="/w/index.php?title=Wikipedia&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia (page does not exist)">Wikipedia</a> became the most famous wiki site, entering the top ten most popular websites in 2007.  In the early 2000s, wikis were increasingly adopted in enterprise as collaborative software. Common uses included project communication, intranets, and documentation, initially for technical users. Some <a href="/w/index.php?title=Corporate_wiki&amp;action=edit&amp;redlink=1" class="new" title="Corporate wiki (page does not exist)">companies use wikis</a> as their only collaborative software and as a replacement for static intranets, and some schools and universities use wikis to enhance <a href="/w/index.php?title=Group_learning&amp;action=edit&amp;redlink=1" class="new" title="Group learning (page does not exist)">group learning</a>. There may be greater use of wikis behind <a href="/w/index.php?title=Firewall_(computing)&amp;action=edit&amp;redlink=1" class="new" title="Firewall (computing) (page does not exist)">firewalls</a> than on the public Internet. On March 15, 2007, the word <i>wiki</i> was listed in the online <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i>.<sup id="cite_ref-OED1_15-0" class="reference"><a href="#cite_note-OED1-15">[15]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Implementations">Implementations</span></h2>
+<p><a href="/wiki/Wiki_software" title="Wiki software">Wiki software</a> is a type of <a href="/wiki/Collaborative_software" title="Collaborative software">collaborative software</a> that runs a wiki system, allowing web pages to be created and edited using a common web browser.  It may be implemented as a series of scripts behind an existing <a href="/wiki/Web_server" title="Web server">web server</a>, or as a standalone <a href="/wiki/Application_server" title="Application server">application server</a> that runs on one or more web servers. The content is stored in a <a href="/wiki/File_system" title="File system">file system</a>, and changes to the content are stored in a <a href="/wiki/Relational_database_management_system" title="Relational database management system">relational database management system</a>. A commonly implemented software package is <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a>, which runs <a href="/w/index.php?title=Wikipedia&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia (page does not exist)">Wikipedia</a>. See the <a href="/wiki/List_of_wiki_software" title="List of wiki software">List of wiki software</a> for further information. Alternatively, <a href="/w/index.php?title=Personal_wiki&amp;action=edit&amp;redlink=1" class="new" title="Personal wiki (page does not exist)">personal wikis</a> run as a standalone application on a single computer. <a href="/w/index.php?title=WikidPad&amp;action=edit&amp;redlink=1" class="new" title="WikidPad (page does not exist)">WikidPad</a> is an example. Or even single local HTML file with JavaScript inside&#160;– like <a href="/wiki/TiddlyWiki" title="TiddlyWiki">TiddlyWiki</a>.
+</p><p>Wikis can also be created on a "<a href="/w/index.php?title=Wiki_farm&amp;action=edit&amp;redlink=1" class="new" title="Wiki farm (page does not exist)">wiki farm</a>", where the server side software is implemented by the wiki farm owner. <a href="/w/index.php?title=PBwiki&amp;action=edit&amp;redlink=1" class="new" title="PBwiki (page does not exist)">PBwiki</a>, <a href="/wiki/Socialtext" title="Socialtext">Socialtext</a>, <a href="/w/index.php?title=Wetpaint&amp;action=edit&amp;redlink=1" class="new" title="Wetpaint (page does not exist)">Wetpaint</a>, and <a href="/w/index.php?title=Wikia&amp;action=edit&amp;redlink=1" class="new" title="Wikia (page does not exist)">Wikia</a> are popular examples of such services. Some wiki farms can also make private, password-protected wikis. Note that free wiki farms generally contain advertising on every page. For more information, see <a href="/w/index.php?title=Comparison_of_wiki_farms&amp;action=edit&amp;redlink=1" class="new" title="Comparison of wiki farms (page does not exist)">Comparison of wiki farms</a>.
+</p>
+<h2><span class="mw-headline" id="Trust_and_security">Trust and security</span></h2>
+<h3><span class="mw-headline" id="Controlling_changes">Controlling changes</span></h3>
+<div class="dablink"><span class="plainlinks selfreference">"Recent changes" redirects here. For the Wikipedia help page, see <a href="/wiki/Help:Recent_changes" title="Help:Recent changes">Help:Recent changes</a>.</span></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:History_Comparison_Example_(Vector).png" title="File:History Comparison Example (Vector).png">File:History Comparison Example (Vector).png</a>  <div class="thumbcaption">History comparison reports highlight the changes between two revisions of a page.</div></div></div>
+<p>Wikis are generally designed with the philosophy of making it easy to correct mistakes, rather than making it difficult to make them. Thus, while wikis are very open, they provide a means to verify the validity of recent additions to the body of pages. The most prominent, on almost every wiki, is the "Recent Changes" page—a specific list numbering recent edits, or a list of edits made within a given time frame.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Some wikis can filter the list to remove minor edits and edits made by automatic importing scripts ("<a href="/wiki/Internet_bot" title="Internet bot">bots</a>").<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+</p><p>From the change log, other functions are accessible in most wikis: the <a href="/wiki/Changelog" title="Changelog">revision history</a> shows previous page versions and the <a href="/wiki/Diff" title="Diff">diff</a> feature highlights the changes between two revisions. Using the revision history, an editor can view and restore a previous version of the article. The diff feature can be used to decide whether or not this is necessary. A regular wiki user can view the diff of an edit listed on the "Recent Changes" page and, if it is an unacceptable edit, consult the history, restoring a previous revision; this process is more or less streamlined, depending on the wiki software used.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+</p><p>In case unacceptable edits are missed on the "recent changes" page, some wiki engines provide additional content control. It can be monitored to ensure that a page, or a set of pages, keeps its quality. A person willing to maintain pages will be warned of modifications to the pages, allowing him or her to verify the validity of new editions quickly.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> A watchlist is a common implementation of this.
+</p><p>Some wikis also implement "patrolled revisions", in which editors with the requisite credentials can mark some edits as not vandalism. A "flagged revisions" system can prevent edits from going live until they have been reviewed.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Trustworthiness">Trustworthiness</span></h3>
+<p>Critics of publicly editable wiki systems argue that these systems could be easily tampered with, while proponents argue that the community of users can catch malicious content and correct it.<sup id="cite_ref-Britannica_1-2" class="reference"><a href="#cite_note-Britannica-1">[1]</a></sup> Lars Aronsson, a data systems specialist, summarizes the controversy as follows:
+</p>
+<blockquote class="templatequote">Most people, when they first learn about the wiki concept, assume that a Web site that can be edited by anybody would soon be rendered useless by destructive input. It sounds like offering free spray cans next to a grey concrete wall. The only likely outcome would be ugly graffiti and simple tagging, and many artistic efforts would not be long lived. Still, it seems to work very well.<sup id="cite_ref-ebersbach10_10-1" class="reference"><a href="#cite_note-ebersbach10-10">[10]</a></sup>
+</blockquote>
+<p>High editorial standards in medicine have led to the idea of expert-moderated wikis.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Some wikis allow one to link to specific versions of articles, which has been useful to the scientific community, in that expert peer reviewers could analyse articles, improve them and provide links to the trusted version of that article.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+</p><p>Noveck points out that "participants are accredited by members of the wiki community, who have a vested interest in preserving the quality of the work product, on the basis of their ongoing participation." On controversial topics that have been subject to disruptive editing, a wiki may restrict editing to registered users.<sup id="cite_ref-Noveck_23-0" class="reference"><a href="#cite_note-Noveck-23">[23]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Security">Security</span></h3>
+<p>The open philosophy of wiki - allowing anyone to edit content, does not ensure that every editor's intentions are well-mannered. For example, vandalism (changing wiki content to something offensive or nonsensical) can be a major problem. On larger wiki sites, such as those run by the <a href="/w/index.php?title=Wikimedia_Foundation&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia Foundation (page does not exist)">Wikimedia Foundation</a>, <a href="/wiki/Vandalism" title="Vandalism">vandalism</a> can go unnoticed for some period of time. Wikis, because of their open access nature, are susceptible to intentional disruption, known as "<a href="/wiki/Troll_(Internet)" title="Troll (Internet)">trolling</a>".
+Wikis tend to take a <i><a href="/wiki/Soft_security" title="Soft security">soft-security</a></i><sup id="cite_ref-soft_security_24-0" class="reference"><a href="#cite_note-soft_security-24">[24]</a></sup><a href="/w/index.php?title=Template:Verify_credibility&amp;action=edit&amp;redlink=1" class="new" title="Template:Verify credibility (page does not exist)">Template:Verify credibility</a> approach to the problem of vandalism; making damage easy to undo rather than attempting to prevent damage. Larger wikis often employ sophisticated methods, such as bots that automatically identify and revert vandalism and JavaScript enhancements that show characters that have been added in each edit. In this way vandalism can be limited to just "minor vandalism" or "sneaky vandalism", where the characters added/eliminated are so few that bots do not identify them and users do not pay much attention to them.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><a href="/w/index.php?title=Template:Verify_credibility&amp;action=edit&amp;redlink=1" class="new" title="Template:Verify credibility (page does not exist)">Template:Verify credibility</a>
+</p><p>The amount of vandalism a wiki receives depends on how open the wiki is. For instance, some wikis allow unregistered users, identified by their <a href="/wiki/IP_address" title="IP address">IP addresses</a>, to edit content, whilst others limit this function to just registered users. Most wikis allow anonymous editing without an account,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> but give registered users additional editing functions; on most wikis, becoming a registered user is a short and simple process. Some wikis require an additional waiting period before gaining access to certain tools. For example, on the <a href="/wiki/English_Wikipedia" title="English Wikipedia">English Wikipedia</a>, registered users can rename pages only if their account is at least four days old. Other wikis such as the <a href="/wiki/Portuguese_Wikipedia" title="Portuguese Wikipedia">Portuguese Wikipedia</a> use an editing requirement instead of a time requirement, granting extra tools after the user has made a certain number of edits to prove their trustworthiness and usefulness as an editor. <a href="/w/index.php?title=Vandalism_of_Wikipedia&amp;action=edit&amp;redlink=1" class="new" title="Vandalism of Wikipedia (page does not exist)">Vandalism of Wikipedia</a> is common (though policed and usually reverted) because it is extremely open, allowing anyone with a computer and Internet access to edit it, but making it grow rapidly. In contrast, <a href="/w/index.php?title=Citizendium&amp;action=edit&amp;redlink=1" class="new" title="Citizendium (page does not exist)">Citizendium</a> requires an editor's real name and short autobiography, affecting the growth of the wiki but sometimes helping stop vandalism.
+</p><p>Edit wars can also occur as users repetitively revert a page to the version they favor. Some wiki software allows an administrator to stop such edit wars by locking a page from further editing until a decision has been made on what version of the page would be most appropriate.<sup id="cite_ref-Legal_7-1" class="reference"><a href="#cite_note-Legal-7">[7]</a></sup>
+</p><p>Some wikis are in a better position than others to control behavior due to governance structures existing outside the wiki. For instance, a college teacher can create incentives for students to behave themselves on a class wiki they administer, by limiting editing to logged-in users and pointing out that all contributions can be traced back to the contributors. Bad behavior can then be dealt with in accordance with university policies.<sup id="cite_ref-Augar_9-1" class="reference"><a href="#cite_note-Augar-9">[9]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Potential_malware_vector">Potential malware vector</span></h4>
+<p><a href="/wiki/Malware" title="Malware">Malware</a> can also be problem, as users can add links to sites hosting malicious code. For example, a German Wikipedia article about the <a href="/w/index.php?title=Blaster_Worm&amp;action=edit&amp;redlink=1" class="new" title="Blaster Worm (page does not exist)">Blaster Worm</a> was edited to include a hyperlink to a malicious website. Users of vulnerable Microsoft Windows systems who followed the link would be infected.<sup id="cite_ref-Legal_7-2" class="reference"><a href="#cite_note-Legal-7">[7]</a></sup> A countermeasure is the use of software that prevents users from saving an edit that contains a link to a site listed on a <a href="/w/index.php?title=Blacklist&amp;action=edit&amp;redlink=1" class="new" title="Blacklist (page does not exist)">blacklist</a> of malware sites.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Communities">Communities</span></h2>
+<h3><span class="mw-headline" id="Applications">Applications</span></h3>
+<p>The English Wikipedia has the largest user base among wikis on the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> and ranks in the top 10 among all Web sites in terms of traffic.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><a href="/w/index.php?title=Template:Update_inline&amp;action=edit&amp;redlink=1" class="new" title="Template:Update inline (page does not exist)">Template:Update inline</a> Other large wikis include the WikiWikiWeb, <a href="/wiki/Memory_Alpha" title="Memory Alpha">Memory Alpha</a>, <a href="/w/index.php?title=Wikivoyage&amp;action=edit&amp;redlink=1" class="new" title="Wikivoyage (page does not exist)">Wikivoyage</a> and <a href="/wiki/Susning.nu" title="Susning.nu">Susning.nu</a>, a Swedish-language knowledge base.  Medical and health-related wiki examples include <a href="/w/index.php?title=Ganfyd&amp;action=edit&amp;redlink=1" class="new" title="Ganfyd (page does not exist)">Ganfyd</a>, an online collaborative medical reference that is edited by medical professionals and invited non-medical experts.<sup id="cite_ref-BMC_8-1" class="reference"><a href="#cite_note-BMC-8">[8]</a></sup>
+</p><p>Many wiki <a href="/wiki/Online_community" title="Online community">communities</a> are private, particularly within <a href="/wiki/Enterprise_software" title="Enterprise software">enterprises</a>. They are often used as <a href="/wiki/Internal_documentation" title="Internal documentation">internal documentation</a> for in-house systems and applications. Some companies use wikis to allow customers to help produce software documentation.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> A study of corporate wiki users found that they could be divided into "synthesizers" and "adders" of content. Synthesizers' frequency of contribution was affected more by their impact on other wiki users, while adders' contribution frequency was affected more by being able to accomplish their immediate work.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> In 2005, the Gartner Group, noting the increasing popularity of wikis, estimated that they would become mainstream collaboration tools in at least 50% of companies by 2009.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup><a href="/w/index.php?title=Template:Update_inline&amp;action=edit&amp;redlink=1" class="new" title="Template:Update inline (page does not exist)">Template:Update inline</a> Wikis can be used for <a href="/wiki/Project_management" title="Project management">project management</a>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup><a href="/w/index.php?title=Template:Verify_credibility&amp;action=edit&amp;redlink=1" class="new" title="Template:Verify credibility (page does not exist)">Template:Verify credibility</a>
+</p><p>Wikis have also been used in the academic community for sharing and dissemination of information across institutional and international boundaries.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> In those settings, they have been found useful for collaboration on <a href="/w/index.php?title=Grant_writing&amp;action=edit&amp;redlink=1" class="new" title="Grant writing (page does not exist)">grant writing</a>, <a href="/wiki/Strategic_planning" title="Strategic planning">strategic planning</a>, departmental documentation, and committee work.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> In the mid-2000s, the increasing trend amongst industries toward collaboration was placing a heavier impetus upon educators to make students proficient in collaborative work, inspiring even greater interest in wikis being used in the classroom.<sup id="cite_ref-Legal_7-3" class="reference"><a href="#cite_note-Legal-7">[7]</a></sup>
+</p><p>Wikis have found some use within the legal profession, and within government. Examples include the <a href="/w/index.php?title=Central_Intelligence_Agency&amp;action=edit&amp;redlink=1" class="new" title="Central Intelligence Agency (page does not exist)">Central Intelligence Agency</a>'s <a href="/w/index.php?title=Intellipedia&amp;action=edit&amp;redlink=1" class="new" title="Intellipedia (page does not exist)">Intellipedia</a>, designed to share and collect <a href="/wiki/Intelligence_assessment" title="Intelligence assessment">intelligence</a>, dKospedia, which was used by the <a href="/wiki/American_Civil_Liberties_Union" title="American Civil Liberties Union">American Civil Liberties Union</a> to assist with review of documents pertaining to internment of detainees in <a href="/w/index.php?title=Guant%C3%A1namo_Bay&amp;action=edit&amp;redlink=1" class="new" title="Guantánamo Bay (page does not exist)">Guantánamo Bay</a>;<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> and the wiki of the <a href="/wiki/United_States_Court_of_Appeals_for_the_Seventh_Circuit" title="United States Court of Appeals for the Seventh Circuit">United States Court of Appeals for the Seventh Circuit</a>, used to post court rules and allow practitioners to comment and ask questions. The <a href="/wiki/United_States_Patent_and_Trademark_Office" title="United States Patent and Trademark Office">United States Patent and Trademark Office</a> operates <a href="/w/index.php?title=Peer-to-Patent&amp;action=edit&amp;redlink=1" class="new" title="Peer-to-Patent (page does not exist)">Peer-to-Patent</a>, a wiki to allow the public to collaborate on finding <a href="/wiki/Prior_art" title="Prior art">prior art</a> relevant to examination of pending patent applications. <a href="/wiki/Queens" title="Queens">Queens</a>, New York has used a wiki to allow citizens to collaborate on the design and planning of a local park. <a href="/wiki/Cornell_Law_School" title="Cornell Law School">Cornell Law School</a> founded a wiki-based legal dictionary called Wex, whose growth has been hampered by restrictions on who can edit.<sup id="cite_ref-Noveck_23-1" class="reference"><a href="#cite_note-Noveck-23">[23]</a></sup>
+</p>
+<h3><span class="mw-headline" id="WikiNodes">WikiNodes</span></h3>
+<p>WikiNodes are pages on wikis that describe related wikis. They are usually organized as neighbors and delegates. A <i>neighbor</i> wiki is simply a wiki that may discuss similar content or may otherwise be of interest. A <i>delegate</i> wiki is a wiki that agrees to have certain content delegated to that wiki.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>
+</p><p>One way of finding a wiki on a specific subject is to follow the wiki-node network from wiki to wiki; another is to take a Wiki "bus tour", for example: <a href="/w/index.php?title=Template:Srlink&amp;action=edit&amp;redlink=1" class="new" title="Template:Srlink (page does not exist)">Template:Srlink</a>.
+</p>
+<h3><span class="mw-headline" id="Participants">Participants</span></h3>
+<p>The four basic types of users who participate in wikis are reader, author, wiki administrator and system administrator. The system administrator is responsible for installation and maintenance of the wiki engine and the container web server. The wiki administrator maintains wiki content and is provided additional functions pertaining to pages (e.g. page protection and deletion), and can adjust users' access rights by, for instance, blocking them from editing.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Growth_factors">Growth factors</span></h3>
+<p>A study of several hundred wikis showed that a relatively high number of administrators for a given content size is likely to reduce growth;<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> that access controls restricting editing to registered users tends to reduce growth; that a lack of such access controls tends to fuel new user registration; and that higher administration ratios (i.e. admins/user) have no significant effect on content or population growth.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Conferences">Conferences</span></h2>
+<p>Conferences and meetings about wikis in general include:
+</p>
+<ul>
+<li> The International Symposium on Wikis (<a href="/wiki/WikiSym" title="WikiSym">WikiSym</a>), a <a href="/w/index.php?title=Academic_conference&amp;action=edit&amp;redlink=1" class="new" title="Academic conference (page does not exist)">conference</a> dedicated to wiki research and practice in general.
+</li>
+<li> <a href="/w/index.php?title=RecentChangesCamp&amp;action=edit&amp;redlink=1" class="new" title="RecentChangesCamp (page does not exist)">RecentChangesCamp</a>, an <a href="/w/index.php?title=Unconference&amp;action=edit&amp;redlink=1" class="new" title="Unconference (page does not exist)">unconference</a> on wiki-related topics
+</li>
+</ul>
+<p>Conferences on specific wiki sites and applications include:
+</p>
+<ul>
+<li> Atlassian Summit, an annual conference for users of <a href="/w/index.php?title=Atlassian&amp;action=edit&amp;redlink=1" class="new" title="Atlassian (page does not exist)">Atlassian</a> software, including <a href="/w/index.php?title=Confluence_(software)&amp;action=edit&amp;redlink=1" class="new" title="Confluence (software) (page does not exist)">Confluence</a><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>
+</li>
+<li> RegioWikiCamp, a semi-annual unconference on "regiowikis", or wikis on cities and other geographic areas.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup>
+</li>
+<li> SMWCon, a bi-annual conference for users and developers of <a href="/w/index.php?title=Semantic_MediaWiki&amp;action=edit&amp;redlink=1" class="new" title="Semantic MediaWiki (page does not exist)">Semantic MediaWiki</a>.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>
+</li>
+<li> TikiFest, a frequently held meeting for users and developers of <a href="/wiki/Tiki_Wiki_CMS_Groupware" title="Tiki Wiki CMS Groupware">Tiki Wiki CMS Groupware</a>.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup>
+</li>
+<li> <a href="/w/index.php?title=Wikimania&amp;action=edit&amp;redlink=1" class="new" title="Wikimania (page does not exist)">Wikimania</a>, an annual conference dedicated to the research and practice of <a href="/w/index.php?title=Wikimedia_Foundation&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia Foundation (page does not exist)">Wikimedia Foundation</a> projects like Wikipedia.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Rules">Rules</span></h2>
+<p>Wikis typically have a set of rules governing user behavior. Wikipedia, for instance, has a labyrinthine set of policies and guidelines summed up in its five pillars: Wikipedia is an encyclopedia; Wikipedia has a neutral point of view; Wikipedia is free content; Wikipedians should interact in a respectful and civil manner; and Wikipedia does not have firm rules. Many wikis have adopted a set of commandments. For instance, <a href="/w/index.php?title=Conservapedia&amp;action=edit&amp;redlink=1" class="new" title="Conservapedia (page does not exist)">Conservapedia</a> commands, among other things, that its editors use "<a href="/wiki/Before_Christ" title="Before Christ" class="mw-redirect">B.C.</a>" rather than "<a href="/wiki/B.C.E." title="B.C.E." class="mw-redirect">B.C.E.</a>" when referring to years prior to the common era and refrain from "unproductive activity."<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> One teacher instituted a commandment for a class wiki, "<a href="/w/index.php?title=The_Golden_Rule&amp;action=edit&amp;redlink=1" class="new" title="The Golden Rule (page does not exist)">Wiki unto others as you would have them wiki unto you</a>."<sup id="cite_ref-Augar_9-2" class="reference"><a href="#cite_note-Augar-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Legal_environment">Legal environment</span></h2>
+<p>Joint authorship of articles, in which different users participate in correcting, editing, and compiling the finished product, can also cause editors to become <a href="/wiki/Tenants_in_common" title="Tenants in common" class="mw-redirect">tenants in common</a> of the copyright, making it impossible to republish without the permission of all co-owners, some of whose identities may be unknown due to pseudonymous or anonymous editing.<sup id="cite_ref-Legal_7-4" class="reference"><a href="#cite_note-Legal-7">[7]</a></sup> However, where persons contribute to a collective work such as an encyclopedia, there is no joint ownership if the contributions are separate and distinguishable.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> Despite most wikis' tracking of individual contributions, the action of contributing to a wiki page is still arguably one of jointly correcting, editing, or compiling which would give rise to joint ownership.
+</p><p>Some copyright issues can be alleviated through the use of an <a href="/wiki/Open_content" title="Open content">open content</a> license. Version 2 of the <a href="/w/index.php?title=GNU_Free_Documentation_License&amp;action=edit&amp;redlink=1" class="new" title="GNU Free Documentation License (page does not exist)">GNU Free Documentation License</a> includes a specific provision for wiki relicensing; <a href="/wiki/Creative_Commons" title="Creative Commons">Creative Commons</a> licenses are also popular. When no license is specified, an implied license to read and add content to a wiki may be deemed to exist on the grounds of business necessity and the inherent nature of a wiki, although the legal basis for such an implied license may not exist in all circumstances.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>Wikis and their users can be held liable for certain activities that occur on the wiki. If a wiki owner displays indifference and forgoes controls (such as banning copyright infringers) that he could have exercised to stop copyright infringement, he may be deemed to have authorized infringement, especially if the wiki is primarily used to infringe copyrights or obtains direct financial benefit, such as advertising revenue, from infringing activities.<sup id="cite_ref-Legal_7-5" class="reference"><a href="#cite_note-Legal-7">[7]</a></sup> In the United States, wikis may benefit from <a href="/w/index.php?title=Section_230_of_the_Communications_Decency_Act&amp;action=edit&amp;redlink=1" class="new" title="Section 230 of the Communications Decency Act (page does not exist)">Section 230 of the Communications Decency Act</a>, which protects sites that engage in "<a href="/w/index.php?title=Good_Samaritan&amp;action=edit&amp;redlink=1" class="new" title="Good Samaritan (page does not exist)">Good Samaritan</a>" policing of harmful material, with no requirement on the quality or quantity of such self-policing.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup> However, it has also been argued that a wiki's enforcement of certain rules, such as anti-bias, verifiability, reliable sourcing, and no-original-research policies, could pose legal risks.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup> When <a href="/wiki/Defamation" title="Defamation">defamation</a> occurs on a wiki, theoretically all users of the wiki can be held liable, because any of them had the ability to remove or amend the defamatory material from the "publication." It remains to be seen whether wikis will be regarded as more akin to an <a href="/wiki/Internet_service_provider" title="Internet service provider">internet service provider</a>, which is generally not held liable due to its lack of control over publications' contents, than a publisher.<sup id="cite_ref-Legal_7-6" class="reference"><a href="#cite_note-Legal-7">[7]</a></sup>
+</p><p>It has been recommended that trademark owners monitor what information is presented about their trademarks on wikis, since courts may use such content as evidence pertaining to public perceptions. Joshua Jarvis notes, "Once misinformation is identified, the trade mark owner can simply edit the entry."<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p>{{#invoke:Portal|portal}}
+<a href="/w/index.php?title=Template:Div_col&amp;action=edit&amp;redlink=1" class="new" title="Template:Div col (page does not exist)">Template:Div col</a>
+</p>
+<ul>
+<li> <a href="/wiki/Comparison_of_wiki_software" title="Comparison of wiki software">Comparison of wiki software</a>
+</li>
+<li> <a href="/wiki/Content_management_system" title="Content management system">Content management system</a>
+</li>
+<li> <a href="/wiki/Dispersed_knowledge" title="Dispersed knowledge">Dispersed knowledge</a>
+</li>
+<li> <a href="/w/index.php?title=History_of_wikis&amp;action=edit&amp;redlink=1" class="new" title="History of wikis (page does not exist)">History of wikis</a>
+</li>
+<li> <a href="/wiki/List_of_wikis" title="List of wikis">List of wikis</a>
+</li>
+<li> <a href="/w/index.php?title=Mass_collaboration&amp;action=edit&amp;redlink=1" class="new" title="Mass collaboration (page does not exist)">Mass collaboration</a>
+</li>
+<li> <a href="/w/index.php?title=Universal_Edit_Button&amp;action=edit&amp;redlink=1" class="new" title="Universal Edit Button (page does not exist)">Universal Edit Button</a>
+</li>
+<li> <a href="/w/index.php?title=Wikis_and_education&amp;action=edit&amp;redlink=1" class="new" title="Wikis and education (page does not exist)">Wikis and education</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Div_col_end&amp;action=edit&amp;redlink=1" class="new" title="Template:Div col end (page does not exist)">Template:Div col end</a>
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<p><a href="/w/index.php?title=Template:Refbegin&amp;action=edit&amp;redlink=1" class="new" title="Template:Refbegin (page does not exist)">Template:Refbegin</a>
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Citation&amp;action=edit&amp;redlink=1" class="new" title="Template:Citation (page does not exist)">Template:Citation</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Citation&amp;action=edit&amp;redlink=1" class="new" title="Template:Citation (page does not exist)">Template:Citation</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Citation&amp;action=edit&amp;redlink=1" class="new" title="Template:Citation (page does not exist)">Template:Citation</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Citation&amp;action=edit&amp;redlink=1" class="new" title="Template:Citation (page does not exist)">Template:Citation</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Refend&amp;action=edit&amp;redlink=1" class="new" title="Template:Refend (page does not exist)">Template:Refend</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<div id="section_SpokenWikipedia" class="infobox sisterproject plainlinks haudio"><div style="text-align: center; white-space:nowrap"><b>Listen to this article</b> (<a href="/w/index.php?title=File:En-Wiki2.ogg&amp;action=edit&amp;redlink=1" class="new" title="File:En-Wiki2.ogg (page does not exist)">info/dl</a>)
+<div class="center"><div class="floatnone"><a href="/wiki/File:En-Wiki2.ogg" title="File:En-Wiki2.ogg">200px</a></div></div>
+</div>
+<p><a href="/w/index.php?title=Template:Spoken_Wikipedia_boilerplate&amp;action=edit&amp;redlink=1" class="new" title="Template:Spoken Wikipedia boilerplate (page does not exist)">Template:Spoken Wikipedia boilerplate</a><a href="/w/index.php?title=Template:Ns0&amp;action=edit&amp;redlink=1" class="new" title="Template:Ns0 (page does not exist)">Template:Ns0</a>
+<a href="/w/index.php?title=Template:Wikiversity&amp;action=edit&amp;redlink=1" class="new" title="Template:Wikiversity (page does not exist)">Template:Wikiversity</a>
+<a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://wikiindex.org/">WikiIndex</a>, a directory of wikis
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.artima.com/intv/wiki.html"><i>Exploring with Wiki</i></a>, an interview with <a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a> by Bill Verners
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.wikimatrix.org/">WikiMatrix</a>, a website for comparing wiki software and hosts
+</li>
+<li> <a rel="nofollow" class="external text" href="http://wikipapers.referata.com/wiki/Main_Page">WikiPapers</a>, a wiki about publications about wikis
+</li>
+<li> <a rel="nofollow" class="external text" href="http://code.google.com/p/wikiteam/">WikiTeam</a>, a volunteer group to preserve wikis
+</li>
+<li> Murphy, Paula (April 2006). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110709101821/http://www.ucop.edu/tltc/news/2006/04/wiki.html">Topsy-turvy World of Wiki</a>. <a href="/wiki/University_of_California" title="University of California">University of California</a>.
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Wiki_topics&amp;action=edit&amp;redlink=1" class="new" title="Template:Wiki topics (page does not exist)">Template:Wiki topics</a>
+<a href="/w/index.php?title=Template:Wiki_software&amp;action=edit&amp;redlink=1" class="new" title="Template:Wiki software (page does not exist)">Template:Wiki software</a>
+</p>
+<a href="/w/index.php?title=Template:Computer-mediated_communication&amp;action=edit&amp;redlink=1" class="new" title="Template:Computer-mediated communication (page does not exist)">Template:Computer-mediated communication</a></div>
+<p><br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.720 seconds
+Real time usage: 2.906 seconds
+Preprocessor visited node count: 1444/1000000
+Preprocessor generated node count: 7060/1000000
+Post‐expand include size: 3831/2097152 bytes
+Template argument size: 1174/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:21594-0!*!0!!en!2!* and timestamp 20161210000912
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/index.php?title=Wiki&amp;oldid=21594">http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/index.php?title=Wiki&amp;oldid=21594</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Commons_category_with_local_link_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with local link different than on Wikidata (page does not exist)">Commons category with local link different than on Wikidata</a></li><li><a href="/w/index.php?title=Category:Wikis&amp;action=edit&amp;redlink=1" class="new" title="Category:Wikis (page does not exist)">Wikis</a></li><li><a href="/w/index.php?title=Category:Hawaiian_words_and_phrases&amp;action=edit&amp;redlink=1" class="new" title="Category:Hawaiian words and phrases (page does not exist)">Hawaiian words and phrases</a></li><li><a href="/w/index.php?title=Category:Human%E2%80%93computer_interaction&amp;action=edit&amp;redlink=1" class="new" title="Category:Human–computer interaction (page does not exist)">Human–computer interaction</a></li><li><a href="/w/index.php?title=Category:Hypertext&amp;action=edit&amp;redlink=1" class="new" title="Category:Hypertext (page does not exist)">Hypertext</a></li><li><a href="/w/index.php?title=Category:Self-organization&amp;action=edit&amp;redlink=1" class="new" title="Category:Self-organization (page does not exist)">Self-organization</a></li><li><a href="/w/index.php?title=Category:Social_information_processing&amp;action=edit&amp;redlink=1" class="new" title="Category:Social information processing (page does not exist)">Social information processing</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wiki" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Wiki"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Wiki&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Wiki" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Wiki&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wiki&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wiki" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wiki" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Wiki&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Wiki&amp;oldid=21594" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Wiki&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 February 2014, at 18:53.</li>
+											<li id="footer-info-viewcount">This page has been accessed 546 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.477 secs. -->
+	</body>
+</html>

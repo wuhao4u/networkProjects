@@ -1,0 +1,84 @@
+Project 5: Roll Your Own CDN
+
+CDNs consist of 1) a large number of servers geographically distributed worldwide; 2) a system that maps clients to "good" replica servers and 3) a system that determines those mappings. In this project, you will implement the basic functionality in each of these areas. Thanks to generous support from Amazon EC2, you will build a CDN that uses EC2 sites as replica servers. 
+
+Project Description:
+http://david.choffnes.com/classes/cs4700fa16/project5.php
+
+DESIGN DECISIONS:
+1. Using GeoIP to assign 'best' datacenter for the client
+In order to select the server with potentially best performance for the specific client,
+The program selects the host using geolocation based on the IP addresses. The program 
+calculates the distance between each server's location and client's location using 
+the Haversine formula. We use a jason API to get the geo location of the client. 
+
+2. Zipf distribution cache
+We originally sort the pagecounts to get the most frequently hit pages by ourselves. Thanks
+to Professor's authoratative version of the cache, we are able to cache around 70
+files in the cache directory. We copy the cache to EC2 machines together with all the 
+code when we run deployCDN. This significantly increases the hit rate and thus saves time.
+
+-------------------------------------------------------------------------------
+
+FUTURE DESIGN IMPROVEMENT:
+1. With more time, we would like to use active measurement as a secondary method 
+in addition to the current GeoIP solution.
+
+2. We would also like to adopt cache management in memory. We will organize the 
+cache in an OrderedDict. This will save the time of looking up and loading the cached file
+in the disk. We tried LRU cache management by using an OrderedDict class. However,
+it turns out that it is slower than reading directly from disk. With more time,
+we would check diffrent python implementation.
+
+3. It is faster to store the Geo Loaction library in local machine than request it
+from the jason API. The assigend disk space is less than 10MB.
+With more time, we would like to calculate the trade offs between the library and cache
+and come up with a more balanced solution.
+
+4. We would also like to implement multithreading in the DNS server and HTTP 
+server for increase performances.
+
+-------------------------------------------------------------------------------
+
+DELIVERABLES:
+Makefile
+
+dnsserver
+dnsserver.py
+hostselector.py
+httpserver
+httpserver.py
+
+deployCDN
+runCDN
+stopCDN
+hosts.txt
+popular_raw_parser.py
+popular_raw.html
+
+cache/
+cache/downloader.py
+cache/downloader.py
+cache/pureUrl.txt
+cache/pureUrlNoFiles.txt
+cache/_wiki*
+
+-------------------------------------------------------------------------------
+
+CHALLENGES:
+1. Packing/Unpacking the QNAME and NAME in dns packet
+Because of the rather unusual format of QNAME in the Question section and 
+
+2. HTTP Caching
+We have struggled with selecting the most visted page in the Wikipadia website.
+Even though the page count files are great resources for this purpose, data mining
+from large amount of files was still challenging for us.
+
+3. Deloyments
+We were not able to direcly ssh to the dns server (cs5700cdnproject.ccs.neu.edu) directly.
+Thus, we had to deloy our dns related codes to the login server. And we are not able to 
+run our dns servers through the 'runCDN' script.
+
+4. Deloyments Cont.
+We were not proficient at writing the BASH script; so writing the three deployment scripts
+were difficult to us at first.

@@ -1,0 +1,53 @@
+Project 4: Raw Sockets
+a program called rawhttpget that takes a URL on the command line and downloads the associated file. You may use any HTTP code that you wrote for project 2 to aid in the process. However, your program must use an SOCK_STREAM/IPPROTO_RAW socket, which means that you are responsible for building the IP and TCP headers in each packet. In essence, you will be rebuilding the operating system's TCP/IP stack within your application.
+
+Project Description:
+http://david.choffnes.com/classes/cs4700fa16/project4.php
+
+README:
+
+We completed all the required functions of project4. The file
+downloaded by our program is the same with the one downloaded
+by browser
+
+DELIVERABLES:
+bpSocketLib.py : responsible for all functions related to 
+                 socket send and receive
+bpPacketLib.py : responsible for defining the TCPPacket
+                 and IPHeader class
+rawhttpget.py  : the main function and top level functions
+Makefile
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+CHALLENGE:
+Indeed, we came across many challenges. 
+1. When we first implemented three-way handshake. We couldn't
+get syn/ack from the server. It took us long to realize that
+the checksum we calculated is wrong.
+2. The checksum calculated for received tcp packet was wrong.
+It should be 0, but we just couldn't get the correct result.
+It turned out that there was a tiny mistake in the way we 
+constructed our pseudo header
+3. Despite the fact that the probability of packets arriving 
+out of order is very low, we still applied cumulative ack mechanism
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+TEST:
+Because we implemented our program iteratively, the test was 
+done iteratively. Mainly, We made use of wireshark and print 
+to help us test. There are many features of our program so 
+that we can't describe tests for all of them. But they fall
+into several categories.
+
+1. We first implemented three-way handshake, so our first 
+major test focused on three-way handshake. The sample output
+is a syn/ack with correct ack number
+2. Then we implemented GET request. The sample output is a 
+packet received with correct ack number and data.
+3. Then we tried to start the receive and ack process of 
+downloading. The sample output is the correct file 
+downloaded  
+4. We then design a proper finish mechanism of our program.
+The sample output is a FIN or FIN/ACK sent to the server.

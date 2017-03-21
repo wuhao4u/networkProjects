@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>IPv6 - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"IPv6","wgTitle":"IPv6","wgCurRevisionId":9771,"wgRevisionId":9771,"wgArticleId":9771,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","IPv6","Internet layer protocols","Internet Protocol","Network layer protocols","1996 introductions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"IPv6","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-IPv6 skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">IPv6</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Use_dmy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use dmy dates (page does not exist)">Template:Use dmy dates</a>
+</p>
+<table class="vertical-navbox nowraplinks hlist" cellspacing="5" cellpadding="0" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;"><tr><th class="" style=";padding:0.2em 0.4em 0.2em;;font-size:145%;line-height:1.2em;"><a href="/wiki/Internet_protocol_suite" title="Internet protocol suite">Internet protocol suite</a></th>
+      </tr><tr>
+<th class="" style="padding:0.1em;;;">
+<a href="/wiki/Application_layer" title="Application layer">Application layer</a></th>
+</tr><tr>
+<td class="" style="padding:0 0.1em 0.4em;;">
+<ul>
+<li> <a href="/wiki/Dynamic_Host_Configuration_Protocol" title="Dynamic Host Configuration Protocol">DHCP</a>
+</li>
+<li> <a href="/w/index.php?title=DHCPv6&amp;action=edit&amp;redlink=1" class="new" title="DHCPv6 (page does not exist)">DHCPv6</a>
+</li>
+<li> <a href="/wiki/Domain_Name_System" title="Domain Name System">DNS</a>
+</li>
+<li> <a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">FTP</a>
+</li>
+<li> <a href="/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol">HTTP</a>
+</li>
+<li> <a href="/wiki/Internet_Message_Access_Protocol" title="Internet Message Access Protocol">IMAP</a>
+</li>
+<li> <a href="/wiki/Internet_Relay_Chat" title="Internet Relay Chat">IRC</a>
+</li>
+<li> <a href="/wiki/Lightweight_Directory_Access_Protocol" title="Lightweight Directory Access Protocol">LDAP</a>
+</li>
+<li> <a href="/w/index.php?title=Media_Gateway_Control_Protocol&amp;action=edit&amp;redlink=1" class="new" title="Media Gateway Control Protocol (page does not exist)">MGCP</a>
+</li>
+<li> <a href="/wiki/Network_News_Transfer_Protocol" title="Network News Transfer Protocol">NNTP</a>
+</li>
+<li> <a href="/wiki/Border_Gateway_Protocol" title="Border Gateway Protocol">BGP</a>
+</li>
+<li> <a href="/wiki/Network_Time_Protocol" title="Network Time Protocol">NTP</a>
+</li>
+<li> <a href="/wiki/Post_Office_Protocol" title="Post Office Protocol">POP</a>
+</li>
+<li> <a href="/wiki/Open_Network_Computing_Remote_Procedure_Call" title="Open Network Computing Remote Procedure Call">RPC</a>
+</li>
+<li> <a href="/wiki/Real-time_Transport_Protocol" title="Real-time Transport Protocol">RTP</a>
+</li>
+<li> <a href="/wiki/Real_Time_Streaming_Protocol" title="Real Time Streaming Protocol">RTSP</a>
+</li>
+<li> <a href="/wiki/Routing_Information_Protocol" title="Routing Information Protocol">RIP</a>
+</li>
+<li> <a href="/wiki/Session_Initiation_Protocol" title="Session Initiation Protocol">SIP</a>
+</li>
+<li> <a href="/wiki/Simple_Mail_Transfer_Protocol" title="Simple Mail Transfer Protocol">SMTP</a>
+</li>
+<li> <a href="/wiki/Simple_Network_Management_Protocol" title="Simple Network Management Protocol">SNMP</a>
+</li>
+<li> <a href="/wiki/SOCKS" title="SOCKS">SOCKS</a>
+</li>
+<li> <a href="/wiki/Secure_Shell" title="Secure Shell">SSH</a>
+</li>
+<li> <a href="/wiki/Telnet" title="Telnet">Telnet</a>
+</li>
+<li> <a href="/wiki/Transport_Layer_Security" title="Transport Layer Security">TLS/SSL</a>
+</li>
+<li> <a href="/wiki/XMPP" title="XMPP">XMPP</a>
+</li>
+<li> <a href="/w/index.php?title=Category:Application_layer_protocols&amp;action=edit&amp;redlink=1" class="new" title="Category:Application layer protocols (page does not exist)"><i>more...</i></a></td>
+</li>
+</ul>
+</tr><tr>
+<th class="" style="padding:0.1em;;;">
+<a href="/wiki/Transport_layer" title="Transport layer">Transport layer</a></th>
+</tr><tr>
+<td class="" style="padding:0 0.1em 0.4em;;">
+<ul>
+<li> <a href="/wiki/Transmission_Control_Protocol" title="Transmission Control Protocol">TCP</a>
+</li>
+<li> <a href="/wiki/User_Datagram_Protocol" title="User Datagram Protocol">UDP</a>
+</li>
+<li> <a href="/wiki/Datagram_Congestion_Control_Protocol" title="Datagram Congestion Control Protocol">DCCP</a>
+</li>
+<li> <a href="/w/index.php?title=Stream_Control_Transmission_Protocol&amp;action=edit&amp;redlink=1" class="new" title="Stream Control Transmission Protocol (page does not exist)">SCTP</a>
+</li>
+<li> <a href="/wiki/Resource_Reservation_Protocol" title="Resource Reservation Protocol">RSVP</a>
+</li>
+<li> <a href="/w/index.php?title=Category:Transport_layer_protocols&amp;action=edit&amp;redlink=1" class="new" title="Category:Transport layer protocols (page does not exist)"><i>more...</i></a></td>
+</li>
+</ul>
+</tr><tr>
+<th class="" style="padding:0.1em;;;">
+<a href="/w/index.php?title=Internet_layer&amp;action=edit&amp;redlink=1" class="new" title="Internet layer (page does not exist)">Internet layer</a></th>
+</tr><tr>
+<td class="" style="padding:0 0.1em 0.4em;;">
+<ul>
+<li> <a href="/wiki/Internet_Protocol" title="Internet Protocol">IP</a>
+<ul>
+<li> <a href="/wiki/IPv4" title="IPv4">IPv4</a>
+</li>
+<li> <strong class="selflink">IPv6</strong>
+</li>
+</ul>
+</li>
+<li> <a href="/wiki/Internet_Control_Message_Protocol" title="Internet Control Message Protocol">ICMP</a>
+</li>
+<li> <a href="/w/index.php?title=ICMPv6&amp;action=edit&amp;redlink=1" class="new" title="ICMPv6 (page does not exist)">ICMPv6</a>
+</li>
+<li> <a href="/wiki/Explicit_Congestion_Notification" title="Explicit Congestion Notification">ECN</a>
+</li>
+<li> <a href="/wiki/Internet_Group_Management_Protocol" title="Internet Group Management Protocol">IGMP</a>
+</li>
+<li> <a href="/wiki/IPsec" title="IPsec">IPsec</a>
+</li>
+<li> <a href="/w/index.php?title=Category:Internet_layer_protocols&amp;action=edit&amp;redlink=1" class="new" title="Category:Internet layer protocols (page does not exist)"><i>more...</i></a></td>
+</li>
+</ul>
+</tr><tr>
+<th class="" style="padding:0.1em;;;">
+<a href="/w/index.php?title=Link_layer&amp;action=edit&amp;redlink=1" class="new" title="Link layer (page does not exist)">Link layer</a></th>
+</tr><tr>
+<td class="" style="padding:0 0.1em 0.4em;;">
+<ul>
+<li> <a href="/wiki/Address_Resolution_Protocol" title="Address Resolution Protocol">ARP/InARP</a>
+</li>
+<li> <a href="/wiki/Neighbor_Discovery_Protocol" title="Neighbor Discovery Protocol">NDP</a>
+</li>
+<li> <a href="/wiki/Open_Shortest_Path_First" title="Open Shortest Path First">OSPF</a>
+</li>
+<li> <a href="/wiki/Tunneling_protocol" title="Tunneling protocol">Tunnels</a>
+<ul>
+<li> <a href="/wiki/Layer_2_Tunneling_Protocol" title="Layer 2 Tunneling Protocol">L2TP</a>
+</li>
+</ul>
+</li>
+<li> <a href="/wiki/Point-to-Point_Protocol" title="Point-to-Point Protocol">PTPP</a>
+</li>
+<li> <a href="/wiki/Media_access_control" title="Media access control">Media access control</a>
+<ul>
+<li> <a href="/wiki/Ethernet" title="Ethernet">Ethernet</a>
+</li>
+<li> <a href="/wiki/Digital_subscriber_line" title="Digital subscriber line">DSL</a>
+</li>
+<li> <a href="/wiki/Integrated_Services_Digital_Network" title="Integrated Services Digital Network">ISDN</a>
+</li>
+<li> <a href="/wiki/Fiber_Distributed_Data_Interface" title="Fiber Distributed Data Interface">FDDI</a>
+</li>
+<li> <a href="/wiki/DOCSIS" title="DOCSIS">DOCSIS</a>
+</li>
+</ul>
+</li>
+<li> <a href="/wiki/Category:Link_protocols" title="Category:Link protocols"><i>more...</i></a></td>
+</li>
+</ul>
+</tr><tr><td style="text-align:right;font-size:115%;"><a href="/w/index.php?title=Template:Navbar&amp;action=edit&amp;redlink=1" class="new" title="Template:Navbar (page does not exist)">Template:Navbar</a></td></tr>
+</table>
+<p><b>Internet Protocol version 6</b> (<b>IPv6</b>) is the latest revision of the <a href="/wiki/Internet_Protocol" title="Internet Protocol">Internet Protocol</a> (IP), the <a href="/w/index.php?title=Communications_protocol&amp;action=edit&amp;redlink=1" class="new" title="Communications protocol (page does not exist)">communications protocol</a> that provides an identification and location system for computers on networks and routes traffic across the <a href="/wiki/Internet" title="Internet">Internet</a>.  IPv6 was developed by the <a href="/wiki/Internet_Engineering_Task_Force" title="Internet Engineering Task Force">Internet Engineering Task Force</a> (IETF) to deal with the long-anticipated problem of <a href="/w/index.php?title=IPv4_address_exhaustion&amp;action=edit&amp;redlink=1" class="new" title="IPv4 address exhaustion (page does not exist)">IPv4 address exhaustion</a>.
+</p><p>IPv6 is intended to replace <a href="/wiki/IPv4" title="IPv4">IPv4</a>, which still carries the vast majority of <a href="/wiki/Internet_traffic" title="Internet traffic">Internet traffic</a> as of 2013.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <a href="/w/index.php?title=Template:As_of&amp;action=edit&amp;redlink=1" class="new" title="Template:As of (page does not exist)">Template:As of</a>, the percentage of users reaching Google services over IPv6 surpassed 2% for the first time.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+</p><p>Every device on the Internet must be assigned an <a href="/wiki/IP_address" title="IP address">IP address</a> in order to communicate with other devices. With the ever-increasing number of new devices being connected to the Internet, the need arose for more addresses than IPv4 is able to accommodate. IPv6 uses a 128-<a href="/wiki/Bit" title="Bit">bit</a> address, allowing 2<sup>128</sup>, or approximately <a href="/w/index.php?title=Template:Val&amp;action=edit&amp;redlink=1" class="new" title="Template:Val (page does not exist)">Template:Val</a> addresses, or more than <a href="/w/index.php?title=Template:Val&amp;action=edit&amp;redlink=1" class="new" title="Template:Val (page does not exist)">Template:Val</a> times as many as IPv4, which uses 32-bit addresses. IPv4 allows only approximately 4.3 billion addresses. The two protocols are not designed to be <a href="/wiki/Interoperable" title="Interoperable" class="mw-redirect">interoperable</a>, complicating the transition to IPv6.
+</p><p>IPv6 addresses are represented as eight groups of four <a href="/wiki/Hexadecimal" title="Hexadecimal">hexadecimal</a> digits separated by colons, for example 2001:0db8:85a3:0042:1000:8a2e:0370:7334, but methods of abbreviation of this full notation exist.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Technical_overview"><span class="tocnumber">1</span> <span class="toctext">Technical overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Motivation_and_origin"><span class="tocnumber">2</span> <span class="toctext">Motivation and origin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#IPv4"><span class="tocnumber">2.1</span> <span class="toctext">IPv4</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Working-group_proposals"><span class="tocnumber">2.2</span> <span class="toctext">Working-group proposals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Comparison_with_IPv4"><span class="tocnumber">3</span> <span class="toctext">Comparison with IPv4</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Larger_address_space"><span class="tocnumber">3.1</span> <span class="toctext">Larger address space</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Multicasting"><span class="tocnumber">3.2</span> <span class="toctext">Multicasting</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Stateless_address_autoconfiguration_.28SLAAC.29"><span class="tocnumber">3.3</span> <span class="toctext">Stateless address autoconfiguration (SLAAC)</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Network-layer_security"><span class="tocnumber">3.4</span> <span class="toctext">Network-layer security</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Simplified_processing_by_routers"><span class="tocnumber">3.5</span> <span class="toctext">Simplified processing by routers</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Mobility"><span class="tocnumber">3.6</span> <span class="toctext">Mobility</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Options_extensibility"><span class="tocnumber">3.7</span> <span class="toctext">Options extensibility</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Jumbograms"><span class="tocnumber">3.8</span> <span class="toctext">Jumbograms</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Privacy"><span class="tocnumber">3.9</span> <span class="toctext">Privacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Packet_format"><span class="tocnumber">4</span> <span class="toctext">Packet format</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Addressing"><span class="tocnumber">5</span> <span class="toctext">Addressing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#IPv6_in_the_Domain_Name_System"><span class="tocnumber">5.1</span> <span class="toctext">IPv6 in the Domain Name System</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Address_representation"><span class="tocnumber">5.2</span> <span class="toctext">Address representation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Transition_mechanisms"><span class="tocnumber">6</span> <span class="toctext">Transition mechanisms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Dual_IP_stack_implementation"><span class="tocnumber">6.1</span> <span class="toctext">Dual IP stack implementation</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Tunneling"><span class="tocnumber">6.2</span> <span class="toctext">Tunneling</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#Automatic_tunneling"><span class="tocnumber">6.2.1</span> <span class="toctext">Automatic tunneling</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Configured_and_automated_tunneling_.286in4.29"><span class="tocnumber">6.2.2</span> <span class="toctext">Configured and automated tunneling (6in4)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="#Proxying_and_translation_for_IPv6-only_hosts"><span class="tocnumber">6.3</span> <span class="toctext">Proxying and translation for IPv6-only hosts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#IPv6_readiness"><span class="tocnumber">7</span> <span class="toctext">IPv6 readiness</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Software"><span class="tocnumber">7.1</span> <span class="toctext">Software</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="#IPv4-mapped_IPv6_addresses"><span class="tocnumber">7.1.1</span> <span class="toctext">IPv4-mapped IPv6 addresses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-28"><a href="#Hardware_and_embedded_systems"><span class="tocnumber">7.2</span> <span class="toctext">Hardware and embedded systems</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Shadow_networks"><span class="tocnumber">7.3</span> <span class="toctext">Shadow networks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Deployment"><span class="tocnumber">8</span> <span class="toctext">Deployment</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Technical_overview">Technical overview</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Ipv6_address_leading_zeros.svg" title="File:Ipv6 address leading zeros.svg">File:Ipv6 address leading zeros.svg</a>  <div class="thumbcaption">Decomposition of the <a href="/w/index.php?title=IPv6_address&amp;action=edit&amp;redlink=1" class="new" title="IPv6 address (page does not exist)">IPv6 address</a> representation into its binary form</div></div></div>
+<p>IPv6 is an <a href="/w/index.php?title=Internet_Layer&amp;action=edit&amp;redlink=1" class="new" title="Internet Layer (page does not exist)">Internet Layer</a> protocol for <a href="/wiki/Packet-switched" title="Packet-switched" class="mw-redirect">packet-switched</a> <a href="/wiki/Internetworking" title="Internetworking">internetworking</a> and provides end-to-end <a href="/wiki/Datagram" title="Datagram">datagram</a> transmission across multiple IP networks, closely adhering to the design principles developed in the previous version of the protocol, <a href="/wiki/IPv4" title="IPv4">Internet Protocol Version 4</a> (IPv4). IPv6 was first formally described in <a href="/w/index.php?title=Internet_standard&amp;action=edit&amp;redlink=1" class="new" title="Internet standard (page does not exist)">Internet standard</a> document <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc2460">RFC 2460</a>, published in December 1998.<sup id="cite_ref-rfc2460_3-0" class="reference"><a href="#cite_note-rfc2460-3">[3]</a></sup> In addition to offering more addresses, IPv6 also implements features not present in IPv4. It simplifies aspects of address assignment (<a href="/w/index.php?title=IPv6_stateless_address_autoconfiguration&amp;action=edit&amp;redlink=1" class="new" title="IPv6 stateless address autoconfiguration (page does not exist)">stateless address autoconfiguration</a>), network renumbering and router announcements when changing network connectivity providers. It simplifies processing of packets by routers by placing the need for packet fragmentation into the end points. The IPv6 <a href="/wiki/Subnetwork" title="Subnetwork">subnet</a> size is standardized by fixing the size of the host identifier portion of an address to 64 bits to facilitate an automatic mechanism for forming the host identifier from <a href="/w/index.php?title=Link_layer&amp;action=edit&amp;redlink=1" class="new" title="Link layer (page does not exist)">link layer</a> addressing information (<a href="/wiki/MAC_address" title="MAC address">MAC address</a>). <a href="/wiki/Network_security" title="Network security">Network security</a> was a design requirement of the IPv6 architecture, and included the original specification of <a href="/wiki/IPsec" title="IPsec">IPsec</a>.
+</p><p>IPv6 does not specify interoperability features with IPv4, but essentially creates a parallel, independent network. Exchanging traffic between the two networks requires translator gateways employing <a href="/w/index.php?title=NAT64&amp;action=edit&amp;redlink=1" class="new" title="NAT64 (page does not exist)">NAT64</a>; or other transition technologies, such as the <a href="/wiki/Tunneling_protocol" title="Tunneling protocol">tunneling protocols</a> <a href="/wiki/6to4" title="6to4">6to4</a>, <a href="/w/index.php?title=6in4&amp;action=edit&amp;redlink=1" class="new" title="6in4 (page does not exist)">6in4</a>, and <a href="/wiki/Teredo_tunneling" title="Teredo tunneling">Teredo</a>.
+</p>
+<h2><span class="mw-headline" id="Motivation_and_origin">Motivation and origin</span></h2>
+<h3><span class="mw-headline" id="IPv4">IPv4</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Ipv4_address.svg" title="File:Ipv4 address.svg">File:Ipv4 address.svg</a>  <div class="thumbcaption">Decomposition of the quad-dotted <a href="/w/index.php?title=IPv4_address&amp;action=edit&amp;redlink=1" class="new" title="IPv4 address (page does not exist)">IPv4 address</a> representation to its binary value</div></div></div>
+<p><a href="/wiki/IPv4" title="IPv4">Internet Protocol Version 4</a> (IPv4) was the first publicly used version of the <a href="/wiki/Internet_Protocol" title="Internet Protocol">Internet Protocol</a>. IPv4 was developed as research project by the <a href="/wiki/DARPA" title="DARPA">Defense Advanced Research Projects Agency</a> (DARPA), a <a href="/w/index.php?title=United_States_Department_of_Defense&amp;action=edit&amp;redlink=1" class="new" title="United States Department of Defense (page does not exist)">United States Department of Defense</a> <a href="/wiki/Government_agency" title="Government agency">agency</a>, before becoming the foundation for the <a href="/wiki/Internet" title="Internet">Internet</a> and the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a>. It is currently described by <a href="/w/index.php?title=IETF&amp;action=edit&amp;redlink=1" class="new" title="IETF (page does not exist)">IETF</a> publication <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc791">RFC 791</a> (September 1981), which replaced an earlier definition (<a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc760">RFC 760</a>, January 1980). IPv4 included an addressing system that used numerical identifiers consisting of 32 bits. These addresses are typically displayed in <a href="/w/index.php?title=Quad-dotted_notation&amp;action=edit&amp;redlink=1" class="new" title="Quad-dotted notation (page does not exist)">quad-dotted notation</a> as decimal values of four octets, each in the range 0 to 255, or 8 bits per number. Thus, IPv4 provides an addressing capability of 2<sup>32</sup> or approximately 4.3 billion addresses. Address exhaustion was not initially a concern in IPv4 as this version was originally presumed to be a test of DARPA's networking concepts.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+</p><p>During the first decade of operation of the Internet, by the late 1980s, it became apparent that methods had to be developed to conserve address space. In the early 1990s, even after the redesign of the addressing system using a <a href="/w/index.php?title=Classless_network&amp;action=edit&amp;redlink=1" class="new" title="Classless network (page does not exist)">classless network</a> model, it became clear that this would not suffice to prevent <a href="/w/index.php?title=IPv4_address_exhaustion&amp;action=edit&amp;redlink=1" class="new" title="IPv4 address exhaustion (page does not exist)">IPv4 address exhaustion</a>, and that further changes to the Internet infrastructure were needed.<sup id="cite_ref-rfc1752_5-0" class="reference"><a href="#cite_note-rfc1752-5">[5]</a></sup>
+</p><p>The last unassigned top-level address blocks of 16 million IPv4 addresses were allocated in February 2011 by the <a href="/wiki/Internet_Assigned_Numbers_Authority" title="Internet Assigned Numbers Authority">Internet Assigned Numbers Authority</a> (IANA) to the five <a href="/wiki/Regional_Internet_registry" title="Regional Internet registry">regional Internet registries</a> (RIRs). However, each RIR still has available address pools and is expected to continue with standard address allocation policies until one /8 <a href="/wiki/Classless_Inter-Domain_Routing" title="Classless Inter-Domain Routing">Classless Inter-Domain Routing</a> (CIDR) block remains. After that, only blocks of 1024 addresses (/22) will be provided from the RIRs to a <a href="/wiki/Local_Internet_registry" title="Local Internet registry">local Internet registry</a> (LIR). As of September 2012, both the <a href="/wiki/Asia-Pacific_Network_Information_Centre" title="Asia-Pacific Network Information Centre">Asia-Pacific Network Information Centre</a> (APNIC) and the <a href="/w/index.php?title=RIPE_NCC&amp;action=edit&amp;redlink=1" class="new" title="RIPE NCC (page does not exist)">Réseaux IP Européens Network Coordination Centre</a> (RIPE_NCC) had reached this stage.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Working-group_proposals">Working-group proposals</span></h3>
+<p>By the beginning of 1992, several proposals appeared for an expanded Internet addressing system and by the end of 1992 the IETF announced a call for white papers.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In September 1993, the IETF created a temporary, ad-hoc <i>IP Next Generation</i> (IPng) area to deal specifically with IPng issues. The new area was led by Allison Mankin and <a href="/w/index.php?title=Scott_Bradner&amp;action=edit&amp;redlink=1" class="new" title="Scott Bradner (page does not exist)">Scott Bradner</a>, and had a directorate with 15 engineers from diverse backgrounds for direction-setting and preliminary document review:<sup id="cite_ref-rfc1752_5-1" class="reference"><a href="#cite_note-rfc1752-5">[5]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The working-group members were <a href="/wiki/J._Allard" title="J. Allard" class="mw-redirect">J. Allard</a> (Microsoft), <a href="/wiki/Steven_M._Bellovin" title="Steven M. Bellovin">Steve Bellovin</a> (AT&amp;T), Jim Bound (Digital Equipment Corporation), Ross Callon (Wellfleet), <a href="/w/index.php?title=Brian_Carpenter_(Internet_engineer)&amp;action=edit&amp;redlink=1" class="new" title="Brian Carpenter (Internet engineer) (page does not exist)">Brian Carpenter</a> (CERN), <a href="/w/index.php?title=David_D._Clark&amp;action=edit&amp;redlink=1" class="new" title="David D. Clark (page does not exist)">Dave Clark</a> (MIT), <a href="/w/index.php?title=John_Curran_(businessman)&amp;action=edit&amp;redlink=1" class="new" title="John Curran (businessman) (page does not exist)">John Curran</a> (NEARNET), <a href="/w/index.php?title=Steve_Deering&amp;action=edit&amp;redlink=1" class="new" title="Steve Deering (page does not exist)">Steve Deering</a> (Xerox), Dino Farinacci (Cisco), Paul Francis (NTT), Eric Fleischmann (Boeing), Mark Knopper (Ameritech), Greg Minshall (Novell), Rob Ullmann (Lotus), and Lixia Zhang (Xerox).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+</p><p>The Internet Engineering Task Force adopted the IPng model on 25 July 1994, with the formation of several IPng working groups.<sup id="cite_ref-rfc1752_5-2" class="reference"><a href="#cite_note-rfc1752-5">[5]</a></sup> By 1996, a series of <a href="/w/index.php?title=Request_for_comments&amp;action=edit&amp;redlink=1" class="new" title="Request for comments (page does not exist)">RFCs</a> was released defining Internet Protocol version 6 (IPv6), starting with <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc1883">RFC 1883</a>. (Version 5 was used by the experimental <a href="/wiki/Internet_Stream_Protocol" title="Internet Stream Protocol">Internet Stream Protocol</a>.)
+</p><p>It is widely expected that the Internet will use IPv4 alongside IPv6 for the foreseeable future. IPv4-only and IPv6-only nodes cannot communicate directly, and need assistance from an intermediary gateway or must use other transition mechanisms.
+</p>
+<h2><span class="mw-headline" id="Comparison_with_IPv4">Comparison with IPv4</span></h2>
+<p>On the Internet, data is transmitted in the form of <a href="/wiki/Network_packet" title="Network packet">network packets</a>. IPv6 specifies a new <a href="/w/index.php?title=IPv6_packet&amp;action=edit&amp;redlink=1" class="new" title="IPv6 packet (page does not exist)">packet format</a>, designed to minimize packet header processing by routers.<sup id="cite_ref-rfc2460_3-1" class="reference"><a href="#cite_note-rfc2460-3">[3]</a></sup><sup id="cite_ref-rfc1726_11-0" class="reference"><a href="#cite_note-rfc1726-11">[11]</a></sup> Because the headers of IPv4 packets and IPv6 packets are significantly different, the two protocols are not interoperable. However, in most respects, IPv6 is a conservative extension of IPv4. Most transport and application-layer protocols need little or no change to operate over IPv6; exceptions are application protocols that embed internet-layer addresses, such as <a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">FTP</a> and <a href="/wiki/Network_Time_Protocol" title="Network Time Protocol">NTPv3</a>, where the new address format may cause conflicts with existing protocol syntax.
+</p>
+<h3><span class="mw-headline" id="Larger_address_space">Larger address space</span></h3>
+<p>The main advantage of IPv6 over IPv4 is its larger address space. The length of an IPv6 address is 128 bits, compared with 32 bits in IPv4.<sup id="cite_ref-rfc2460_3-2" class="reference"><a href="#cite_note-rfc2460-3">[3]</a></sup> The address space therefore has 2<sup>128</sup> or approximately <a href="/w/index.php?title=Template:Val&amp;action=edit&amp;redlink=1" class="new" title="Template:Val (page does not exist)">Template:Val</a> addresses. By comparison, this amounts to approximately <a href="/w/index.php?title=Template:Val&amp;action=edit&amp;redlink=1" class="new" title="Template:Val (page does not exist)">Template:Val</a> addresses for each of the <a href="/w/index.php?title=World_population&amp;action=edit&amp;redlink=1" class="new" title="World population (page does not exist)">seven billion people alive</a> in 2011.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> In addition, the IPv4 address space is poorly allocated, with approximately 14% of all available addresses utilized.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> While these numbers are large, it wasn't the intent of the designers of the IPv6 address space to assure geographical saturation with usable addresses. Rather, the longer addresses simplify allocation of addresses, enable efficient <a href="/wiki/Route_aggregation" title="Route aggregation" class="mw-redirect">route aggregation</a>, and allow implementation of special addressing features. In IPv4, complex <a href="/wiki/Classless_Inter-Domain_Routing" title="Classless Inter-Domain Routing">Classless Inter-Domain Routing</a> (CIDR) methods were developed to make the best use of the small address space. The standard size of a subnet in IPv6 is 2<sup>64</sup> addresses, the square of the size of the entire IPv4 address space. Thus, actual address space utilization rates will be small in IPv6, but network management and routing efficiency is improved by the large subnet space and hierarchical route aggregation.
+</p><p>Renumbering an existing network for a new connectivity provider with different routing prefixes is a major effort with IPv4.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> With IPv6, however, changing the prefix announced by a few routers can in principle renumber an entire network, since the host identifiers (the least-significant 64 bits of an address) can be independently self-configured by a host.<sup id="cite_ref-rfc4862_16-0" class="reference"><a href="#cite_note-rfc4862-16">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Multicasting">Multicasting</span></h3>
+<p><a href="/wiki/Multicast" title="Multicast">Multicasting</a>, the transmission of a packet to multiple destinations in a single send operation, is part of the base specification in IPv6. In IPv4 this is an optional although commonly implemented feature.<sup id="cite_ref-rfc1112_17-0" class="reference"><a href="#cite_note-rfc1112-17">[17]</a></sup> IPv6 multicast addressing shares common features and protocols with IPv4 multicast, but also provides changes and improvements by eliminating the need for certain protocols. IPv6 does not implement traditional <a href="/w/index.php?title=Broadcast_ip_address&amp;action=edit&amp;redlink=1" class="new" title="Broadcast ip address (page does not exist)">IP broadcast</a>, i.e. the transmission of a packet to all hosts on the attached link using a special <i>broadcast address</i>, and therefore does not define broadcast addresses. In IPv6, the same result can be achieved by sending a packet to the link-local <i>all nodes</i> multicast group at address <code>ff02::1</code>, which is analogous to IPv4 multicast to address <code>224.0.0.1</code>. IPv6 also provides for new multicast implementations, including embedding rendezvous point addresses in an IPv6 multicast group address, which simplifies the deployment of inter-domain solutions.<sup id="cite_ref-rfc3956_18-0" class="reference"><a href="#cite_note-rfc3956-18">[18]</a></sup>
+</p><p>In IPv4 it is very difficult for an organization to get even one globally routable multicast group assignment, and the implementation of inter-domain solutions is very arcane.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Unicast address assignments by a <a href="/wiki/Local_Internet_registry" title="Local Internet registry">local Internet registry</a> for IPv6 have at least a 64-bit routing prefix, yielding the smallest subnet size available in IPv6 (also 64 bits). With such an assignment it is possible to embed the unicast address prefix into the IPv6 multicast address format, while still providing a 32-bit block, the least significant bits of the address, or approximately 4.2 billion multicast group identifiers. Thus each user of an IPv6 subnet automatically has available a set of globally routable source-specific multicast groups for multicast applications.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Stateless_address_autoconfiguration_.28SLAAC.29">Stateless address autoconfiguration (SLAAC)</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>IPv6 hosts can configure themselves automatically when connected to an IPv6 network using the <a href="/wiki/Neighbor_Discovery_Protocol" title="Neighbor Discovery Protocol">Neighbor Discovery Protocol</a> via <a href="/w/index.php?title=Internet_Control_Message_Protocol_version_6&amp;action=edit&amp;redlink=1" class="new" title="Internet Control Message Protocol version 6 (page does not exist)">Internet Control Message Protocol version 6</a> (ICMPv6) router discovery messages. When first connected to a network, a host sends a <a href="/w/index.php?title=Link-local_address&amp;action=edit&amp;redlink=1" class="new" title="Link-local address (page does not exist)">link-local</a> router solicitation multicast request for its configuration parameters; routers respond to such a request with a router advertisement packet that contains Internet Layer configuration parameters.<sup id="cite_ref-rfc4862_16-1" class="reference"><a href="#cite_note-rfc4862-16">[16]</a></sup>
+</p><p>If IPv6 stateless address autoconfiguration is unsuitable for an application, a network may use stateful configuration with the <a href="/w/index.php?title=DHCPv6&amp;action=edit&amp;redlink=1" class="new" title="DHCPv6 (page does not exist)">Dynamic Host Configuration Protocol version 6</a> (DHCPv6) or hosts may be configured manually using static methods.
+</p><p>Routers present a special case of requirements for address configuration, as they often are sources of autoconfiguration information, such as router and prefix advertisements. Stateless configuration of routers can be achieved with a special router renumbering protocol.<sup id="cite_ref-rfc2894_21-0" class="reference"><a href="#cite_note-rfc2894-21">[21]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Network-layer_security">Network-layer security</span></h3>
+<p><a href="/w/index.php?title=Internet_Protocol_Security&amp;action=edit&amp;redlink=1" class="new" title="Internet Protocol Security (page does not exist)">Internet Protocol Security</a> (IPsec) was originally developed for IPv6, but found widespread deployment first in IPv4, for which it was re-engineered. IPsec was a mandatory specification of the base IPv6 protocol suite,<sup id="cite_ref-rfc2460_3-3" class="reference"><a href="#cite_note-rfc2460-3">[3]</a></sup><sup id="cite_ref-rfc4301_22-0" class="reference"><a href="#cite_note-rfc4301-22">[22]</a></sup> but has since been made optional.<sup id="cite_ref-rfc6434_23-0" class="reference"><a href="#cite_note-rfc6434-23">[23]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Simplified_processing_by_routers">Simplified processing by routers</span></h3>
+<p>In IPv6, the packet header and the process of packet forwarding have been simplified. Although IPv6 packet headers are at least twice the size of IPv4 packet headers, packet processing by routers is generally more efficient,<sup id="cite_ref-rfc2460_3-4" class="reference"><a href="#cite_note-rfc2460-3">[3]</a></sup><sup id="cite_ref-rfc1726_11-1" class="reference"><a href="#cite_note-rfc1726-11">[11]</a></sup> thereby extending the <a href="/wiki/End-to-end_principle" title="End-to-end principle">end-to-end principle</a> of Internet design. Specifically:
+</p>
+<ul>
+<li> The packet header in IPv6 is simpler than that used in IPv4, with many rarely used fields moved to separate optional header extensions.
+</li>
+<li> IPv6 routers do not perform <a href="/wiki/IP_fragmentation" title="IP fragmentation">fragmentation</a>. IPv6 hosts are required to either perform <a href="/w/index.php?title=Path_MTU_discovery&amp;action=edit&amp;redlink=1" class="new" title="Path MTU discovery (page does not exist)">path MTU discovery</a>, perform end-to-end fragmentation, or to send packets no larger than the IPv6 default <a href="/wiki/Maximum_transmission_unit" title="Maximum transmission unit">MTU</a> size of 1280 <a href="/w/index.php?title=Octet_(computing)&amp;action=edit&amp;redlink=1" class="new" title="Octet (computing) (page does not exist)">octets</a>.
+</li>
+<li> The IPv6 header is not protected by a <a href="/wiki/Checksum" title="Checksum">checksum</a>; integrity protection is assumed to be assured by both link-layer and higher-layer (TCP, UDP, etc.) error detection. UDP/IPv4 may actually have a checksum of 0, indicating no checksum; IPv6 requires UDP to have its own checksum. Therefore, IPv6 routers do not need to recompute a checksum when header fields (such as the <a href="/wiki/Time_to_live" title="Time to live">time to live</a> (TTL) or <a href="/wiki/Hop_count" title="Hop count" class="mw-redirect">hop count</a>) change. This improvement may have been made less necessary by the development of routers that perform checksum computation at link speed using dedicated hardware, but it is still relevant for software-based routers.
+</li>
+<li> The <i>TTL</i> field of IPv4 has been renamed to <i>Hop Limit</i> in IPv6, reflecting the fact that routers are no longer expected to compute the time a packet has spent in a queue.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Mobility">Mobility</span></h3>
+<p>Unlike mobile IPv4, <a href="/w/index.php?title=Mobile_IPv6&amp;action=edit&amp;redlink=1" class="new" title="Mobile IPv6 (page does not exist)">mobile IPv6</a> avoids <a href="/w/index.php?title=Triangular_routing&amp;action=edit&amp;redlink=1" class="new" title="Triangular routing (page does not exist)">triangular routing</a> and is therefore as efficient as native IPv6. IPv6 routers may also allow entire subnets to move to a new router connection point without renumbering.<sup id="cite_ref-rfc3963_24-0" class="reference"><a href="#cite_note-rfc3963-24">[24]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Options_extensibility">Options extensibility</span></h3>
+<p>The IPv6 packet header has a fixed size (40 octets). Options are implemented as additional extension headers after the IPv6 header, which limits their size only by the size of an entire packet. The extension header mechanism makes the protocol extensible in that it allows future services for <a href="/wiki/Quality_of_service" title="Quality of service">quality of service</a>, security, mobility, and others to be added without redesign of the basic protocol.<sup id="cite_ref-rfc2460_3-5" class="reference"><a href="#cite_note-rfc2460-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Jumbograms">Jumbograms</span></h3>
+<p>IPv4 limits packets to <a href="/w/index.php?title=Template:Gaps&amp;action=edit&amp;redlink=1" class="new" title="Template:Gaps (page does not exist)">Template:Gaps</a> (2<sup>16</sup>−1) octets of payload. An IPv6 node can optionally handle packets over this limit, referred to as <a href="/w/index.php?title=Jumbogram&amp;action=edit&amp;redlink=1" class="new" title="Jumbogram (page does not exist)">jumbograms</a>, which can be as large as <a href="/w/index.php?title=Template:Gaps&amp;action=edit&amp;redlink=1" class="new" title="Template:Gaps (page does not exist)">Template:Gaps</a> (2<sup>32</sup>−1) octets. The use of jumbograms may improve performance over high-<a href="/wiki/Maximum_transmission_unit" title="Maximum transmission unit">MTU</a> links. The use of jumbograms is indicated by the Jumbo Payload Option header.<sup id="cite_ref-rfc2675_25-0" class="reference"><a href="#cite_note-rfc2675-25">[25]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Privacy">Privacy</span></h3>
+<p>Like IPv4, IPv6 supports globally unique <a href="/wiki/IP_address" title="IP address">IP addresses</a> by which the network activity of each device can potentially be tracked.
+</p><p>The design of IPv6 intended to re-emphasize the end-to-end principle of network design that was originally conceived during the establishment of the early Internet. In this approach each device on the network has a unique address globally reachable directly from any other location on the Internet.
+</p>
+<ul>
+<li> Network Prefix
+</li>
+</ul>
+<dl>
+<dd>Network prefix tracking is less of a concern if the user's ISP assigns a dynamic network prefix via DHCP.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> Privacy extensions do little to protect the user from tracking if only one or two devices are using a static network prefix. In this scenario, the network prefix is the unique identifier for tracking.
+</dd>
+</dl>
+<ul>
+<li> Interface Identifier
+</li>
+</ul>
+<dl>
+<dd>In IPv4 the effort to conserve address space with <a href="/wiki/Network_address_translation" title="Network address translation">network address translation</a> (NAT) obfuscates network address spaces, hosts, and topologies. In IPv6 when using address auto-configuration, the Interface Identifier (<a href="/wiki/MAC_address" title="MAC address">MAC address</a>) of an interface port is used to make its public IP address unique, exposing the type of hardware used and providing a unique handle for a user's online activity.
+</dd>
+</dl>
+<p>It is not a requirement for IPv6 hosts to use address auto-configuration, however.  Yet, even when an address is not based on the MAC address, the interface's address is globally unique, in contrast to NAT-masqueraded private networks. Privacy extensions for IPv6 have been defined to address these privacy concerns,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> although <a href="/w/index.php?title=Silvia_Hagen&amp;action=edit&amp;redlink=1" class="new" title="Silvia Hagen (page does not exist)">Silvia Hagen</a> describes these as being largely due to 'misunderstanding'.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> When privacy extensions are enabled, the operating system generates random host identifiers to combine with the assigned network prefix. These ephemeral addresses are used to communicate with remote hosts making it more difficult to track a single device.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
+</p><p>Privacy extensions are enabled by default in Windows (since XP SP1), OS X (since 10.7), and iOS (since version 4.3).<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> Some Linux distributions have enabled privacy extensions as well.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>
+</p><p>Privacy extensions do not protect the user from other forms of activity tracking, such as <a href="/w/index.php?title=Tracking_cookie&amp;action=edit&amp;redlink=1" class="new" title="Tracking cookie (page does not exist)">tracking cookies</a>.
+</p>
+<h2><span class="mw-headline" id="Packet_format">Packet format</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Ipv6_header.svg" title="File:Ipv6 header.svg">File:Ipv6 header.svg</a>  <div class="thumbcaption">IPv6 packet header</div></div></div>
+<p>An IPv6 packet has two parts: a header and payload.
+</p><p>The header consists of a fixed portion with minimal functionality required for all packets and may be followed by optional extensions to implement special features.
+</p><p>The fixed header occupies the first 40&#160;<a href="/w/index.php?title=Octet_(computing)&amp;action=edit&amp;redlink=1" class="new" title="Octet (computing) (page does not exist)">octets</a> (320 bits) of the IPv6 packet. It contains the source and destination addresses, traffic classification options, a hop counter, and the type of the optional extension or payload which follows the header. This <i>Next Header</i> field tells the receiver how to interpret the data which follows the header. If the packet contains options, this field contains the option type of the next option. The "Next Header" field of the last option, points to the upper-layer protocol that is carried in the packet's <a href="/w/index.php?title=Payload_(computing)&amp;action=edit&amp;redlink=1" class="new" title="Payload (computing) (page does not exist)">payload</a>.
+</p><p>Extension headers carry options that are used for special treatment of a packet in the network, e.g., for routing, fragmentation, and for security using the <a href="/wiki/IPsec" title="IPsec">IPsec</a> framework.
+</p><p>Without special options, a payload must be less than <a href="/w/index.php?title=Template:Gaps&amp;action=edit&amp;redlink=1" class="new" title="Template:Gaps (page does not exist)">Template:Gaps</a>. With a Jumbo Payload option (in a <i>Hop-By-Hop Options</i> extension header), the payload must be less than 4&#160;GB.
+</p><p>Unlike in IPv4, routers never fragment a packet. Hosts are expected to use <a href="/w/index.php?title=Path_MTU_Discovery&amp;action=edit&amp;redlink=1" class="new" title="Path MTU Discovery (page does not exist)">Path MTU Discovery</a> to make their packets small enough to reach the destination without needing to be fragmented. See <a href="/w/index.php?title=IPv6_Packet&amp;action=edit&amp;redlink=1" class="new" title="IPv6 Packet (page does not exist)">IPv6 packet fragmentation</a>.
+</p>
+<h2><span class="mw-headline" id="Addressing">Addressing</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>Compared to IPv4, the most obvious advantage of IPv6 is its larger address space. IPv4 addresses are 32 bits long and number about <a href="/w/index.php?title=Template:Val&amp;action=edit&amp;redlink=1" class="new" title="Template:Val (page does not exist)">Template:Val</a> (4.3 <a href="/w/index.php?title=1000000000_(number)&amp;action=edit&amp;redlink=1" class="new" title="1000000000 (number) (page does not exist)">billion</a>).<sup id="cite_ref-rfc4291_34-0" class="reference"><a href="#cite_note-rfc4291-34">[34]</a></sup> IPv6 addresses are 128 bits long and number about <a href="/w/index.php?title=Template:Val&amp;action=edit&amp;redlink=1" class="new" title="Template:Val (page does not exist)">Template:Val</a> (340 undecillion). IPv6's addresses are deemed enough for the foreseeable future.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
+</p><p>IPv6 addresses are written in eight groups of four <a href="/wiki/Hexadecimal" title="Hexadecimal">hexadecimal</a> digits separated by colons, such as <code>2001:0db8:85a3:0000:0000:8a2e:0370:7334</code>. IPv6 unicast addresses other than those that start with binary 000 are logically divided into two parts: a 64-bit (sub-)network prefix, and a 64-bit interface identifier.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>
+</p><p>For stateless address autoconfiguration (SLAAC) to work, subnets require a /64 address block, as defined in <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc4291">RFC 4291</a> section 2.5.1. <a href="/w/index.php?title=Local_Internet_registries&amp;action=edit&amp;redlink=1" class="new" title="Local Internet registries (page does not exist)">Local Internet registries</a> get assigned at least /32 blocks, which they divide among ISPs.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> The obsolete <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3177">RFC 3177</a> recommended the assignment of a /48 to end-consumer sites. This was replaced by <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc6177">RFC 6177</a>, which "recommends giving home sites significantly more than a single /64, but does not recommend that every home site be given a /48 either". /56s are specifically considered. It remains to be seen if ISPs will honor this recommendation; for example, during initial trials, <a href="/wiki/Comcast" title="Comcast">Comcast</a> customers were given a single /64 network.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>
+</p><p>IPv6 addresses are classified by three types of networking methodologies: <a href="/wiki/Unicast" title="Unicast">unicast</a> addresses identify each network interface, <a href="/wiki/Anycast" title="Anycast">anycast</a> addresses identify a group of interfaces, usually at different locations of which the nearest one is automatically selected, and <a href="/wiki/Multicast" title="Multicast">multicast</a> addresses are used to deliver one packet to many interfaces. The <a href="/w/index.php?title=Broadcasting_(computing)&amp;action=edit&amp;redlink=1" class="new" title="Broadcasting (computing) (page does not exist)">broadcast</a> method is not implemented in IPv6. Each IPv6 address has a scope, which specifies in which part of the network it is valid and unique. Some addresses are unique only on the local (sub-)network. Others are globally unique.
+</p><p>Some IPv6 addresses are reserved for special purposes, such as <a href="/wiki/Loopback" title="Loopback">loopback</a>, <a href="/wiki/6to4" title="6to4">6to4</a> tunneling, and <a href="/wiki/Teredo_tunneling" title="Teredo tunneling">Teredo tunneling</a>, as outlined in <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc5156">RFC 5156</a>. Also, some address ranges are considered special, such as link-local addresses for use on the local link only, Unique Local addresses (ULA), as described in <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc4193">RFC 4193</a>, and solicited-node multicast addresses used in the <a href="/wiki/Neighbor_Discovery_Protocol" title="Neighbor Discovery Protocol">Neighbor Discovery Protocol</a>.
+</p>
+<h3><span class="mw-headline" id="IPv6_in_the_Domain_Name_System">IPv6 in the Domain Name System</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>In the <a href="/wiki/Domain_Name_System" title="Domain Name System">Domain Name System</a>, <a href="/wiki/Hostname" title="Hostname">hostnames</a> are mapped to IPv6 addresses by <i>AAAA</i> resource records, so-called <i>quad-A</i> records. For <a href="/wiki/Reverse_DNS_lookup" title="Reverse DNS lookup">reverse resolution</a>, the IETF reserved the domain <code><a href="/wiki/.arpa" title=".arpa">ip6.arpa</a></code>, where the name space is hierarchically divided by the 1-digit <a href="/wiki/Hexadecimal" title="Hexadecimal">hexadecimal</a> representation of <a href="/wiki/Nibble" title="Nibble">nibble</a> units (4 bits) of the IPv6 address. This scheme is defined in <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3596">RFC 3596</a>.
+</p>
+<h3><span class="mw-headline" id="Address_representation">Address representation</span></h3>
+<p>The 128 bits of an IPv6 address are represented in 8 groups of 16 bits each. Each group is written as 4 hexadecimal digits and the groups are separated by colons (:). The address 2001:0db8:0000:0000:0000:ff00:0042:8329 is an example of this representation.
+</p><p>For convenience, an IPv6 address may be abbreviated to shorter notations by application of the following rules, where possible.
+</p>
+<ol>
+<li> One or more leading zeroes from any groups of hexadecimal digits are removed; this is usually done to either all or none of the leading zeroes. For example, the group <i>0042</i> is converted to <i>42</i>.
+</li>
+<li> Consecutive sections of zeroes are replaced with a double colon (::). The double colon may only be used once in an address, as multiple use would render the address indeterminate. <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc5952">RFC 5952</a> recommends that a double colon must not be used to denote an omitted single section of zeroes.<sup id="cite_ref-rfc5952sec422_39-0" class="reference"><a href="#cite_note-rfc5952sec422-39">[39]</a></sup>
+</li>
+</ol>
+<p>An example of application of these rules:
+</p>
+<dl>
+<dd>Initial address: 2001:0db8:0000:0000:0000:ff00:0042:8329
+</dd>
+<dd>After removing all leading zeroes: 2001:db8:0:0:0:ff00:42:8329
+</dd>
+<dd>After omitting consecutive sections of zeroes: 2001:db8::ff00:42:8329
+</dd>
+</dl>
+<p>The loopback address, 0000:0000:0000:0000:0000:0000:0000:0001, may be abbreviated to&#160;::1 by using both rules.
+</p><p>As an IPv6 address may have more than one representation, the IETF has issued a <a href="/w/index.php?title=IPv6_address&amp;action=edit&amp;redlink=1" class="new" title="IPv6 address (page does not exist)">proposed standard for representing them in text</a>.<sup id="cite_ref-rfc5952_40-0" class="reference"><a href="#cite_note-rfc5952-40">[40]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Transition_mechanisms">Transition mechanisms</span></h2>
+<p><a href="/w/index.php?title=Template:IPv6_transition_mechanisms&amp;action=edit&amp;redlink=1" class="new" title="Template:IPv6 transition mechanisms (page does not exist)">Template:IPv6 transition mechanisms</a>
+</p><p>Until IPv6 completely supplants IPv4, a number of transition mechanisms<sup id="cite_ref-sixxs_41-0" class="reference"><a href="#cite_note-sixxs-41">[41]</a></sup> are needed to enable IPv6-only hosts to reach IPv4 services and to allow isolated IPv6 hosts and networks to reach each other over IPv4-only infrastructure.
+</p><p>Many of these transition mechanisms use tunneling to encapsulate IPv6 traffic within IPv4 networks. This is an imperfect solution, which may increase <a href="/wiki/Latency_(engineering)#Communication_latency" title="Latency (engineering)">latency</a> and cause problems with <a href="/w/index.php?title=Path_MTU_Discovery&amp;action=edit&amp;redlink=1" class="new" title="Path MTU Discovery (page does not exist)">Path MTU Discovery</a>.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> <a href="/wiki/Tunneling_protocol" title="Tunneling protocol">Tunneling protocols</a> are a temporary solution for networks that do not support native dual-stack, where both IPv6 and IPv4 run independently.
+</p>
+<h3><span class="mw-headline" id="Dual_IP_stack_implementation">Dual IP stack implementation</span></h3>
+<p>Dual-stack (or <i>native dual-stack</i>) refers to side-by-side implementation of IPv4 and IPv6. That is, both protocols run on the same network infrastructure, and there's no need to encapsulate IPv6 inside IPv4 (using tunneling) or vice-versa. Dual-stack is defined in <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc4213">RFC 4213</a>.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup>
+</p><p>Although this is the most desirable IPv6 implementation, as it avoids the complexities and pitfalls of tunneling (such as security, increased latency, management overhead, and a reduced <a href="/wiki/Maximum_transmission_unit#Path_MTU_Discovery" title="Maximum transmission unit">PMTU</a>),<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> it is not always possible, since outdated network equipment may not support IPv6. A good example is <a href="/wiki/Cable_TV" title="Cable TV" class="mw-redirect">cable TV</a>-based internet access. In modern cable TV networks, the core of the <a href="/wiki/Hybrid_fibre-coaxial" title="Hybrid fibre-coaxial">HFC</a> network (such as large <a href="/w/index.php?title=Core_router&amp;action=edit&amp;redlink=1" class="new" title="Core router (page does not exist)">core routers</a>) is likely to support IPv6. However, other network equipment (such as a <a href="/wiki/Cable_modem_termination_system" title="Cable modem termination system">CMTS</a>) or customer equipment (like <a href="/wiki/Cable_modem" title="Cable modem">cable modems</a>) may require software updates or hardware upgrades to support IPv6. This means cable network operators must resort to tunneling until the backbone equipment supports native dual-stack.
+</p>
+<h3><span class="mw-headline" id="Tunneling">Tunneling</span></h3>
+<p>Because not all networks support dual-stack, tunneling is used for IPv4 networks to talk to IPv6 networks (and vice-versa). Many current internet users do not have IPv6 dual-stack support, and thus cannot reach IPv6 sites directly. Instead, they must use IPv4 infrastructure to carry IPv6 packets. This is done using a technique known as <i><a href="/wiki/Tunneling_protocol" title="Tunneling protocol">tunneling</a></i>, which encapsulates IPv6 packets within IPv4, in effect using IPv4 as a link layer for IPv6.
+</p><p>IP protocol 41 indicates IPv4 packets which encapsulate IPv6 datagrams. Some routers or network address translation devices may block protocol 41. To pass through these devices, you might use UDP packets to encapsulate IPv6 datagrams. Other encapsulation schemes, such as <a href="/w/index.php?title=AYIYA&amp;action=edit&amp;redlink=1" class="new" title="AYIYA (page does not exist)">AYIYA</a> or <a href="/wiki/Generic_Routing_Encapsulation" title="Generic Routing Encapsulation">Generic Routing Encapsulation</a>, are also popular.
+</p><p>Conversely, on IPv6-only internet links, when access to IPv4 network facilities is needed, tunneling of IPv4 over IPv6 protocol occurs, using the IPv6 as a link layer for IPv4.
+</p>
+<h4><span class="mw-headline" id="Automatic_tunneling">Automatic tunneling</span></h4>
+<p><i>Automatic tunneling</i> refers to a technique by which the routing infrastructure automatically determines the tunnel endpoints. Some automatic tunneling techniques are below.
+</p><p><a href="/wiki/6to4" title="6to4">6to4</a> is recommended by <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3056">RFC 3056</a>. It uses protocol 41 encapsulation.<sup id="cite_ref-rfc3056_45-0" class="reference"><a href="#cite_note-rfc3056-45">[45]</a></sup> Tunnel endpoints are determined by using a well-known IPv4 anycast address on the remote side, and embedding IPv4 address information within IPv6 addresses on the local side. 6to4 is the most common tunnel protocol currently deployed.
+</p><p><a href="/wiki/Teredo_tunneling" title="Teredo tunneling">Teredo</a> is an automatic tunneling technique that uses UDP encapsulation and can allegedly cross multiple NAT nodes.<sup id="cite_ref-rfc4380_46-0" class="reference"><a href="#cite_note-rfc4380-46">[46]</a></sup> IPv6, including 6to4 and Teredo tunneling, are enabled by default in <a href="/wiki/Windows_Vista" title="Windows Vista">Windows Vista</a><sup id="cite_ref-vista_47-0" class="reference"><a href="#cite_note-vista-47">[47]</a></sup> and <a href="/wiki/Windows_7" title="Windows 7">Windows 7</a>. Most Unix systems implement only 6to4, but Teredo can be provided by third-party software such as <a href="/w/index.php?title=Miredo&amp;action=edit&amp;redlink=1" class="new" title="Miredo (page does not exist)">Miredo</a>.
+</p><p><a href="/w/index.php?title=ISATAP&amp;action=edit&amp;redlink=1" class="new" title="ISATAP (page does not exist)">ISATAP</a> (Intra-Site Automatic Tunnel Addressing Protocol)<sup id="cite_ref-rfc5214_48-0" class="reference"><a href="#cite_note-rfc5214-48">[48]</a></sup> uses the IPv4 network as a virtual IPv6 local link, with mappings from each IPv4 address to a link-local IPv6 address. Unlike 6to4 and Teredo, which are <i>inter-site</i> tunneling mechanisms, ISATAP is an <i>intra-site</i> mechanism, meaning that it is designed to provide IPv6 connectivity between nodes within a single organization.
+</p>
+<h4><span class="mw-headline" id="Configured_and_automated_tunneling_.286in4.29">Configured and automated tunneling (6in4)</span></h4>
+<p><a href="/w/index.php?title=6in4&amp;action=edit&amp;redlink=1" class="new" title="6in4 (page does not exist)">6in4</a> tunneling requires the tunnel endpoints to be explicitly configured, either by an administrator manually or the operating system's configuration mechanisms, or by an automatic service known as a <a href="/w/index.php?title=Tunnel_broker&amp;action=edit&amp;redlink=1" class="new" title="Tunnel broker (page does not exist)">tunnel broker</a>;<sup id="cite_ref-rfc3053_49-0" class="reference"><a href="#cite_note-rfc3053-49">[49]</a></sup> this is also referred to as <i>automated tunneling</i>. Configured tunneling is usually more deterministic and easier to debug than automatic tunneling, and is therefore recommended for large, well-administered networks. Automated tunneling provides a compromise between the ease of use of automatic tunneling and the deterministic behavior of configured tunneling.
+</p><p>Raw encapsulation of IPv6 packets using <a href="/wiki/Internet_Protocol" title="Internet Protocol">IPv4</a> protocol number 41 is recommended for configured tunneling; this is sometimes known as <a href="/w/index.php?title=6in4&amp;action=edit&amp;redlink=1" class="new" title="6in4 (page does not exist)">6in4</a> tunneling. As with automatic tunneling, encapsulation within UDP may be used in order to cross NAT boxes and firewalls.
+</p>
+<h3><span class="mw-headline" id="Proxying_and_translation_for_IPv6-only_hosts">Proxying and translation for IPv6-only hosts</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>After the <a href="/wiki/Regional_Internet_registry" title="Regional Internet registry">regional Internet registries</a> have exhausted their pools of available IPv4 addresses, it is likely that hosts newly added to the Internet might only have IPv6 connectivity. For these clients to have backward-compatible connectivity to existing IPv4-only resources, suitable <a href="/w/index.php?title=IPv6_transition_mechanisms&amp;action=edit&amp;redlink=1" class="new" title="IPv6 transition mechanisms (page does not exist)">IPv6 transition mechanisms</a> must be deployed.
+</p><p>One form of address translation is the use of a dual-stack application-layer <a href="/wiki/Proxy_server" title="Proxy server">proxy server</a>, for example a web proxy.
+</p><p>NAT-like techniques for application-agnostic translation at the lower layers in routers and gateways have been proposed. The NAT-PT standard was dropped because of criticisms,<sup id="cite_ref-rfc4966_50-0" class="reference"><a href="#cite_note-rfc4966-50">[50]</a></sup> however more recently the continued low adoption of IPv6 has prompted a new standardization effort of a technology called <a href="/w/index.php?title=IPv6_transition_mechanisms&amp;action=edit&amp;redlink=1" class="new" title="IPv6 transition mechanisms (page does not exist)">NAT64</a>.
+</p>
+<h2><span class="mw-headline" id="IPv6_readiness">IPv6 readiness</span></h2>
+<p>Compatibility with IPv6 networking is mainly a software or firmware issue. However, much of the older hardware that could in principle be upgraded is likely to be replaced instead. The <a href="/wiki/American_Registry_for_Internet_Numbers" title="American Registry for Internet Numbers">American Registry for Internet Numbers</a> (ARIN) suggested that all Internet servers be prepared to serve IPv6-only clients by January 2012.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup> Sites will only be accessible over <a href="/w/index.php?title=NAT64&amp;action=edit&amp;redlink=1" class="new" title="NAT64 (page does not exist)">NAT64</a> if they do not use <a href="/w/index.php?title=IPv4_literals&amp;action=edit&amp;redlink=1" class="new" title="IPv4 literals (page does not exist)">IPv4 literals</a> as well.
+</p>
+<h3><span class="mw-headline" id="Software">Software</span></h3>
+<p>Host software can be IPv4-only, IPv6-only, dual-stack, or hybrid dual-stack. Most personal computers running recent <a href="/wiki/Operating_system" title="Operating system">operating system</a> versions are operable on IPv6. Many popular applications with network capabilities are compliant, and most others could be easily upgraded with help from the developers.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>Some software transitioning mechanisms are outlined in <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc4038">RFC 4038</a>, <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3493">RFC 3493</a>, and <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3542">RFC 3542</a>.
+</p>
+<h4><span class="mw-headline" id="IPv4-mapped_IPv6_addresses">IPv4-mapped IPv6 addresses</span></h4>
+<p>Hybrid dual-stack IPv6/IPv4 implementations recognize a special class of addresses, the IPv4-mapped IPv6 addresses. In these addresses, the first 80 bits are zero, the next 16 bits are one, and the remaining 32 bits are the <a href="/wiki/IPv4" title="IPv4">IPv4</a> address. One may see these addresses with the first 96 bits written in the standard IPv6 format, and the remaining 32 bits written in the customary <a href="/wiki/Dot-decimal_notation" title="Dot-decimal notation">dot-decimal notation</a> of IPv4. For example, <code>::ffff:192.0.2.128</code> represents the IPv4 address <code>192.0.2.128</code>. A deprecated format for IPv4-compatible IPv6 addresses was <code>::192.0.2.128</code>.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup>
+</p><p>Because of the significant internal differences between IPv4 and IPv6, some of the lower-level functionality available to programmers in the IPv6 stack does not work identically with IPv4-mapped addresses. Some common IPv6 stacks do not implement the IPv4-mapped address feature, either because the IPv6 and IPv4 stacks are separate implementations (e.g., <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> 2000, XP, and Server 2003), or because of security concerns (<a href="/w/index.php?title=OpenBSD&amp;action=edit&amp;redlink=1" class="new" title="OpenBSD (page does not exist)">OpenBSD</a>).<sup id="cite_ref-openbsd-mapped-addr_53-0" class="reference"><a href="#cite_note-openbsd-mapped-addr-53">[53]</a></sup> On these operating systems, a program must open a separate socket for each IP protocol it uses. On some systems, e.g., the <a href="/w/index.php?title=Linux_kernel&amp;action=edit&amp;redlink=1" class="new" title="Linux kernel (page does not exist)">Linux kernel</a>, <a href="/w/index.php?title=NetBSD&amp;action=edit&amp;redlink=1" class="new" title="NetBSD (page does not exist)">NetBSD</a>, and <a href="/w/index.php?title=FreeBSD&amp;action=edit&amp;redlink=1" class="new" title="FreeBSD (page does not exist)">FreeBSD</a>, this feature is controlled by the socket option <code>IPV6_V6ONLY</code>, as specified in <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc3493">RFC 3493</a>.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Hardware_and_embedded_systems">Hardware and embedded systems</span></h3>
+<p>Low-level equipment such as <a href="/w/index.php?title=Network_adapter&amp;action=edit&amp;redlink=1" class="new" title="Network adapter (page does not exist)">network adapters</a> and <a href="/wiki/Network_switch" title="Network switch">network switches</a> may not be affected by the change, since they transmit link-layer frames without inspecting the contents. However, networking devices that obtain IP addresses or perform routing of IP packets do need to understand IPv6.
+</p><p>Most equipment would be IPv6 capable with a software or firmware update if the device has sufficient storage and memory space for the new IPv6 stack. However, manufacturers may be reluctant to spend on software development costs for hardware they have already sold when they are poised for new sales from IPv6-ready equipment.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>In some cases, non-compliant equipment needs to be replaced because the manufacturer no longer exists or software updates are not possible, for example, because the network stack is implemented in permanent <a href="/w/index.php?title=Read-only_memory&amp;action=edit&amp;redlink=1" class="new" title="Read-only memory (page does not exist)">read-only memory</a>.
+</p><p>The <a href="/w/index.php?title=CableLabs&amp;action=edit&amp;redlink=1" class="new" title="CableLabs (page does not exist)">CableLabs</a> consortium published the 160 Mbit/s <a href="/wiki/DOCSIS" title="DOCSIS">DOCSIS</a> 3.0 IPv6-ready specification for <a href="/wiki/Cable_modem" title="Cable modem">cable modems</a> in August 2006. The widely used DOCSIS 2.0 does not support IPv6. The new 'DOCSIS 2.0 + IPv6' standard supports IPv6, which may on the cable modem side require only a firmware upgrade.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup> It is expected that only 60% of cable modems' servers and 40% of cable modems will be DOCSIS 3.0 by 2011.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup> However, most ISPs that support DOCSIS 3.0 do not support IPv6 across their networks.
+</p><p>Other equipment which is typically not IPv6-ready ranges from Voice over Internet Protocol devices to laboratory equipment and printers.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<h3><span class="mw-headline" id="Shadow_networks">Shadow networks</span></h3>
+<p>A side effect of IPv6 implementation may be the emergence of so-called "shadow networks" caused by IPv6 traffic flowing into IPv4 networks when IPv6 enabled nodes are added to the existing network, and the IPv4 security in place is unable to properly identify it.  This may occur with operating system upgrades, when the newer OS enables IPv6 support by default, while the older one did not.  Failing to update the security infrastructure to accommodate IPv6 can lead to IPv6 traffic bypassing it.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup>  Shadow networks have been found occurring on business networks in which enterprises are replacing <a href="/wiki/Windows_XP" title="Windows XP">Windows XP</a> systems, that do not have an IPv6 stack enabled by default, with <a href="/wiki/Windows_7" title="Windows 7">Windows 7</a> systems, which do.<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Deployment">Deployment</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>The introduction of <a href="/wiki/Classless_Inter-Domain_Routing" title="Classless Inter-Domain Routing">Classless Inter-Domain Routing</a> (CIDR) in the Internet routing and IP address allocation methods in 1993 and the extensive use of <a href="/wiki/Network_address_translation" title="Network address translation">network address translation</a> (NAT) delayed the inevitable <a href="/w/index.php?title=IPv4_address_exhaustion&amp;action=edit&amp;redlink=1" class="new" title="IPv4 address exhaustion (page does not exist)">IPv4 address exhaustion</a>, but the final phase of exhaustion started on 3 February 2011.<sup id="cite_ref-IPv4_Address_Report_60-0" class="reference"><a href="#cite_note-IPv4_Address_Report-60">[60]</a></sup> However, despite a decade long development and implementation history as a Standards Track protocol, general worldwide deployment is still in its infancy.  <a href="/w/index.php?title=Template:As_of&amp;action=edit&amp;redlink=1" class="new" title="Template:As of (page does not exist)">Template:As of</a>, about 4% of domain names and 16.2% of the networks on the internet have IPv6 protocol support.<sup id="cite_ref-hestat_61-0" class="reference"><a href="#cite_note-hestat-61">[61]</a></sup>
+</p><p>IPv6 has been implemented on all major operating systems in use in commercial, business, and home consumer environments. Since 2008, the <a href="/w/index.php?title=Domain_name_system&amp;action=edit&amp;redlink=1" class="new" title="Domain name system (page does not exist)">domain name system</a> can be used in IPv6. IPv6 was first used in a major world event during the <a href="/w/index.php?title=2008_Summer_Olympic_Games&amp;action=edit&amp;redlink=1" class="new" title="2008 Summer Olympic Games (page does not exist)">2008 Summer Olympic Games</a>,<sup id="cite_ref-beijing2008-pressrelease_62-0" class="reference"><a href="#cite_note-beijing2008-pressrelease-62">[62]</a></sup> the largest showcase of IPv6 technology since the inception of IPv6.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup> Some governments including the <a href="/wiki/Federal_government_of_the_United_States" title="Federal government of the United States">Federal U.S. Government</a> and <a href="/wiki/China" title="China">China</a> are also starting to require IPv6 capability on their equipment.
+</p><p>In 2009, Verizon mandated IPv6 operation and deprecated IPv4 as an optional capability for cellular (LTE) hardware.<sup id="cite_ref-verizon_64-0" class="reference"><a href="#cite_note-verizon-64">[64]</a></sup> T-Mobile USA followed suit.  <a href="/w/index.php?title=Template:As_of&amp;action=edit&amp;redlink=1" class="new" title="Template:As of (page does not exist)">Template:As of</a>, T-Mobile USA supports external IPv6 access.<sup id="cite_ref-t-mobile_65-0" class="reference"><a href="#cite_note-t-mobile-65">[65]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li> <a href="/w/index.php?title=China_Next_Generation_Internet&amp;action=edit&amp;redlink=1" class="new" title="China Next Generation Internet (page does not exist)">China Next Generation Internet</a>
+</li>
+<li> <a href="/w/index.php?title=Comparison_of_IPv6_application_support&amp;action=edit&amp;redlink=1" class="new" title="Comparison of IPv6 application support (page does not exist)">Comparison of IPv6 application support</a>
+</li>
+<li> <a href="/w/index.php?title=Comparison_of_IPv6_support_by_major_transit_providers&amp;action=edit&amp;redlink=1" class="new" title="Comparison of IPv6 support by major transit providers (page does not exist)">Comparison of IPv6 support by major transit providers</a>
+</li>
+<li> <a href="/w/index.php?title=Comparison_of_IPv6_support_in_operating_systems&amp;action=edit&amp;redlink=1" class="new" title="Comparison of IPv6 support in operating systems (page does not exist)">Comparison of IPv6 support in operating systems</a>
+</li>
+<li> <a href="/w/index.php?title=Comparison_of_IPv6_support_in_routers&amp;action=edit&amp;redlink=1" class="new" title="Comparison of IPv6 support in routers (page does not exist)">Comparison of IPv6 support in routers</a>
+</li>
+<li> <a href="/w/index.php?title=DoD_IPv6_Product_Certification&amp;action=edit&amp;redlink=1" class="new" title="DoD IPv6 Product Certification (page does not exist)">DoD IPv6 Product Certification</a>
+</li>
+<li> <a href="/w/index.php?title=List_of_IPv6_tunnel_brokers&amp;action=edit&amp;redlink=1" class="new" title="List of IPv6 tunnel brokers (page does not exist)">List of IPv6 tunnel brokers</a>
+</li>
+<li> <a href="/w/index.php?title=University_of_New_Hampshire_InterOperability_Laboratory&amp;action=edit&amp;redlink=1" class="new" title="University of New Hampshire InterOperability Laboratory (page does not exist)">University of New Hampshire InterOperability Laboratory</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Wikiversity&amp;action=edit&amp;redlink=1" class="new" title="Template:Wikiversity (page does not exist)">Template:Wikiversity</a>
+</p>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://www.haifux.org/lectures/187">IPv6 in the Linux Kernel </a> by Rami Rosen.
+</li>
+</ul>
+<ul>
+<li> <a href="/w/index.php?title=Template:Dmoz&amp;action=edit&amp;redlink=1" class="new" title="Template:Dmoz (page does not exist)">Template:Dmoz</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="https://www.nro.net/news/ipv4-free-pool-depleted">Free Pool of IPv4 Address Space Depleted</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="https://www.google.com/intl/en/ipv6/">An Introduction and Statistics about IPV6</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="https://ipv6test.google.com/">Google IPv6 check</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/redp4776.html?OpenDocument">IPv6 Introduction and Configuration</a> by IBM Redbooks
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:IPv6&amp;action=edit&amp;redlink=1" class="new" title="Template:IPv6 (page does not exist)">Template:IPv6</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.864 seconds
+Real time usage: 4.192 seconds
+Preprocessor visited node count: 1773/1000000
+Preprocessor generated node count: 12697/1000000
+Post‐expand include size: 9968/2097152 bytes
+Template argument size: 3991/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:9771-0!*!0!!en!2!* and timestamp 20161210001020
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/index.php?title=IPv6&amp;oldid=9771">http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/index.php?title=IPv6&amp;oldid=9771</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:IPv6&amp;action=edit&amp;redlink=1" class="new" title="Category:IPv6 (page does not exist)">IPv6</a></li><li><a href="/w/index.php?title=Category:Internet_layer_protocols&amp;action=edit&amp;redlink=1" class="new" title="Category:Internet layer protocols (page does not exist)">Internet layer protocols</a></li><li><a href="/w/index.php?title=Category:Internet_Protocol&amp;action=edit&amp;redlink=1" class="new" title="Category:Internet Protocol (page does not exist)">Internet Protocol</a></li><li><a href="/w/index.php?title=Category:Network_layer_protocols&amp;action=edit&amp;redlink=1" class="new" title="Category:Network layer protocols (page does not exist)">Network layer protocols</a></li><li><a href="/w/index.php?title=Category:1996_introductions&amp;action=edit&amp;redlink=1" class="new" title="Category:1996 introductions (page does not exist)">1996 introductions</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=IPv6" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/IPv6"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:IPv6&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/IPv6" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=IPv6&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=IPv6&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/IPv6" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/IPv6" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=IPv6&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=IPv6&amp;oldid=9771" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=IPv6&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 January 2014, at 05:16.</li>
+											<li id="footer-info-viewcount">This page has been accessed 631 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-167-4-20.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.266 secs. -->
+	</body>
+</html>

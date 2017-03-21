@@ -1,0 +1,78 @@
+#! /bin/bash
+# ./[deploy|run|stop]CDN -p <port> -o <origin> -n <name> -u <username> -i <keyfile>
+
+DNS_SERVER=cs5700cdnproject.ccs.neu.edu
+LOGIN_SERVER=login.ccs.neu.edu
+
+KEYFILE=~/.ssh/id_rsa
+
+PORT=40015
+ORIGIN=ec2-54-167-4-20.compute-1.amazonaws.com
+NAME=cs5700cdn.example.com
+USERNAME=wuhao
+HOSTS_TEXT_NAME="hosts.txt"
+
+# ./deployCDN -p 50005 -o ec2-54-167-4-20.compute-1.amazonaws.com -n cs5700cdn.example.com -u wuhao -i '~/.ssh/id_rsa'
+
+# only username and keyfile is required
+while getopts "p::o::u:n::i:" opt; do
+    case $opt in
+        p)
+        PORT=$OPTARG        
+        ;;
+
+        o)
+        ORIGIN=$OPTARG
+        ;;
+
+        n)
+        NAME=$OPTARG
+        ;;
+
+        u)
+        USERNAME=$OPTARG
+        ;;
+
+        i)
+        KEYFILE=$OPTARG
+        ;;
+
+        \?)
+        echo "Invalid option: -$OPTARG"
+        ;;
+esac
+done
+
+echo "port:" $PORT
+echo "origin:" $ORIGIN
+echo "name:" $NAME
+echo "username" $USERNAME
+echo "keyfile:" $KEYFILE
+
+# deploying to dns server
+DNS_DIR="/home/$USERNAME/cdn"
+VIM_DIR="~/.vimrc"
+echo "----------Deploying files to DNS server-----------------------------------------"
+echo $DNS_DIR
+
+ssh -i $KEYFILE $USERNAME@$DNS_SERVER 'mkdir cdn'
+# scp -i $KEYFILE {dnsserver*,hostselector.py} $USERNAME@$DNS_SERVER:$DNS_DIR
+scp -i $KEYFILE {dnsserver*,hostselector.py} $USERNAME@$DNS_SERVER:$DNS_DIR
+
+# deploying to http servers
+# HTTP_DIR="/home/$USERNAME/cdn"
+HTTP_DIR="~/"
+echo "----------Deploying files to HTTP server----------------------------------------"
+echo $HTTP_DIR
+
+# reading servers from a local text file 'hosts.txt'
+while read -r SERVER
+do
+    name="$SERVER"
+    ssh -n -i $KEYFILE $USERNAME@$SERVER 'mkdir cache'
+    scp -i $KEYFILE {httpserver,httpserver.py} $USERNAME@$SERVER:$HTTP_DIR
+    scp -i $KEYFILE hosts.txt $USERNAME@$SERVER:$HTTP_DIR
+    scp -i $KEYFILE -r cache $USERNAME@$SERVER:$HTTP_DIR
+    scp -i $KEYFILE .vimrc $USERNAME@$SERVER:$HTTP_DIR
+    echo $SERVER
+done < "hosts.txt"

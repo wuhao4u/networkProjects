@@ -1,0 +1,151 @@
+#!/usr/bin/env python
+import os
+import re
+import sys
+import socket
+import fbLogin
+import fbSearcher
+import fbCommunicator
+import fbCookiesManager
+from collections import deque
+import time
+
+BUFFERSIZE = 8192
+ROOT_URL = "http://cs5700f16.ccs.neu.edu/fakebook/"
+HOSTNAME = "cs5700f16.ccs.neu.edu"
+PORT = 80
+USERNAME = "001606723"
+PASSWORD = "8YPF8WSP"
+
+# build_client_socket : String Integer -> Socket
+# Given: The hostname and the port number of the desired connection
+# Return: a socket object with given address
+# Design Strategy: combine simpler functions
+def build_client_socket(hostname, port):
+    # setting up a client socket for send/receive packets
+    try:
+        hostName = socket.gethostbyname(hostname)
+    except socket.error, errStr:
+        print "problem resolving the hostname: {}, {}".format(hostName, errStr)
+
+    clientSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    clientSocket.settimeout(30)
+
+    try:
+        clientSocket.connect((hostname, port))
+    except socket.error, errStr:
+        print "problem connecting: {}".format(errStr)
+        sys.exit(1)
+
+    return clientSocket
+
+# crawl_pages : Socket FBCookie String -> None
+# Given: A connected socket, a cookie for crawler to send HTTP requests, and the root url
+# Return: None, since the main task is to print secret flags
+# Design Strategy: Devide into cases based on the statusCode conditions
+def crawl_pages(clientSocket, cookie, root):
+    # starting crawl pages in fakebook
+    frontierPages = deque([root])
+    visitedPages = []
+    flagsFound = 0
+
+    while len(frontierPages) != 0 and flagsFound < 5:
+        # actually crawling the page
+        pageUrl = frontierPages.popleft()
+        
+        htmlResponse = fbCommunicator.send_get_with_cookie(clientSocket, pageUrl.replace("http://cs5700f16.ccs.neu.edu", ""), cookie)
+
+        statusCode = fbSearcher.search_status(htmlResponse)
+
+        searchResult = []
+
+        if statusCode == "500 INTERNAL SERVER ERROR" or statusCode == "5XX":
+            clientSocket = build_client_socket(HOSTNAME, PORT)
+            frontierPages.append(pageUrl)
+        elif statusCode == "301 MOVED PERMANENTLY" or statusCode == "302 FOUND" or statusCode == "3XX":
+            redirUrl = fbSearcher.search_location(htmlResponse)
+            if redirUrl:
+                frontierPages.append(redirUrl)
+            else:
+                print "Fail redirecting url {}\n{}".format(pageUrl, htmlResponse)
+            visitedPages.append(pageUrl)
+        elif statusCode == "403 FORBIDDEN" or statusCode == "404 NOT FOUND" or statusCode == "4XX" :
+            visitedPages.append(pageUrl)
+        else:
+            # if none of the above code applies, search the html for flags anyway
+            # ok
+            newUrls, fCount = fbSearcher.search_page(htmlResponse)
+            if fCount != 0:
+                flagsFound += fCount
+
+            for newUrl in newUrls:
+                visited = False
+                # search through the visitedPages to see whether this new url is visited
+                for visitedPage in visitedPages:
+                    if newUrl == visitedPage: 
+                        visited = True
+                        break
+                # if not visited, search through frontierPages to see whether it is added
+                if (visited == False) and frontierPages:
+                    for frontierPage in frontierPages:
+                        if newUrl == frontierPage:
+                            visited = True
+                            break
+                # if neither visited nor added, add it to the frontierPages
+                if visited == False:
+                    frontierPages.append(newUrl)
+                visitedPages.append(pageUrl)
+
+        # connection check
+        ifClosed = re.search("Connection: close",htmlResponse)
+        if ifClosed:
+            clientSocket = build_client_socket(HOSTNAME, PORT)
+
+# main : String[] -> None
+# GIVEN: the string list of commands
+# WHERE: the 2 commands are username and password, in that order
+# EFFECT: runs the crawler for the 'fakebook', and print out 5 secret flags in the terminal
+# RETURNS: None
+def main(argv):
+    if len(argv) != 2:
+        print("./webcrawler [username] [password]")
+        sys.exit(2)
+    else:
+        USERNAME = argv[0]
+        PASSWORD = argv[1]
+
+    # instantiate the client socket object
+    clientSocket = build_client_socket(HOSTNAME, PORT)
+
+    cookie = fbCookiesManager.FBCookie("", "")
+
+    # we will try 10 times. if the login still not successful, 
+    # user must manually re-run the program
+    retryCounter = 0
+    loginSuccess = False
+    while retryCounter < 11:
+        # logging in to the fakebook, and getting a Cookie
+        loginResponse = fbLogin.fb_login(clientSocket, USERNAME, PASSWORD, cookie)
+        retryCounter += 1
+        # the login page will return "302 FOUND" if the login was successful
+        if fbSearcher.search_status(loginResponse) == "302 FOUND":
+            loginSuccess = True
+            break
+        else:
+            clientSocket.shutdown(1)
+            clientSocket.close()
+            clientSocket = build_client_socket(HOSTNAME, PORT)
+
+    if loginSuccess:
+        crawl_pages(clientSocket, cookie, ROOT_URL)
+    else:
+        print "Login failed, please re-try with the correct username & password."
+    
+    # close socket
+    clientSocket.shutdown(1)
+    clientSocket.close()
+
+if __name__ == '__main__':
+    start_time = time.time()
+    main(sys.argv[1:])
+    print "--- %s seconds ---" % (time.time() - start_time)

@@ -1,0 +1,27 @@
+Project 1: Simple Client
+A client program which communicates with a server using sockets. The server will ask your program to solve hundreds of simple mathematical expressions. If your program successfully solves all of the expressions, then the server will return a secret flag that is unique for each student. If you receive the secret flag, then you know that your program has run successfully, and you will receive full credit for the assignment.
+
+Project Description:
+http://david.choffnes.com/classes/cs4700fa16/project1.php
+
+
+
+CS 5700 Project1
+Team Baby Pandas: Hao Wu, Yiming Hao
+
+1. High-level approach
+
+We seperated this program into three functions.
+
+"main" function handles command line options with "getopt" library and then pass commands as parameters to the connect function.
+
+"connect" function is reponsible for anything that is related to the network connections, such as creating client socket, manipulating socket for sending/receiving, and parsing messages.
+
+"calculate" function is an unility function which takes an response message string, then parse and calculates it based on the mathmetical symbol in the response. Finally, returns the math result as an integer.
+
+2. Challenges we faced
+We did not realize that the connection will not establish outside of the NU network in the first.
+We also had a hard time when the DNS could not find the IP for cs5700f16.ccs.neu.edu, but these question eventually got solved.
+
+3. How we tested our code.
+We were trying different host name, port number, and NUID for testing purposes. These test cases included illegal inputs.
